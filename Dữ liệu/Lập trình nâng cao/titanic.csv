@@ -1,0 +1,2457 @@
+Titanic passager,Status,Home Country,Age,Crew or Passenger?,Gender,Class / Department,Ticket Number,Fare Price
+"DE GRASSE, Mr J.",,,,Passenger,Male,2nd Class,761,£1
+"EVANS, Miss",,,,Passenger,Female,2nd Class,88,£1
+"MULLEN,",,,,Passenger,Female,2nd Class,404,£1
+"WOTTON, Mr Henry Swaffin",,,54.0,Passenger,Male,1st Class,86,£1 10s
+"BRAND, Mr",,,,Passenger,Male,1st Class,8,£1 10s
+"FLETCHER, Miss N.",,,,Passenger,Female,1st Class,405,£1 10s
+"LENOX-CONYNGHAM, Miss Alice",,,,Passenger,Female,1st Class,75,£1 10s
+"COLERIDGE, Mr Reginald Charles",Victim,England,29.0,Passenger,Male,2nd Class,14263,£10 10s
+"STOKES, Mr Philip Joseph",Victim,England,25.0,Passenger,Male,2nd Class,13540,£10 10s
+"REEVES, Mr David",Victim,England,36.0,Passenger,Male,2nd Class,17248,£10 10s
+"PARKER, Mr Clifford Richard",Victim,Channel Islands,28.0,Passenger,Male,2nd Class,14888,£10 10s
+"MITCHELL, Mr Henry Michael",Victim,Channel Islands,71.0,Passenger,Male,2nd Class,24580,£10 10s
+"PAIN, Dr Alfred",Victim,Canada,23.0,Passenger,Male,2nd Class,244278,£10 10s
+"LEYSON, Mr Robert William Norman",Victim,England,25.0,Passenger,Male,2nd Class,29566,£10 10s
+"WHEADON, Mr Edward H.",Victim,Channel Islands,66.0,Passenger,Male,2nd Class,24579,£10 10s
+"BAINBRIGGE, Mr Charles Robert",Victim,Channel Islands,23.0,Passenger,Male,2nd Class,31030,£10 10s
+"OXENHAM, Mr Percy Thomas",Survivor,England,22.0,Passenger,Male,2nd Class,14260,£10 10s
+"KVILLNER, Mr Johan Henrik Johannesson",Victim,Sweden,31.0,Passenger,Male,2nd Class,18723,£10 10s
+"ANDREW, Mr Frank Thomas",Victim,England,25.0,Passenger,Male,2nd Class,34050,£10 10s
+"BANFIELD, Mr Frederick James",Victim,England,28.0,Passenger,Male,2nd Class,34068,£10 10s
+"JENKIN, Mr Stephen Curnow",Victim,England,32.0,Passenger,Male,2nd Class,33111,£10 10s
+"PENGELLY, Mr Frederick William",Victim,England,19.0,Passenger,Male,2nd Class,28665,£10 10s
+"FILLBROOK, Mr Joseph Charles",Victim,England,18.0,Passenger,Male,2nd Class,15185,£10 10s
+"MELLORS, Mr William John",Survivor,England,19.0,Passenger,Male,2nd Class,751,£10 10s
+"TOOMEY, Miss Ellen Mary",Survivor,United States,48.0,Passenger,Female,2nd Class,13531,£10 10s
+"COLLETT, Mr Sidney Clarence Stuart",Survivor,England,25.0,Passenger,Male,2nd Class,28034,£10 10s
+"COOK, Mrs Selena",Survivor,,22.0,Passenger,Female,2nd Class,14266,£10 10s
+"HARRIS, Mr George",Survivor,England,62.0,Passenger,Male,2nd Class,752,£10 10s
+"ILETT, Miss Bertha",Survivor,Channel Islands,17.0,Passenger,Female,2nd Class,14885,£10 10s
+"LEMORE, Mrs Amelia ""Milley""",Survivor,United States,34.0,Passenger,Female,2nd Class,34260,£10 10s
+"NYE, Mrs Elizabeth",Survivor,United States,29.0,Passenger,Female,2nd Class,29395,£10 10s
+"RIDSDALE, Miss Lucy",Survivor,England,58.0,Passenger,Female,2nd Class,14258,£10 10s
+"RUGG, Miss Emily",Survivor,Channel Islands,21.0,Passenger,Female,2nd Class,31026,£10 10s
+"TROUTT, Miss Edwina Celia",Survivor,England,27.0,Passenger,Female,2nd Class,34218,£10 10s
+"GAVEY, Mr Laurence",Victim,Channel Islands,26.0,Passenger,Male,2nd Class,31028,£10 10s
+"GILBERT, Mr William",Victim,England,47.0,Passenger,Male,2nd Class,30769,£10 10s
+"HARRIS, Mr Walter",Victim,England,30.0,Passenger,Male,2nd Class,14208,£10 10s
+"MACK, Mrs Mary",Victim,England,57.0,Passenger,Female,2nd Class,S.O./C. 3,£10 10s
+"MUDD, Mr Thomas Cupper",Victim,England,16.0,Passenger,Male,2nd Class,S.O./P.P 3,£10 10s
+"ROGERS, Mr Reginald Harry",Victim,England,18.0,Passenger,Male,2nd Class,28004,£10 10s
+"SLEMEN, Mr Richard James",Victim,England,35.0,Passenger,Male,2nd Class,28206,£10 10s
+"WARE, Mr William Jeffery",Victim,England,23.0,Passenger,Male,2nd Class,28666,£10 10s
+"DAHLBERG, Miss Gerda Ulrika",Victim,Sweden,22.0,Passenger,Female,3rd Class,7552,£10 10s 4d
+"LAMB, Mr John Joseph",Victim,Ireland,30.0,Passenger,Male,2nd Class,240261,£10 14s 2d
+"DAKIC, Mr Branko",Victim,,19.0,Passenger,Male,3rd Class,349228,£10 3s 5d
+"STRöM, Miss Telma Matilda",Victim,United States,2.0,Passenger,Female,3rd Class,347054,£10 9s 3d
+"STRöM, Mrs Elna Matilda",Victim,,29.0,Passenger,Female,3rd Class,347054,£10 9s 3d
+"HOYT, Mr Frederick Maxfield",Survivor,United States,38.0,Passenger,Male,1st Class,19943,£100
+"HOYT, Mrs Jane Anne",Survivor,United States,31.0,Passenger,Female,1st Class,19943,£100
+"LEROY, Miss Berthe",Survivor,,27.0,Passenger,Female,1st Class,17761,£106 8s 6d
+"DOUGLAS, Mrs Mahala",Survivor,United States,48.0,Passenger,Female,1st Class,17761,£106 8s 6d
+"DOUGLAS, Mr Walter Donald",Victim,United States,50.0,Passenger,Male,1st Class,17761,£106 8s 6d
+"PEñASCO Y CASTELLANA, Mrs Maria Josefa Perezde Soto y Vallejo",Survivor,Spain,22.0,Passenger,Female,1st Class,17758,£108 18s
+"PEñASCO Y CASTELLANA, Mr Victor",Victim,Spain,24.0,Passenger,Male,1st Class,17758,£108 18s
+"OLIVA Y OCANA, Doña Fermina",Survivor,Spain,39.0,Passenger,Female,1st Class,17758,£108 18s
+"HOCKING, Mr Richard George",Victim,England,23.0,Passenger,Male,2nd Class,29104,£11 10s
+"BAILEY, Mr Percy",Victim,England,15.0,Passenger,Male,2nd Class,29108,£11 10s
+"COTTERILL, Mr Henry ""Harry""",Victim,England,20.0,Passenger,Male,2nd Class,29107,£11 10s
+"GILES, Mr Edgar",Victim,England,21.0,Passenger,Male,2nd Class,28133,£11 10s
+"GILES, Mr Frederick Edward",Victim,England,20.0,Passenger,Male,2nd Class,28134,£11 10s
+"ANDREW, Mr Edgar Samuel",Victim,Argentina,17.0,Passenger,Male,2nd Class,231945,£11 10s
+"JOHNSON, Master Harold Theodor",Survivor,,4.0,Passenger,Male,3rd Class,347742,£11 2s 8d
+"JOHNSON, Miss Eleanor Ileen",Survivor,,1.0,Passenger,Female,3rd Class,347742,£11 2s 8d
+"JOHNSON, Mrs Elisabeth Vilhelmina",Survivor,,26.0,Passenger,Female,3rd Class,347742,£11 2s 8d
+"NICOLA-YARRED, Master Elias (""Louis Garrett"")",Survivor,Lebanon,11.0,Passenger,Male,3rd Class,2651,£11 4s 10d
+"NICOLA-YARRED, Miss Jamila (""Amelia Garrett"")",Survivor,Lebanon,14.0,Passenger,Female,3rd Class,2651,£11 4s 10d
+"THAYER, Mr John Borland",Victim,United States,49.0,Passenger,Male,1st Class,17421,£110 17s 8d
+"FLEMING, Miss Margaret",Survivor,,42.0,Passenger,Female,1st Class,17421,£110 17s 8d
+"THAYER, Mr John Borland jr",Survivor,United States,17.0,Passenger,Male,1st Class,17421,£110 17s 8d
+"THAYER, Mrs Marian Longstreth",Survivor,United States,39.0,Passenger,Female,1st Class,17421,£110 17s 8d
+"NEWELL, Miss Madeleine",Survivor,United States,31.0,Passenger,Female,1st Class,35273,£113 5s 6d
+"NEWELL, Miss Marjorie Anne",Survivor,United States,23.0,Passenger,Female,1st Class,35273,£113 5s 6d
+"NEWELL, Mr Arthur Webster",Victim,United States,58.0,Passenger,Male,1st Class,35273,£113 5s 6d
+"LEHMANN, Miss Bertha",Survivor,Switzerland,17.0,Passenger,Female,2nd Class,1748,£12
+"BATEMAN, Fr Robert James",Victim,United States,51.0,Passenger,Male,2nd Class,1166,£12 10s 6d
+"TROUT, Mrs Jessie L.",Survivor,United States,26.0,Passenger,Female,2nd Class,240929,£12 13s
+"PORTALUPPI, Mr Emilio Ilario Giuseppe",Survivor,United States,30.0,Passenger,Male,2nd Class,34644,£12 14s 9d
+"LéVY, Mr René Jacques",Victim,Canada,36.0,Passenger,Male,2nd Class,2163,£12 17s 6d
+"WHEELER, Mr Edwin Charles",Victim,England,24.0,Passenger,Male,2nd Class,2159,£12 17s 6d
+"KLASéN, Mrs Hulda Kristina Eugenia",Victim,Sweden,36.0,Passenger,Female,3rd Class,350405,£12 3s 8d
+"KLASéN, Miss Gertrud Emilia",Victim,Sweden,1.0,Passenger,Female,3rd Class,350405,£12 3s 8d
+"HUNT, Mr George Henry",Victim,England,33.0,Passenger,Male,2nd Class,1585,£12 5s 6d
+"HIRVONEN, Miss Hildur Elisabeth",Survivor,Finland,2.0,Passenger,Female,3rd Class,3101298,£12 5s 9d
+"HIRVONEN, Mrs Helga Elisabeth Lindqvist",Survivor,Finland,22.0,Passenger,Female,3rd Class,3101298,£12 5s 9d
+"LINNANE, Mr John",Victim,United States,61.0,Passenger,Male,2nd Class,235509,£12 7s
+"KIRKLAND, Fr Charles Leonard",Victim,United States,52.0,Passenger,Male,2nd Class,219533,£12 7s
+"KEANE, Miss Nora Agnes",Survivor,United States,46.0,Passenger,Female,2nd Class,226593,£12 7s
+"SLAYTER, Miss Hilda Mary",Survivor,Canada,30.0,Passenger,Female,2nd Class,234818,£12 7s
+"KEANE, Mr Daniel",Victim,Ireland,35.0,Passenger,Male,2nd Class,233734,£12 7s
+"DOWDELL, Miss Elizabeth",Survivor,United States,31.0,Passenger,Female,3rd Class,364516,£12 9s 6d
+"MOOR, Mrs Beila",Survivor,,29.0,Passenger,Female,3rd Class,392096,£12 9s 6d
+"EMANUEL, Miss Virginia Ethel",Survivor,United States,5.0,Passenger,Female,3rd Class,364516,£12 9s 6d
+"MOOR, Master Meier",Survivor,,7.0,Passenger,Male,3rd Class,392096,£12 9s 6d
+"CARTER, Master William Thornton II",Survivor,United States,11.0,Passenger,Male,1st Class,113760,£120
+"CARTER, Miss Lucile Polk",Survivor,United States,13.0,Passenger,Female,1st Class,113760,£120
+"CARTER, Mr William Ernest",Survivor,United States,36.0,Passenger,Male,1st Class,113760,£120
+"CARTER, Mrs Lucile",Survivor,United States,36.0,Passenger,Female,1st Class,113760,£120
+"MEYER, Mr August",Victim,England,31.0,Passenger,Male,2nd Class,248723,£13
+"ALDWORTH, Mr Charles Augustus",Victim,United States,30.0,Passenger,Male,2nd Class,248744,£13
+"GILL, Mr John William",Victim,England,24.0,Passenger,Male,2nd Class,233866,£13
+"SWANE, Mr George",Victim,England,19.0,Passenger,Male,2nd Class,248734,£13
+"MATTHEWS, Mr William John",Victim,England,30.0,Passenger,Male,2nd Class,28228,£13
+"HARBECK, Mr William H.",Victim,United States,44.0,Passenger,Male,2nd Class,248746,£13
+"HOSONO, Mr Masabumi",Survivor,Japan,41.0,Passenger,Male,2nd Class,237798,£13
+"GILLESPIE, Mr William Henry",Victim,Ireland,31.0,Passenger,Male,2nd Class,12233,£13
+"BROWN, Miss Amelia Mary",Survivor,England,18.0,Passenger,Female,2nd Class,248733,£13
+"NESSON, Mr Israel",Victim,England,26.0,Passenger,Male,2nd Class,244368,£13
+"HALE, Mr Reginald",Victim,United States,30.0,Passenger,Male,2nd Class,250653,£13
+"MILLING, Mr Jacob Christian",Victim,Denmark,48.0,Passenger,Male,2nd Class,234360,£13
+"BUTLER, Mr Reginald Fenton",Victim,England,25.0,Passenger,Male,2nd Class,234686,£13
+"BOWENUR, Mr Solomon",Victim,,42.0,Passenger,Male,2nd Class,211535,£13
+"CARBINES, Mr William",Victim,England,19.0,Passenger,Male,2nd Class,28424,£13
+"FUNK, Miss Annie Clemmer",Victim,India,38.0,Passenger,Female,2nd Class,237671,£13
+"HODGES, Mr Henry Price",Victim,England,50.0,Passenger,Male,2nd Class,250643,£13
+"CORBETT, Mrs Irene",Victim,United States,30.0,Passenger,Female,2nd Class,237249,£13
+"MCCRIE, Mr James Matthew",Victim,Canada,32.0,Passenger,Male,2nd Class,233478,£13
+"HOCKING, Mr Samuel James Metcalfe",Victim,England,36.0,Passenger,Male,2nd Class,242963,£13
+"BYLES, Fr Thomas Roussel Davids",Victim,England,42.0,Passenger,Male,2nd Class,244310,£13
+"MONTVILA, Fr Juozas",Victim,England,27.0,Passenger,Male,2nd Class,211536,£13
+"PERUSCHITZ, Fr Josef",Victim,Germany,41.0,Passenger,Male,2nd Class,237393,£13
+"SOBEY, Mr Samuel James Hayden",Victim,England,25.0,Passenger,Male,2nd Class,29178,£13
+"TROUPIANSKY, Mr Moses Aaron",Victim,England,23.0,Passenger,Male,2nd Class,233639,£13
+"WILLIAMS, Mr Charles Eugene",Survivor,England,23.0,Passenger,Male,2nd Class,244373,£13
+"BRACKEN, Mr James H.",Victim,United States,29.0,Passenger,Male,2nd Class,220367,£13
+"OTTER, Mr Richard",Victim,United States,38.0,Passenger,Male,2nd Class,28213,£13
+"BEESLEY, Mr Lawrence",Survivor,England,34.0,Passenger,Male,2nd Class,248698,£13
+"BALL, Mrs Ada E.",Survivor,England,36.0,Passenger,Female,2nd Class,28551,£13
+"BENTHAM, Miss Lillian W.",Survivor,United States,19.0,Passenger,Female,2nd Class,28404,£13
+"BUSS, Miss Kate",Survivor,England,36.0,Passenger,Female,2nd Class,27849,£13
+"BYSTRöM, Mrs Karolina",Survivor,United States,40.0,Passenger,Female,2nd Class,236852,£13
+"DAVIS, Miss Mary",Survivor,England,28.0,Passenger,Female,2nd Class,237668,£13
+"GARSIDE, Miss Ethel",Survivor,,34.0,Passenger,Female,2nd Class,243880,£13
+"PINSKY, Mrs Rosa",Survivor,,32.0,Passenger,Female,2nd Class,234604,£13
+"REYNALDS, Sra. Encarnación",Survivor,Spain,28.0,Passenger,Female,2nd Class,230434,£13
+"SILVéN, Miss Lyyli Karoliina",Survivor,Finland,17.0,Passenger,Female,2nd Class,250652,£13
+"SINKKONEN, Miss Anna",Survivor,United States,29.0,Passenger,Female,2nd Class,250648,£13
+"SMITH, Miss Marion Elsie",Survivor,England,39.0,Passenger,Female,2nd Class,31418,£13
+"WEBBER, Miss Susan",Survivor,England,37.0,Passenger,Female,2nd Class,27267,£13
+"WILHELMS, Mr Charles",Survivor,England,32.0,Passenger,Male,2nd Class,244270,£13
+"ASHBY, Mr John",Victim,United States,57.0,Passenger,Male,2nd Class,244346,£13
+"BERRIMAN, Mr William John",Victim,England,23.0,Passenger,Male,2nd Class,28425,£13
+"BOTSFORD, Mr William Hull",Victim,United States,25.0,Passenger,Male,2nd Class,237670,£13
+"BRITO, Mr José Joaquim de",Victim,,32.0,Passenger,Male,2nd Class,244360,£13
+"COLLANDER, Mr Erik Gustaf",Victim,Finland,27.0,Passenger,Male,2nd Class,248740,£13
+"EITEMILLER, Mr George Floyd",Victim,England,23.0,Passenger,Male,2nd Class,29751,£13
+"ENANDER, Mr Ingvar",Victim,Sweden,21.0,Passenger,Male,2nd Class,236854,£13
+"FAHLSTRøM, Mr Arne Joma",Victim,Norway,18.0,Passenger,Male,2nd Class,236171,£13
+"FOX, Mr Stanley Hubert",Victim,United States,38.0,Passenger,Male,2nd Class,229236,£13
+"GIVARD, Mr Hans Kristensen",Victim,Argentina,30.0,Passenger,Male,2nd Class,250646,£13
+"GREENBERG, Mr Samuel",Victim,South Africa,52.0,Passenger,Male,2nd Class,250647,£13
+"HILTUNEN, Miss Marta",Victim,Finland,18.0,Passenger,Female,2nd Class,250650,£13
+"PONESELL, Mr Martin",Victim,England,24.0,Passenger,Male,2nd Class,250647,£13
+"SCHMIDT, Mr August",Victim,United States,26.0,Passenger,Male,2nd Class,248659,£13
+"SEDGWICK, Mr Charles Frederick Waddington",Victim,England,25.0,Passenger,Male,2nd Class,244361,£13
+"VEAL, Mr James",Victim,United States,40.0,Passenger,Male,2nd Class,28221,£13
+"YVOIS, Miss Henriette",Victim,France,24.0,Passenger,Female,2nd Class,248747,£13
+"NORMAN, Mr Robert Douglas",Victim,Scotland,28.0,Passenger,Male,2nd Class,218629,£13 10s
+"MCCRAE, Mr Arthur Gordon",Victim,Australia,32.0,Passenger,Male,2nd Class,237216,£13 10s
+"KELLY, Mrs Fanny Maria",Survivor,England,45.0,Passenger,Female,2nd Class,223596,£13 10s
+"WRIGHT, Miss Marion",Survivor,England,26.0,Passenger,Female,2nd Class,220844,£13 10s
+"CHAPMAN, Mr Charles Henry",Victim,United States,52.0,Passenger,Male,2nd Class,248731,£13 10s
+"GILES, Mr Ralph",Victim,England,24.0,Passenger,Male,2nd Class,248726,£13 10s
+"SJöSTEDT, Mr Ernst Adolf",Victim,Sweden,59.0,Passenger,Male,2nd Class,237442,£13 10s
+"JERWAN, Mrs Marie Marthe",Survivor,United States,23.0,Passenger,Female,2nd Class,541,£13 15s 10d
+"PEACOCK, Master Alfred Edward",Victim,,0.58,Passenger,Male,3rd Class,3101315,£13 15s 6d
+"PEACOCK, Miss Treasteall",Victim,,3.0,Passenger,Female,3rd Class,3101315,£13 15s 6d
+"PEACOCK, Mrs Edith",Victim,,26.0,Passenger,Female,3rd Class,3101315,£13 15s 6d
+"DURáN I MONé, Sra. Florentina",Survivor,Spain,30.0,Passenger,Female,2nd Class,2148,£13 17s 2d
+"DURAN Y MORE, Sra. Asuncion",Survivor,Spain,27.0,Passenger,Female,2nd Class,2149,£13 17s 2d
+"PALLàS I CASTELLó, Sr. Emili",Survivor,Spain,29.0,Passenger,Male,2nd Class,2147,£13 17s 2d
+"PADRON MANENT, Mr Julian",Survivor,Spain,26.0,Passenger,Male,2nd Class,2146,£13 17s 3d
+"NOURNEY, Mr Alfred",Survivor,Germany,20.0,Passenger,Male,1st Class,2166,£13 17s 3d
+"DYKER, Mr Adolf Fredrik",Victim,United States,23.0,Passenger,Male,3rd Class,347072,£13 18s
+"DYKER, Mrs Anna Elisabeth Judith",Survivor,United States,22.0,Passenger,Female,3rd Class,347072,£13 18s
+"KARUN, Mr Franz",Survivor,United States,39.0,Passenger,Male,3rd Class,349256,£13 8s 4d
+"KARUN, Miss Manca",Survivor,,4.0,Passenger,Female,3rd Class,349256,£13 8s 4d
+"FRAUENTHAL, Dr Henry William",Survivor,United States,49.0,Passenger,Male,1st Class,17611,£133 13s
+"FRAUENTHAL, Mrs Clara",Survivor,United States,42.0,Passenger,Female,1st Class,17611,£133 13s
+"BURNS, Miss Elizabeth Margaret",Survivor,,41.0,Passenger,Female,1st Class,16966,£134 10s
+"WILSON, Miss Helen Alice",Survivor,,31.0,Passenger,Female,1st Class,16966,£134 10s
+"SPEDDEN, Master Robert Douglas",Survivor,United States,6.0,Passenger,Male,1st Class,16966,£134 10s
+"SPEDDEN, Mr Frederic Oakley",Survivor,United States,45.0,Passenger,Male,1st Class,16966,£134 10s
+"SPEDDEN, Mrs Margaretta Corning",Survivor,United States,39.0,Passenger,Female,1st Class,16966,£134 10s
+"RIGHINI, Mr Sante",Victim,,22.0,Passenger,Male,1st Class,17760,£135 12s 8d
+"WHITE, Mrs Ella",Survivor,,55.0,Passenger,Female,1st Class,17760,£135 12s 8d
+"YOUNG, Miss Marie Grice",Survivor,United States,36.0,Passenger,Female,1st Class,17760,£135 12s 8d
+"CLARK, Mrs Virginia Estelle",Survivor,United States,26.0,Passenger,Female,1st Class,13508,£136 15s 7d
+"CLARK, Mr Walter Miller",Victim,United States,27.0,Passenger,Male,1st Class,13508,£136 15s 7d
+"MORAWECK, Dr Ernest",Victim,United States,54.0,Passenger,Male,2nd Class,29011,£14
+"RISIEN, Mr Samuel Beard",Victim,England,69.0,Passenger,Male,3rd Class,364498,£14 10s
+"ROBINS, Mr Alexander A.",Victim,England,50.0,Passenger,Male,3rd Class,3337,£14 10s
+"GARFIRTH, Mr John",Victim,England,21.0,Passenger,Male,3rd Class,358585,£14 10s
+"PATCHETT, Mr George",Victim,England,19.0,Passenger,Male,3rd Class,358585,£14 10s
+"HäMäLäINEN, Master Viljo Unto Johannes",Survivor,United States,0.58,Passenger,Male,2nd Class,250649,£14 10s
+"HäMäLäINEN, Mrs Anna",Survivor,United States,23.0,Passenger,Female,2nd Class,250649,£14 10s
+"RISIEN, Mrs Emma",Victim,England,58.0,Passenger,Female,3rd Class,364498,£14 10s
+"ROBINS, Mrs Grace Charity",Victim,England,47.0,Passenger,Female,3rd Class,3337,£14 10s
+"VAN BILLIARD, Master James William",Victim,England,10.0,Passenger,Male,3rd Class,851,£14 10s
+"VAN BILLIARD, Master Walter John",Victim,England,9.0,Passenger,Male,3rd Class,851,£14 10s
+"VAN BILLIARD, Mr Austin Blyler",Victim,England,35.0,Passenger,Male,3rd Class,851,£14 10s
+"HANSEN, Mr Claus Peter",Victim,United States,41.0,Passenger,Male,3rd Class,350026,£14 2s 2d
+"HANSEN, Mrs Jennie Louise",Survivor,United States,45.0,Passenger,Female,3rd Class,350026,£14 2s 2d
+"DANBOM, Mr Ernst Gilbert",Victim,Sweden,34.0,Passenger,Male,3rd Class,347080,£14 8s
+"DANBOM, Master Gilbert Sigvard Emanuel",Victim,Sweden,0.33,Passenger,Male,3rd Class,347080,£14 8s
+"DANBOM, Mrs Anna Sigrid Maria",Victim,Sweden,28.0,Passenger,Female,3rd Class,347080,£14 8s
+"KHALIL, Mr Betros",Victim,Lebanon,25.0,Passenger,Male,3rd Class,2660,£14 9s 1d
+"KHALIL, Mrs Zahie ""Maria""",Victim,Lebanon,20.0,Passenger,Female,3rd Class,2660,£14 9s 1d
+"CHRONOPOULOS, Mr Apostolos M.",Victim,,26.0,Passenger,Male,3rd Class,2680,£14 9s 1d
+"CHRONOPOULOS, Mr Dimitrios M.",Victim,,21.0,Passenger,Male,3rd Class,2680,£14 9s 1d
+"YASBECK, Mr Antoni",Victim,Lebanon,27.0,Passenger,Male,3rd Class,2659,£14 9s 1d
+"BARBARA, Miss Saiide",Victim,Lebanon,18.0,Passenger,Female,3rd Class,2691,£14 9s 1d
+"BARBARA, Mrs Catherine David",Victim,Lebanon,45.0,Passenger,Female,3rd Class,2691,£14 9s 1d
+"JABBUR (ZABOUR), Miss Hileni",Victim,,16.0,Passenger,Female,3rd Class,2665,£14 9s 1d
+"JABBUR (ZABOUR), Miss Thamine",Victim,,19.0,Passenger,Female,3rd Class,2665,£14 9s 1d
+"YAZBECK, Mrs Selini",Survivor,Lebanon,15.0,Passenger,Female,3rd Class,2659,£14 9s 1d
+"CARAM, Mrs Maria Elias",Victim,Lebanon,18.0,Passenger,Female,3rd Class,2689,£14 9s 2d
+"CARAM, Mr Joseph",Victim,Canada,28.0,Passenger,Male,3rd Class,2689,£14 9s 2d
+"ATTALAH, Miss Malake",Victim,Lebanon,17.0,Passenger,Female,3rd Class,2627,£14 9s 2d
+"IBRAHIM SHAWAH, Mr Yousseff",Victim,Lebanon,33.0,Passenger,Male,3rd Class,2627,£14 9s 2d
+"LURETTE, Miss Eugénie Elise",Survivor,,59.0,Passenger,Female,1st Class,17569,£146 10s 5d
+"SPENCER, Mrs Marie Eugenie",Survivor,United States,45.0,Passenger,Female,1st Class,17569,£146 10s 5d
+"SPENCER, Mr William Augustus",Victim,United States,57.0,Passenger,Male,1st Class,17569,£146 10s 5d
+"JARVIS, Mr Denzil John",Victim,England,47.0,Passenger,Male,2nd Class,237565,£15
+"MCEVOY, Mr Michael",Victim,Ireland,19.0,Passenger,Male,3rd Class,36568,£15 10s
+"O'BRIEN, Mr Thomas",Victim,Ireland,27.0,Passenger,Male,3rd Class,370365,£15 10s
+"BOURKE, Mr John",Victim,Ireland,42.0,Passenger,Male,3rd Class,364849,£15 10s
+"LENNON, Mr Denis",Victim,Ireland,20.0,Passenger,Male,3rd Class,370371,£15 10s
+"O'BRIEN, Mrs Johanna ""Hannah""",Survivor,Ireland,26.0,Passenger,Female,3rd Class,370365,£15 10s
+"BOURKE, Mrs Catherine",Victim,Ireland,32.0,Passenger,Female,3rd Class,364849,£15 10s
+"MURPHY, Miss Catherine ""Kate""",Survivor,Ireland,18.0,Passenger,Female,3rd Class,367230,£15 10s
+"MURPHY, Miss Margaret Jane ""Mary"" ""Maggie""",Survivor,Ireland,25.0,Passenger,Female,3rd Class,367230,£15 10s
+"MURPHY, Miss Nora",Survivor,Ireland,34.0,Passenger,Female,3rd Class,36568,£15 10s
+"MULLIN, Miss Mary (_Lennon)",Victim,Ireland,18.0,Passenger,Female,3rd Class,370371,£15 10s
+"MALACHARD, Mr Jean-Noël",Victim,France,25.0,Passenger,Male,2nd Class,237735,£15 11d
+"RICHARD, Mr Emile Phillippe",Victim,,23.0,Passenger,Male,2nd Class,2133,£15 11d
+"STANTON, Mr Samuel Ward",Victim,United States,42.0,Passenger,Male,2nd Class,237734,£15 11d
+"LINDELL, Mr Edvard Bengtsson",Victim,Sweden,36.0,Passenger,Male,3rd Class,349910,£15 11s
+"LINDELL, Mrs Elin Gerda",Victim,Sweden,30.0,Passenger,Female,3rd Class,349910,£15 11s
+"MANGIAVACCHI, Mr Serafino Emilio",Victim,United States,30.0,Passenger,Male,2nd Class,32861,£15 11s 7d
+"NAKID, Miss Maria",Survivor,Lebanon,1.0,Passenger,Female,3rd Class,2653,£15 14s 10d
+"NAKID, Mr Sahid",Survivor,Lebanon,20.0,Passenger,Male,3rd Class,2653,£15 14s 10d
+"NAKID, Mrs Waika ""Mary""",Survivor,Lebanon,19.0,Passenger,Female,3rd Class,2653,£15 14s 10d
+"WATT, Miss Robertha Josephine",Survivor,Scotland,12.0,Passenger,Female,2nd Class,33595,£15 15s
+"WATT, Mrs Elizabeth ""Bessie"" Inglis",Survivor,Scotland,40.0,Passenger,Female,2nd Class,33595,£15 15s
+"BACKSTRöM, Mr Karl Alfred",Victim,Finland,32.0,Passenger,Male,3rd Class,3101278,£15 17s
+"HAKKARAINEN, Mr Pekka Pietari",Victim,Finland,28.0,Passenger,Male,3rd Class,3101279,£15 17s
+"BACKSTRöM, Mrs Maria Mathilda",Survivor,Finland,33.0,Passenger,Female,3rd Class,3101278,£15 17s
+"HAKKARAINEN, Mrs Elin Matilda",Survivor,Finland,24.0,Passenger,Female,3rd Class,3101279,£15 17s
+"COUTTS, Master Neville Leslie",Survivor,England,3.0,Passenger,Male,3rd Class,37671,£15 18s
+"COUTTS, Master William Loch ""Willie""",Survivor,England,9.0,Passenger,Male,3rd Class,37671,£15 18s
+"COUTTS, Mrs Winnie ""Minnie""",Survivor,England,36.0,Passenger,Female,3rd Class,37671,£15 18s
+"PERNOT, Mr René",Victim,France,39.0,Passenger,Male,2nd Class,2131,£15 1s
+"EVERETT, Mr Thomas James",Victim,England,39.0,Passenger,Male,3rd Class,6212,£15 2s
+"SHELLARD, Mr Frederick William Blainey",Victim,England,55.0,Passenger,Male,3rd Class,6212,£15 2s
+"MOUBAREK, Master Gerios (""George _"")",Survivor,Lebanon,7.0,Passenger,Male,3rd Class,2661,£15 4s 11d
+"MOUBAREK, Master Halim Gonios (""William George"")",Survivor,Lebanon,4.0,Passenger,Male,3rd Class,2661,£15 4s 11d
+"MOUBAREK, Mrs Omine",Survivor,Lebanon,24.0,Passenger,Female,3rd Class,2661,£15 4s 11d
+"TOUMA, Master Georges Youssef (""George Thomas"")",Survivor,Lebanon,8.0,Passenger,Male,3rd Class,2650,£15 4s 11d
+"TOUMA, Miss Maria Youssef (""Mary Thomas"")",Survivor,Lebanon,9.0,Passenger,Female,3rd Class,2650,£15 4s 11d
+"TOUMA, Mrs Hanna Youssef",Survivor,Lebanon,27.0,Passenger,Female,3rd Class,2650,£15 4s 11d
+"BOULOS, Master Akar",Victim,,9.0,Passenger,Male,3rd Class,2678,£15 4s 11d
+"BOULOS, Miss Nourelain",Victim,,7.0,Passenger,Female,3rd Class,2678,£15 4s 11d
+"BOULOS, Mrs Sultana",Victim,,40.0,Passenger,Female,3rd Class,2678,£15 4s 11d
+"PULBAUM, Mr Franz",Victim,United States,27.0,Passenger,Male,2nd Class,2168,£15 8d
+"ALLISON, Mr Hudson Joshua Creighton",Victim,Canada,30.0,Passenger,Male,1st Class,113781,£151 16s
+"CLEAVER, Miss Alice Catherine",Survivor,England,22.0,Passenger,Female,1st Class,113781,£151 16s
+"DANIELS, Miss Sarah",Survivor,Canada,33.0,Passenger,Female,1st Class,113781,£151 16s
+"ALLISON, Master Hudson Trevor",Survivor,Canada,0.92,Passenger,Male,1st Class,113781,£151 16s
+"ALLISON, Miss Helen Loraine",Victim,Canada,2.0,Passenger,Female,1st Class,113781,£151 16s
+"ALLISON, Mrs Bessie Waldo",Victim,Canada,25.0,Passenger,Female,1st Class,113781,£151 16s
+"SHUTES, Miss Elizabeth Weed",Survivor,United States,40.0,Passenger,Female,1st Class,17582,£153 9s 3d
+"GRAHAM, Miss Margaret Edith",Survivor,England,19.0,Passenger,Female,1st Class,17582,£153 9s 3d
+"GRAHAM, Mrs Edith",Survivor,England,59.0,Passenger,Female,1st Class,17582,£153 9s 3d
+"MAYBERY, Mr Frank Hubert",Victim,England,36.0,Passenger,Male,2nd Class,239059,£16
+"HEWLETT, Mrs Mary Dunbar",Survivor,India,56.0,Passenger,Female,2nd Class,248706,£16
+"SANDSTRöM, Miss Beatrice Irene",Survivor,Sweden,1.0,Passenger,Female,3rd Class,9549,£16 14s
+"SANDSTRöM, Miss Marguerite Rut",Survivor,Sweden,4.0,Passenger,Female,3rd Class,9549,£16 14s
+"SANDSTRöM, Mrs Agnes Charlotta",Survivor,Sweden,24.0,Passenger,Female,3rd Class,9549,£16 14s
+"DAVISON, Mr Thomas Henry",Victim,England,32.0,Passenger,Male,3rd Class,386525,£16 2s
+"CRIBB, Mr John Hatfield",Victim,England,44.0,Passenger,Male,3rd Class,371362,£16 2s
+"LOBB, Mr William Arthur",Victim,England,30.0,Passenger,Male,3rd Class,3336,£16 2s
+"THORNEYCROFT, Mr Percival",Victim,England,36.0,Passenger,Male,3rd Class,376564,£16 2s
+"MCNAMEE, Mr Neal",Victim,England,27.0,Passenger,Male,3rd Class,376566,£16 2s
+"BOWEN, Mr David John 'Dai'",Victim,Wales,26.0,Passenger,Male,3rd Class,54636,£16 2s
+"WILLIAMS, Mr Leslie",Victim,Wales,28.0,Passenger,Male,3rd Class,54636,£16 2s
+"CRIBB, Miss Laura Mae",Survivor,England,16.0,Passenger,Female,3rd Class,371362,£16 2s
+"DAVISON, Mrs Mary E.",Survivor,England,34.0,Passenger,Female,3rd Class,386525,£16 2s
+"THORNEYCROFT, Mrs Florence Kate",Survivor,England,32.0,Passenger,Female,3rd Class,376564,£16 2s
+"LOBB, Mrs Cordelia K.",Victim,England,26.0,Passenger,Female,3rd Class,3336,£16 2s
+"MCNAMEE, Mrs Eileen",Victim,England,19.0,Passenger,Female,3rd Class,376566,£16 2s
+"BONNELL, Miss Caroline",Survivor,United States,30.0,Passenger,Female,1st Class,36928,£164 17s 4d
+"WICK, Miss Mary Natalie",Survivor,United States,31.0,Passenger,Female,1st Class,36928,£164 17s 4d
+"WICK, Mrs Mary",Survivor,United States,45.0,Passenger,Female,1st Class,36928,£164 17s 4d
+"WICK, Mr George Dennick",Victim,United States,57.0,Passenger,Male,1st Class,36928,£164 17s 4d
+"ARNOLD-FRANCHI, Mr Josef",Victim,Switzerland,25.0,Passenger,Male,3rd Class,349237,£17 16s
+"ARNOLD-FRANCHI, Mrs Josefine",Victim,Switzerland,18.0,Passenger,Female,3rd Class,349237,£17 16s
+"DE MESSEMAEKER, Mr Guillaume Joseph",Survivor,United States,36.0,Passenger,Male,3rd Class,345572,£17 8s
+"DE MESSEMAEKER, Mrs Anna",Survivor,United States,36.0,Passenger,Female,3rd Class,345572,£17 8s
+"VANDERPLANCKE, Mr Leo Edmondus",Victim,Belgium,15.0,Passenger,Male,3rd Class,345763,£18
+"VANDERPLANCKE, Mr Julius",Victim,Belgium,31.0,Passenger,Male,3rd Class,345763,£18
+"VANDERPLANCKE, Miss Augusta Maria",Victim,Belgium,18.0,Passenger,Female,3rd Class,345764,£18
+"VANDERPLANCKE, Mrs Emelie Maria",Victim,Belgium,31.0,Passenger,Female,3rd Class,345763,£18
+"RICHARDS, Master Sibley George",Survivor,England,0.75,Passenger,Male,2nd Class,29106,£18 15s
+"RICHARDS, Master William Rowe",Survivor,England,3.0,Passenger,Male,2nd Class,29106,£18 15s
+"RICHARDS, Mrs Emily",Survivor,England,24.0,Passenger,Female,2nd Class,29106,£18 15s
+"ALBIMONA, Mr Nassef Cassem",Survivor,Lebanon,26.0,Passenger,Male,3rd Class,2699,£18 15s 9d
+"HASSAN ABILMONA, Mr Houssein Mohamed",Victim,,11.0,Passenger,Male,3rd Class,2699,£18 15s 9d
+"MELLINGER, Miss Madeleine Violet",Survivor,England,13.0,Passenger,Female,2nd Class,250644,£19 10s
+"MELLINGER, Mrs Elizabeth Anne",Survivor,England,41.0,Passenger,Female,2nd Class,250644,£19 10s
+"BACLINI, Miss Eugenie",Survivor,Lebanon,3.0,Passenger,Female,3rd Class,2666,£19 5s 2d
+"BACLINI, Miss Helene Barbara",Survivor,Lebanon,0.75,Passenger,Female,3rd Class,2666,£19 5s 2d
+"BACLINI, Miss Marie Catherine",Survivor,Lebanon,5.0,Passenger,Female,3rd Class,2666,£19 5s 2d
+"BACLINI, Mrs Latifa",Survivor,Lebanon,24.0,Passenger,Female,3rd Class,2666,£19 5s 2d
+"DAVIES, Miss K.",,,,Passenger,Female,2nd Class,406,£2
+"DAVIES, Mr H. V.",,,,Passenger,Male,2nd Class,406,£2
+"KNEESE, Miss",,,,Passenger,Female,2nd Class,47,£2
+"OSBORNE, Miss D.",,,,Passenger,Female,2nd Class,516,£2
+"REMESCH, Miss",,,,Passenger,Female,2nd Class,47,£2
+"TOVEY, Miss",,,,Passenger,Female,2nd Class,516,£2
+"GOLDSMITH, Mr Frank John",Victim,England,33.0,Passenger,Male,3rd Class,363291,£20 10s 6d
+"GOLDSMITH, Master Frank John William",Survivor,England,9.0,Passenger,Male,3rd Class,363291,£20 10s 6d
+"GOLDSMITH, Mrs Emily Alice",Survivor,England,31.0,Passenger,Female,3rd Class,363291,£20 10s 6d
+"DEAN, Mr Bertram Frank",Victim,England,25.0,Passenger,Male,3rd Class,2315,£20 11s 6d
+"DEAN, Master Bertram Vere",Survivor,England,1.0,Passenger,Male,3rd Class,2315,£20 11s 6d
+"DEAN, Miss Elizabeth Gladys 'Millvina'",Survivor,England,0.17,Passenger,Female,3rd Class,2315,£20 11s 6d
+"DEAN, Mrs Eva Georgetta",Survivor,England,32.0,Passenger,Female,3rd Class,2315,£20 11s 6d
+"ROSBLOM, Mr Viktor Richard",Victim,Finland,18.0,Passenger,Male,3rd Class,370129,£20 4s 3d
+"ROSBLOM, Miss Salli Helena",Victim,Finland,2.0,Passenger,Female,3rd Class,370129,£20 4s 3d
+"ROSBLOM, Mrs Helena Wilhelmina",Victim,Finland,41.0,Passenger,Female,3rd Class,370129,£20 4s 3d
+"ABBOTT, Mr Rossmore Edward",Victim,United States,16.0,Passenger,Male,3rd Class,CA2673,£20 5s
+"ABBOTT, Mr Eugene Joseph",Victim,United States,14.0,Passenger,Male,3rd Class,CA2673,£20 5s
+"ABBOTT, Mrs Rhoda Mary 'Rosa'",Survivor,United States,39.0,Passenger,Female,3rd Class,CA2673,£20 5s
+"RENOUF, Mr Peter Henry",Victim,United States,33.0,Passenger,Male,2nd Class,31027,£21
+"TURPIN, Mr William John",Victim,England,29.0,Passenger,Male,2nd Class,11668,£21
+"WALLCROFT, Miss Ellen 'Nellie'",Survivor,England,36.0,Passenger,Female,2nd Class,13528,£21
+"TURPIN, Mrs Dorothy Ann",Victim,England,26.0,Passenger,Female,2nd Class,11668,£21
+"GALE, Mr Harry",Victim,England,38.0,Passenger,Male,2nd Class,28664,£21
+"GALE, Mr Shadrach",Victim,England,33.0,Passenger,Male,2nd Class,28664,£21
+"CAMERON, Miss Clear Annie",Survivor,England,35.0,Passenger,Female,2nd Class,13528,£21
+"PHILLIPS, Miss Alice Frances Louisa",Survivor,England,21.0,Passenger,Female,2nd Class,2,£21
+"RENOUF, Mrs Lillian",Survivor,United States,30.0,Passenger,Female,2nd Class,31027,£21
+"WARE, Mrs Florence Louise",Survivor,England,31.0,Passenger,Female,2nd Class,31352,£21
+"COREY, Mrs Mary Phyllis Elizabeth",Victim,,30.0,Passenger,Female,2nd Class,13534,£21
+"KARNES, Mrs Claire",Victim,United States,28.0,Passenger,Female,2nd Class,13534,£21
+"PHILLIPS, Mr Escott Robert",Victim,England,42.0,Passenger,Male,2nd Class,2,£21
+"WARE, Mr John James",Victim,England,45.0,Passenger,Male,2nd Class,31352,£21
+"SAMAAN, Mr Elias",Victim,Lebanon,17.0,Passenger,Male,3rd Class,2662,£21 13s 7d
+"SAMAAN, Mr Hanna Elias",Victim,Lebanon,40.0,Passenger,Male,3rd Class,2662,£21 13s 7d
+"SAMAAN, Mr Youssef",Victim,Lebanon,16.0,Passenger,Male,3rd Class,2662,£21 13s 7d
+"PåLSSON, Mrs Alma Cornelia",Victim,Sweden,29.0,Passenger,Female,3rd Class,349909,£21 1s 6d
+"PåLSSON, Master Gösta Leonard",Victim,Sweden,2.0,Passenger,Male,3rd Class,349909,£21 1s 6d
+"PåLSSON, Master Paul Folke",Victim,Sweden,6.0,Passenger,Male,3rd Class,349909,£21 1s 6d
+"PåLSSON, Miss Stina Viola",Victim,Sweden,3.0,Passenger,Female,3rd Class,349909,£21 1s 6d
+"PåLSSON, Miss Torborg Danira",Victim,Sweden,8.0,Passenger,Female,3rd Class,349909,£21 1s 6d
+"WIDENER, Mr George Dunton",Victim,United States,50.0,Passenger,Male,1st Class,113503,£211 10s
+"WIDENER, Mr Harry Elkins",Victim,United States,27.0,Passenger,Male,1st Class,113503,£211 10s
+"GIEGER, Miss Amalie",Survivor,,35.0,Passenger,Female,1st Class,113503,£211 10s
+"KEEPING, Mr Edwin Herbert",Victim,,33.0,Passenger,Male,1st Class,113503,£211 10s
+"WIDENER, Mrs Eleanor",Survivor,United States,50.0,Passenger,Female,1st Class,113503,£211 10s
+"ROBERT, Mrs Elisabeth Walton",Survivor,United States,43.0,Passenger,Female,1st Class,24160,£211 6s 9d
+"KREUCHEN, Miss Emilie",Survivor,,29.0,Passenger,Female,1st Class,24160,£211 6s 9d
+"ALLEN, Miss Elisabeth Walton",Survivor,United States,29.0,Passenger,Female,1st Class,24160,£211 6s 9d
+"MADILL, Miss Georgette Alexandra",Survivor,United States,16.0,Passenger,Female,1st Class,24160,£211 6s 9d
+"ANDERSEN, Mr Albert Karvin",Victim,Norway,33.0,Passenger,Male,3rd Class,4001,£22 10s 6d
+"OLSEN, Mr Henry Margido",Victim,Norway,28.0,Passenger,Male,3rd Class,4001,£22 10s 6d
+"HOLTHEN, Mr Johan Martin",Victim,Norway,28.0,Passenger,Male,3rd Class,4001,£22 10s 6d
+"KINK-HEILMANN, Miss Luise Gretchen",Survivor,Switzerland,4.0,Passenger,Female,3rd Class,315153,£22 6d
+"KINK-HEILMANN, Mrs Luise",Survivor,Switzerland,26.0,Passenger,Female,3rd Class,315153,£22 6d
+"KINK, Mr Anton",Survivor,Switzerland,29.0,Passenger,Male,3rd Class,315153,£22 6d
+"PETER / JOSEPH, Master Michael J. (""Michael Joseph"")",Survivor,Lebanon,4.0,Passenger,Male,3rd Class,2668,£22 7s 2d
+"PETER / JOSEPH, Miss Anna (""Mary Joseph"")",Survivor,Lebanon,2.0,Passenger,Female,3rd Class,2668,£22 7s 2d
+"PETER / JOSEPH, Mrs Catherine",Survivor,Lebanon,24.0,Passenger,Female,3rd Class,2668,£22 7s 2d
+"STRAUS, Mr Isidor",Victim,United States,67.0,Passenger,Male,1st Class,17483,£221 15s 7d
+"BIRD, Miss Ellen",Survivor,,31.0,Passenger,Female,1st Class,17483,£221 15s 7d
+"FARTHING, Mr John",Victim,,57.0,Passenger,Male,1st Class,17483,£221 15s 7d
+"STRAUS, Mrs Rosalie Ida",Victim,United States,63.0,Passenger,Female,1st Class,17483,£221 15s 7d
+"DOLING, Miss Elsie",Survivor,England,18.0,Passenger,Female,2nd Class,231919,£23
+"DOLING, Mrs Ada Julia Elizabeth",Survivor,England,34.0,Passenger,Female,2nd Class,231919,£23
+"HOCKING, Miss Ellen ""Nellie""",Survivor,England,20.0,Passenger,Female,2nd Class,29105,£23
+"HOCKING, Mrs Elizabeth ""Eliza""",Survivor,England,54.0,Passenger,Female,2nd Class,29105,£23
+"WELLS, Master Ralph Lester",Survivor,England,2.0,Passenger,Male,2nd Class,29103,£23
+"WELLS, Miss Joan",Survivor,England,4.0,Passenger,Female,2nd Class,29103,£23
+"WELLS, Mrs ""Addie"" Dart",Survivor,England,29.0,Passenger,Female,2nd Class,29103,£23
+"MCCOY, Mr Bernard",Survivor,Ireland,24.0,Passenger,Male,3rd Class,367226,£23 5s
+"MCCOY, Miss Agnes",Survivor,Ireland,29.0,Passenger,Female,3rd Class,367226,£23 5s
+"MCCOY, Miss Alicia",Survivor,Ireland,26.0,Passenger,Female,3rd Class,367226,£23 5s
+"JOHNSTON, Mr Andrew Emslie",Victim,England,35.0,Passenger,Male,3rd Class,6607,£23 9s
+"JOHNSTON, Master William Andrew",Victim,England,8.0,Passenger,Male,3rd Class,6607,£23 9s
+"JOHNSTON, Miss Catherine Nellie",Victim,England,7.0,Passenger,Female,3rd Class,6607,£23 9s
+"JOHNSTON, Mrs Eliza",Victim,England,34.0,Passenger,Female,3rd Class,6607,£23 9s
+"BROWNE, Rev Francis M.",,Ireland,31.0,Passenger,Male,1st Class,37-A,£24
+"MAY, Mr Richard W.",,,,Passenger,Male,1st Class,84,£24
+"MAY, Mr Stanley",,,,Passenger,Male,1st Class,84,£24
+"ODELL, Master Jack",,,11.0,Passenger,Male,1st Class,84,£24
+"ODELL, Miss Kate",,,,Passenger,Female,1st Class,84,£24
+"ODELL, Mrs Lily May",,England,,Passenger,Female,1st Class,84,£24
+"ABELSON, Mrs Hannah",Survivor,France,28.0,Passenger,Female,2nd Class,3381,£24
+"ABELSON, Mr Samuel",Victim,France,30.0,Passenger,Male,2nd Class,3381,£24
+"DAVIES, Mr Alfred J.",Victim,England,24.0,Passenger,Male,3rd Class,48871,£24 3s
+"LESTER, Mr James",Victim,England,26.0,Passenger,Male,3rd Class,48871,£24 3s
+"VAN IMPE, Mr Jean Baptiste",Victim,Belgium,36.0,Passenger,Male,3rd Class,345773,£24 3s
+"MORAN, Mr Daniel James",Victim,Ireland,27.0,Passenger,Male,3rd Class,371110,£24 3s
+"RYAN, Mr Patrick",Victim,Ireland,29.0,Passenger,Male,3rd Class,371110,£24 3s
+"DAVIES, Mr John Samuel",Victim,England,21.0,Passenger,Male,3rd Class,48871,£24 3s
+"MORAN, Miss Bertha Bridget",Survivor,Ireland,28.0,Passenger,Female,3rd Class,371110,£24 3s
+"VAN IMPE, Miss Catharina",Victim,Belgium,10.0,Passenger,Female,3rd Class,345773,£24 3s
+"VAN IMPE, Mrs Rosalie Paula",Victim,Belgium,30.0,Passenger,Female,3rd Class,345773,£24 3s
+"BAXTER, Mrs Hélène",Survivor,Canada,50.0,Passenger,Female,1st Class,17558,£247 10s 5d
+"DOUGLAS, Mrs Mary Hélène",Survivor,Canada,27.0,Passenger,Female,1st Class,17558,£247 10s 5d
+"BAXTER, Mr Quigg Edmond",Victim,Canada,24.0,Passenger,Male,1st Class,17558,£247 10s 5d
+"ENDRES, Miss Caroline Louise",Survivor,,39.0,Passenger,Female,1st Class,17757,£247 10s 6d
+"BIDOIS, Miss Rosalie",Survivor,,46.0,Passenger,Female,1st Class,17757,£247 10s 6d
+"ASTOR, Colonel John Jacob",Victim,United States,47.0,Passenger,Male,1st Class,17757,£247 10s 6d
+"ROBBINS, Mr Victor",Victim,,42.0,Passenger,Male,1st Class,17757,£247 10s 6d
+"ASTOR, Mrs Madeleine Talmage",Survivor,United States,18.0,Passenger,Female,1st Class,17757,£247 10s 6d
+"COLLEY, Mr Edward Pomeroy",Victim,Ireland,37.0,Passenger,Male,1st Class,5727,£25 11s 9d
+"OMONT, Mr Alfred Fernand",Survivor,France,29.0,Passenger,Male,1st Class,12998,£25 14s 10d
+"CORNELL, Mrs Malvina Helen",Survivor,United States,55.0,Passenger,Female,1st Class,11770,£25 14s 10d
+"BAUMANN, Mr John D.",Victim,United States,60.0,Passenger,Male,1st Class,17318,£25 18s 6d
+"LEADER, Dr Alice",Survivor,United States,49.0,Passenger,Female,1st Class,17465,£25 18s 7d
+"SWIFT, Mrs Margaret Welles",Survivor,United States,46.0,Passenger,Female,1st Class,17466,£25 18s 7d
+"LEFEBVRE, Master Henry",Victim,,5.0,Passenger,Male,3rd Class,4133,£25 9s 4d
+"LEFEBVRE, Miss Ida",Victim,,3.0,Passenger,Female,3rd Class,4133,£25 9s 4d
+"LEFEBVRE, Miss Jeannie",Victim,,8.0,Passenger,Female,3rd Class,4133,£25 9s 4d
+"LEFEBVRE, Miss Mathilde",Victim,,12.0,Passenger,Female,3rd Class,4133,£25 9s 4d
+"LEFEBVRE, Mrs Frances Marie",Victim,,40.0,Passenger,Female,3rd Class,4133,£25 9s 4d
+"SALOMON, Mr Abraham Lincoln",Survivor,United States,43.0,Passenger,Male,1st Class,111163,£26
+"HOLD, Mr Stephen",Victim,England,44.0,Passenger,Male,2nd Class,26707,£26
+"MORLEY, Mr Henry Samuel",Victim,England,38.0,Passenger,Male,2nd Class,250655,£26
+"CLARKE, Mr Charles Valentine",Victim,England,29.0,Passenger,Male,2nd Class,2003,£26
+"JONES, Mr Charles Cresson",Victim,United States,46.0,Passenger,Male,1st Class,694,£26
+"CHAPMAN, Mr John Henry",Victim,England,36.0,Passenger,Male,2nd Class,29037,£26
+"JULIAN, Mr Henry Forbes",Victim,England,50.0,Passenger,Male,1st Class,113044,£26
+"CARTER, Fr Ernest Courtenay",Victim,England,54.0,Passenger,Male,2nd Class,244252,£26
+"LAHTINEN, Fr William",Victim,United States,35.0,Passenger,Male,2nd Class,250651,£26
+"DOUTON, Mr William Joseph",Victim,United States,55.0,Passenger,Male,2nd Class,28403,£26
+"HOWARD, Mr Benjamin",Victim,England,63.0,Passenger,Male,2nd Class,24065,£26
+"LOUCH, Mr Charles Alexander",Victim,England,50.0,Passenger,Male,2nd Class,3085,£26
+"WEISZ, Mr Léopold",Victim,England,37.0,Passenger,Male,2nd Class,228414,£26
+"ANGLE, Mrs Florence ""Mary"" Agnes",Survivor,England,36.0,Passenger,Female,2nd Class,226875,£26
+"BEANE, Mr Edward",Survivor,United States,32.0,Passenger,Male,2nd Class,2908,£26
+"BEANE, Mrs Ethel",Survivor,England,19.0,Passenger,Female,2nd Class,2908,£26
+"BRYHL, Miss Dagmar Jenny Ingeborg",Survivor,Sweden,20.0,Passenger,Female,2nd Class,236853,£26
+"HOLD, Mrs Annie Margaret",Survivor,England,29.0,Passenger,Female,2nd Class,26707,£26
+"KANTOR, Mrs Miriam",Survivor,Russia,24.0,Passenger,Female,2nd Class,244367,£26
+"LOUCH, Mrs Alice Adelaide",Survivor,England,42.0,Passenger,Female,2nd Class,3085,£26
+"NAVRATIL, Master Edmond Roger",Survivor,France,2.0,Passenger,Male,2nd Class,230080,£26
+"NAVRATIL, Master Michel Marcel",Survivor,France,3.0,Passenger,Male,2nd Class,230080,£26
+"PARRISH, Mrs Lutie Davis",Survivor,United States,59.0,Passenger,Female,2nd Class,230433,£26
+"PHILLIPS, Miss Kate Florence",Survivor,England,19.0,Passenger,Female,2nd Class,250655,£26
+"QUICK, Miss Phyllis May",Survivor,,2.0,Passenger,Female,2nd Class,26360,£26
+"QUICK, Miss Winifred Vera",Survivor,,8.0,Passenger,Female,2nd Class,26360,£26
+"QUICK, Mrs Jane",Survivor,,33.0,Passenger,Female,2nd Class,26360,£26
+"SHELLEY, Mrs Imanita Parrish",Survivor,United States,25.0,Passenger,Female,2nd Class,230433,£26
+"WEISZ, Mrs Mathilde Françoise",Survivor,England,37.0,Passenger,Female,2nd Class,228414,£26
+"WILKINSON, Mrs Elizabeth Anne",Survivor,England,35.0,Passenger,Female,2nd Class,2926,£26
+"ANGLE, Mr William A.",Victim,England,32.0,Passenger,Male,2nd Class,226875,£26
+"BEAUCHAMP, Mr Henry James",Victim,England,28.0,Passenger,Male,2nd Class,244358,£26
+"BIRNBAUM, Mr Jakob",Victim,,24.0,Passenger,Male,1st Class,13905,£26
+"BRYHL, Mr Kurt Arnold Gottfrid",Victim,Sweden,25.0,Passenger,Male,2nd Class,236853,£26
+"CARTER, Mrs Lilian",Victim,England,45.0,Passenger,Female,2nd Class,244252,£26
+"CASE, Mr Howard Brown",Victim,England,49.0,Passenger,Male,1st Class,19924,£26
+"CHAPMAN, Mrs Sara Elizabeth",Victim,England,28.0,Passenger,Female,2nd Class,29037,£26
+"FAUNTHORPE, Mr Harry Bartram",Victim,England,41.0,Passenger,Male,2nd Class,2926,£26
+"FYNNEY, Mr Joseph J.",Victim,England,35.0,Passenger,Male,2nd Class,239865,£26
+"GASKELL, Mr Alfred",Victim,England,16.0,Passenger,Male,2nd Class,239865,£26
+"HOWARD, Mrs Ellen Truelove",Victim,England,61.0,Passenger,Female,2nd Class,24065,£26
+"KANTOR, Mr Sinai",Victim,Russia,34.0,Passenger,Male,2nd Class,244367,£26
+"LAHTINEN, Mrs Anna Amelia",Victim,United States,34.0,Passenger,Female,2nd Class,250651,£26
+"MAGUIRE, Mr John Edward",Victim,United States,30.0,Passenger,Male,1st Class,110469,£26
+"MCKANE, Mr Peter David",Victim,Channel Islands,46.0,Passenger,Male,2nd Class,28403,£26
+"NAVRATIL, Mr Michel",Victim,France,32.0,Passenger,Male,2nd Class,230080,£26
+"NICHOLSON, Mr Arthur Ernest",Victim,England,64.0,Passenger,Male,1st Class,693,£26
+"SHARP, Mr Percival",Victim,England,27.0,Passenger,Male,2nd Class,244358,£26
+"SMITH, Mr Richard William",Victim,England,,Passenger,Male,1st Class,113056,£26
+"MILLET, Mr Francis Davis",Victim,United States,65.0,Passenger,Male,1st Class,13509,£26 11s
+"BJöRNSTRöM-STEFFANSSON, Mr Mauritz Hokan",Survivor,Sweden,28.0,Passenger,Male,1st Class,110564,£26 11s
+"DALY, Mr Peter Dennis",Survivor,,51.0,Passenger,Male,1st Class,113055,£26 11s
+"CRAFTON, Mr John Bertram",Victim,United States,59.0,Passenger,Male,1st Class,113791,£26 11s
+"KLABER, Mr Herman",Victim,United States,,Passenger,Male,1st Class,113028,£26 11s
+"LINDEBERG-LIND, Mr Erik Gustaf",Victim,Sweden,42.0,Passenger,Male,1st Class,17475,£26 11s
+"WRIGHT, Mr George",Victim,Canada,62.0,Passenger,Male,1st Class,113807,£26 11s
+"HOMER, Mr Harry",Survivor,United States,40.0,Passenger,Male,1st Class,111426,£26 11s
+"STEAD, Mr William Thomas",Victim,England,62.0,Passenger,Male,1st Class,113514,£26 11s
+"ROWE, Mr Alfred G.",Victim,,59.0,Passenger,Male,1st Class,113790,£26 11s
+"SEWARD, Mr Frederic Kimber",Survivor,United States,34.0,Passenger,Male,1st Class,113794,£26 11s
+"BUTT, Major Archibald Willingham",Victim,United States,46.0,Passenger,Male,1st Class,113050,£26 11s
+"WEIR, Colonel John",Victim,United States,59.0,Passenger,Male,1st Class,113800,£26 11s
+"BOREBANK, Mr John James",Victim,England,42.0,Passenger,Male,1st Class,110489,£26 11s
+"ANDERSON, Mr Harry",Survivor,United States,47.0,Passenger,Male,1st Class,19952,£26 11s
+"BONNELL, Miss Elizabeth",Survivor,England,61.0,Passenger,Female,1st Class,113783,£26 11s
+"BRERETON, Mr George Andrew",Survivor,United States,37.0,Passenger,Male,1st Class,111427,£26 11s
+"CROSBY, Miss Harriette Rebecca",Survivor,France,39.0,Passenger,Female,1st Class,112901,£26 11s
+"ROMAINE, Mr Charles Hallace",Survivor,United States,45.0,Passenger,Male,1st Class,111428,£26 11s
+"WILLARD, Miss Constance",Survivor,United States,21.0,Passenger,Female,1st Class,113795,£26 11s
+"FRANKLIN, Mr Thomas Parnham",Victim,England,37.0,Passenger,Male,1st Class,113778,£26 11s
+"SMART, Mr John Montgomery",Victim,England,56.0,Passenger,Male,1st Class,113792,£26 11s
+"HART, Mr Benjamin",Victim,England,47.0,Passenger,Male,2nd Class,13529,£26 5s
+"COLLYER, Mr Harvey",Victim,England,31.0,Passenger,Male,2nd Class,31921,£26 5s
+"COLLYER, Miss Marjorie Charlotte",Survivor,England,8.0,Passenger,Female,2nd Class,31921,£26 5s
+"COLLYER, Mrs Charlotte Annie",Survivor,England,31.0,Passenger,Female,2nd Class,31921,£26 5s
+"HART, Miss Eva Miriam",Survivor,England,7.0,Passenger,Female,2nd Class,13529,£26 5s
+"HART, Mrs Esther Ada",Survivor,England,48.0,Passenger,Female,2nd Class,13529,£26 5s
+"NEWSOM, Miss Helen Monypeny",Survivor,United States,19.0,Passenger,Female,1st Class,11752,£26 5s 8d
+"MCGOUGH, Mr James Robert",Survivor,United States,35.0,Passenger,Male,1st Class,17473,£26 5s 9d
+"CALDERHEAD, Mr Edward Pennington",Survivor,United States,42.0,Passenger,Male,1st Class,17476,£26 5s 9d
+"FLYNN, Mr John Irwin",Survivor,United States,36.0,Passenger,Male,1st Class,PC 14474,£26 5s 9d
+"SILVERTHORNE, Mr Spencer Victor",Survivor,United States,35.0,Passenger,Male,1st Class,17475,£26 5s 9d
+"BOWEN, Miss Grace Scott",Survivor,United States,45.0,Passenger,Female,1st Class,17608,£262 7s 6d
+"CHAUDANSON, Miss Victorine",Survivor,,36.0,Passenger,Female,1st Class,17608,£262 7s 6d
+"RYERSON, Master John Borie",Survivor,United States,13.0,Passenger,Male,1st Class,17608,£262 7s 6d
+"RYERSON, Miss Emily Borie",Survivor,United States,18.0,Passenger,Female,1st Class,17608,£262 7s 6d
+"RYERSON, Miss Susan Parker ""Suzette""",Survivor,United States,21.0,Passenger,Female,1st Class,17608,£262 7s 6d
+"RYERSON, Mrs Emily Maria",Survivor,United States,48.0,Passenger,Female,1st Class,17608,£262 7s 6d
+"RYERSON, Mr Arthur Larned",Victim,United States,61.0,Passenger,Male,1st Class,17608,£262 7s 6d
+"FORTUNE, Miss Alice Elizabeth",Survivor,Canada,24.0,Passenger,Female,1st Class,19950,£263
+"FORTUNE, Miss Ethel Flora",Survivor,Canada,28.0,Passenger,Female,1st Class,19950,£263
+"FORTUNE, Miss Mabel Helen",Survivor,Canada,23.0,Passenger,Female,1st Class,19950,£263
+"FORTUNE, Mrs Mary",Survivor,Canada,60.0,Passenger,Female,1st Class,19950,£263
+"FORTUNE, Mr Charles Alexander",Victim,Canada,19.0,Passenger,Male,1st Class,19950,£263
+"FORTUNE, Mr Mark",Victim,Canada,64.0,Passenger,Male,1st Class,19950,£263
+"CLARKE, Mrs Ada Maria",Survivor,England,28.0,Passenger,Female,2nd Class,2003,£27
+"JACOBSOHN, Mrs Amy Frances Christy",Survivor,England,24.0,Passenger,Female,2nd Class,243847,£27
+"JACOBSOHN, Mr Sidney Samuel",Victim,England,40.0,Passenger,Male,2nd Class,243847,£27
+"STEWART, Mr Albert Ankeny",Victim,United States,64.0,Passenger,Male,1st Class,17605,£27 14s 5d
+"LEWY, Mr Ervin G.",Victim,United States,31.0,Passenger,Male,1st Class,17612,£27 14s 5d
+"ROSENBAUM, Miss Edith Louise",Survivor,France,33.0,Passenger,Female,1st Class,17613,£27 14s 5d
+"URUCHURTU, Don. Manuel Ramirez",Victim,Mexico,39.0,Passenger,Male,1st Class,17601,£27 14s 5d
+"OVIéS Y RODRíGUEZ, Mr Servando José Florentino",Victim,Cuba,36.0,Passenger,Male,1st Class,17562,£27 14s 5d
+"BROWN, Mrs Margaret",Survivor,United States,44.0,Passenger,Female,1st Class,17610,£27 14s 5d
+"CASSEBEER, Mrs Eleanor Genevieve",Survivor,United States,36.0,Passenger,Female,1st Class,17770,£27 14s 5d
+"DEL CARLO, Mrs Argene",Survivor,Italy,24.0,Passenger,Female,2nd Class,2167,£27 14s 5d
+"FRAUENTHAL, Mr Isaac Gerald",Survivor,United States,43.0,Passenger,Male,1st Class,17765,£27 14s 5d
+"LINDSTRöM, Mrs Sigrid",Survivor,Sweden,55.0,Passenger,Female,1st Class,112377,£27 14s 5d
+"DEL CARLO, Mr Sebastiano",Victim,Italy,29.0,Passenger,Male,2nd Class,2167,£27 14s 5d
+"WEST, Miss Barbara Joyce",Survivor,England,0.83,Passenger,Female,2nd Class,34651,£27 15s
+"WEST, Miss Constance Mirium",Survivor,England,4.0,Passenger,Female,2nd Class,34651,£27 15s
+"WEST, Mrs Ada Mary",Survivor,England,33.0,Passenger,Female,2nd Class,34651,£27 15s
+"FOREMAN, Mr Benjamin Laventall",Victim,United States,30.0,Passenger,Male,1st Class,113051,£27 15s
+"WEST, Mr Edwy Arthur",Victim,England,36.0,Passenger,Male,2nd Class,34651,£27 15s
+"SKOOG, Mr Wilhelm (""William Johansson"")",Victim,Sweden,40.0,Passenger,Male,3rd Class,347088,£27 18s
+"SKOOG, Master Harald",Victim,Sweden,5.0,Passenger,Male,3rd Class,347088,£27 18s
+"SKOOG, Master Karl Thorsten",Victim,Sweden,11.0,Passenger,Male,3rd Class,347088,£27 18s
+"SKOOG, Miss Mabel",Victim,Sweden,9.0,Passenger,Female,3rd Class,347088,£27 18s
+"SKOOG, Miss Margit Elizabeth",Victim,Sweden,2.0,Passenger,Female,3rd Class,347088,£27 18s
+"SKOOG, Mrs Anna Bernhardina",Victim,Sweden,43.0,Passenger,Female,3rd Class,347088,£27 18s
+"CANDEE, Mrs Helen Churchill",Survivor,United States,52.0,Passenger,Female,1st Class,17606,£27 8s 11d
+"PARTNER, Mr Austin",Victim,England,40.0,Passenger,Male,1st Class,113043,£28 10s
+"GRACIE, Colonel Archibald",Survivor,United States,53.0,Passenger,Male,1st Class,113780,£28 10s
+"TUCKER, Mr Gilbert Milligan jr",Survivor,United States,31.0,Passenger,Male,1st Class,2543,£28 10s 9d
+"ISHAM, Miss Ann Elizabeth",Victim,United States,50.0,Passenger,Female,1st Class,17595,£28 14s 3d
+"CALDWELL, Master Alden Gates",Survivor,Thailand,0.83,Passenger,Male,2nd Class,248738,£29
+"CALDWELL, Mr Albert Francis",Survivor,Thailand,26.0,Passenger,Male,2nd Class,248738,£29
+"CALDWELL, Mrs Sylvia Mae",Survivor,United States,28.0,Passenger,Female,2nd Class,248738,£29
+"KENT, Mr Edward Austin",Victim,United States,58.0,Passenger,Male,1st Class,11771,£29 14s
+"MARéCHAL, Mr Pierre",Survivor,France,29.0,Passenger,Male,1st Class,11774,£29 14s
+"CHEVRé, Mr Paul Romaine Marie Léonce",Survivor,France,45.0,Passenger,Male,1st Class,17594,£29 14s
+"DULLES, Mr William Crothers",Victim,United States,39.0,Passenger,Male,1st Class,17580,£29 14s
+"NATSCH, Mr Charles",Victim,United States,36.0,Passenger,Male,1st Class,17596,£29 14s
+"RICE, Mrs Margaret",Victim,Ireland,39.0,Passenger,Female,3rd Class,382652,£29 2s 6d
+"RICE, Master Albert",Victim,Ireland,10.0,Passenger,Male,3rd Class,382652,£29 2s 6d
+"RICE, Master Arthur",Victim,Ireland,4.0,Passenger,Male,3rd Class,382652,£29 2s 6d
+"RICE, Master Eric",Victim,Ireland,7.0,Passenger,Male,3rd Class,382652,£29 2s 6d
+"RICE, Master Eugene Francis",Victim,Ireland,2.0,Passenger,Male,3rd Class,382652,£29 2s 6d
+"RICE, Master George Hugh",Victim,Ireland,8.0,Passenger,Male,3rd Class,382652,£29 2s 6d
+"DYER-EDWARDES, Mr Thomas",,,65.0,Passenger,Male,1st Class,87,£3
+"DYER-EDWARDES, Mrs Clementina Georgina Lucy",,,53.0,Passenger,Female,1st Class,87,£3
+"FORMAN, Mr J.",,,,Passenger,Male,1st Class,85,£3
+"FORMAN, Mrs",,,,Passenger,Female,1st Class,85,£3
+"LENOX-CONYNGHAM, Master Dennis",,,10.0,Passenger,Male,1st Class,84,£3
+"LENOX-CONYNGHAM, Miss Eileen",,,11.0,Passenger,Female,1st Class,84,£3
+"LENOX-CONYNGHAM, Mrs",,,,Passenger,Female,1st Class,84,£3
+"NOEL, Major Gerard Thomas",,,56.0,Passenger,Male,1st Class,48,£3
+"NOEL, Master William Henry Middleton",,,13.0,Passenger,Male,1st Class,48,£3
+"OLSEN, Master Artur Karl",Survivor,Norway,9.0,Passenger,Male,3rd Class,17368,£3 3s 5d
+"BARKWORTH, Mr Algernon Henry",Survivor,England,47.0,Passenger,Male,1st Class,27042,£30
+"HAWKSFORD, Mr Walter James",Survivor,,45.0,Passenger,Male,1st Class,16988,£30
+"GRAHAM, Mr George Edward",Victim,Canada,38.0,Passenger,Male,1st Class,112053,£30
+"BEHR, Mr Karl Howell",Survivor,United States,26.0,Passenger,Male,1st Class,111369,£30
+"CHRISTY, Miss Rachel Juli Cohen",Survivor,England,25.0,Passenger,Female,2nd Class,237789,£30
+"CHRISTY, Mrs Alice Frances",Survivor,England,45.0,Passenger,Female,2nd Class,237789,£30
+"LONG, Mr Milton Clyde",Victim,United States,29.0,Passenger,Male,1st Class,113501,£30
+"SAALFELD, Mr Adolphe",Survivor,England,47.0,Passenger,Male,1st Class,19988,£30 10s
+"MOLSON, Mr Harry Markland",Victim,Canada,55.0,Passenger,Male,1st Class,113787,£30 10s
+"STäHELIN-MAEGLIN, Dr Max",Survivor,Switzerland,32.0,Passenger,Male,1st Class,13214,£30 10s
+"DANIEL, Mr Robert Williams",Survivor,Canada,27.0,Passenger,Male,1st Class,113804,£30 10s
+"PEUCHEN, Major Arthur Godfrey",Survivor,Canada,52.0,Passenger,Male,1st Class,113786,£30 10s
+"BRADY, Mr John Bertram",Victim,United States,41.0,Passenger,Male,1st Class,113054,£30 10s
+"HOYT, Mr William Fisher",Victim,United States,42.0,Passenger,Male,1st Class,17600,£30 13s 11d
+"SMITH, Mr James Clinch",Victim,France,56.0,Passenger,Male,1st Class,17764,£30 13s 11d
+"NASSER, Mrs Adele",Survivor,Lebanon,14.0,Passenger,Female,2nd Class,237736,£30 1s 5d
+"NASSER, Mr Nicholas",Victim,United States,28.0,Passenger,Male,2nd Class,237736,£30 1s 5d
+"BLANK, Mr Henry",Survivor,United States,39.0,Passenger,Male,1st Class,112277,£31
+"SERREPLAN, Miss Auguste",Survivor,,30.0,Passenger,Female,1st Class,113798,£31
+"CAIRNS, Mr Alexander Milne",Victim,,28.0,Passenger,Male,1st Class,113798,£31
+"DENBUOY, Mr Albert (""Herbert"")",Victim,Channel Islands,25.0,Passenger,Male,2nd Class,31029,£31 10s
+"JEFFERYS, Mr Clifford Thomas",Victim,Channel Islands,24.0,Passenger,Male,2nd Class,31029,£31 10s
+"JEFFERYS, Mr Ernest Wilfred",Victim,Channel Islands,22.0,Passenger,Male,2nd Class,31029,£31 10s
+"EVANS, Miss Edith Corse",Victim,United States,36.0,Passenger,Female,1st Class,17531,£31 13s 7d
+"FLEGENHEIM, Mrs Antoinette",Survivor,United States,48.0,Passenger,Female,1st Class,17598,£31 13s 8d
+"ANDERSSON, Mr Anders Johan",Victim,Sweden,39.0,Passenger,Male,3rd Class,347082,£31 5s 6d
+"ANDERSSON, Master Sigvard Harald Elias",Victim,Sweden,4.0,Passenger,Male,3rd Class,347082,£31 5s 6d
+"ANDERSSON, Miss Ebba Iris Alfrida",Victim,Sweden,6.0,Passenger,Female,3rd Class,347082,£31 5s 6d
+"ANDERSSON, Miss Ellis Anna Maria",Victim,Sweden,2.0,Passenger,Female,3rd Class,347082,£31 5s 6d
+"ANDERSSON, Miss Ingeborg Constanzia",Victim,Sweden,9.0,Passenger,Female,3rd Class,347082,£31 5s 6d
+"ANDERSSON, Miss Sigrid Elisabeth",Victim,Sweden,11.0,Passenger,Female,3rd Class,347082,£31 5s 6d
+"ANDERSSON, Mrs Alfrida Konstantia Brogren",Victim,Sweden,39.0,Passenger,Female,3rd Class,347082,£31 5s 6d
+"ASPLUND, Mr Carl Oscar Vilhelm Gustafsson",Victim,Sweden,40.0,Passenger,Male,3rd Class,347077,£31 7s 9d
+"ASPLUND, Master Edvin Rojj Felix",Survivor,Sweden,3.0,Passenger,Male,3rd Class,347077,£31 7s 9d
+"ASPLUND, Miss Lillian Gertrud",Survivor,Sweden,5.0,Passenger,Female,3rd Class,347077,£31 7s 9d
+"ASPLUND, Mrs Selma Augusta Emilia",Survivor,Sweden,38.0,Passenger,Female,3rd Class,347077,£31 7s 9d
+"ASPLUND, Master Carl Edgar",Victim,Sweden,5.0,Passenger,Male,3rd Class,347077,£31 7s 9d
+"ASPLUND, Master Clarence Gustaf Hugo",Victim,Sweden,9.0,Passenger,Male,3rd Class,347077,£31 7s 9d
+"ASPLUND, Master Filip Oscar",Victim,Sweden,13.0,Passenger,Male,3rd Class,347077,£31 7s 9d
+"DREW, Master Marshall Brines",Survivor,United States,8.0,Passenger,Male,2nd Class,28220,£32 10s
+"DREW, Mrs Lulu Thorne",Survivor,United States,34.0,Passenger,Female,2nd Class,28220,£32 10s
+"DREW, Mr James Vivian",Victim,United States,42.0,Passenger,Male,2nd Class,28220,£32 10s
+"SUTTON, Mr Frederick",Victim,United States,61.0,Passenger,Male,1st Class,36963,£32 6s 5d
+"HARPER, Rev. John",Victim,England,39.0,Passenger,Male,2nd Class,248727,£33
+"HARPER, Miss Annie Jessie",Survivor,England,6.0,Passenger,Female,2nd Class,248727,£33
+"LEITCH, Miss Jessie Wills",Survivor,England,31.0,Passenger,Female,2nd Class,248727,£33
+"VAN DER HOEF, Mr Wyckoff",Victim,United States,61.0,Passenger,Male,1st Class,111240,£33 10s
+"GOLDSCHMIDT, Mr George B.",Victim,United States,71.0,Passenger,Male,1st Class,17754,£34 13s 1d
+"WALKER, Mr William Anderson",Victim,United States,48.0,Passenger,Male,1st Class,36967,£34 5d
+"FORD, Mr Edward Watson",Victim,England,18.0,Passenger,Male,3rd Class,6608,£34 7s 6d
+"FORD, Mrs Margaret Ann Watson",Victim,England,48.0,Passenger,Female,3rd Class,6608,£34 7s 6d
+"FORD, Mr William Neal Thomas",Victim,England,16.0,Passenger,Male,3rd Class,6608,£34 7s 6d
+"FORD, Miss Dollina Margaret",Victim,England,20.0,Passenger,Female,3rd Class,6608,£34 7s 6d
+"FORD, Miss Robina Maggie",Victim,England,7.0,Passenger,Female,3rd Class,6608,£34 7s 6d
+"WILLIAMS, Mr Fletcher Fellowes Lambert",Victim,England,44.0,Passenger,Male,1st Class,113510,£35
+"SIMONIUS-BLUMER, Mr Colonel (Oberst) Alfons",Survivor,Switzerland,56.0,Passenger,Male,1st Class,13213,£35 10s
+"WOOLNER, Mr Hugh",Survivor,England,45.0,Passenger,Male,1st Class,19947,£35 10s
+"SLOPER, Mr William Thompson",Survivor,United States,28.0,Passenger,Male,1st Class,113788,£35 10s
+"BLACKWELL, Mr Stephen Weart",Victim,United States,45.0,Passenger,Male,1st Class,113784,£35 10s
+"NICHOLLS, Mr Joseph Charles",Victim,England,19.0,Passenger,Male,2nd Class,33112,£36 15s
+"DAVIES, Master John Morgan jr",Survivor,England,8.0,Passenger,Male,2nd Class,33112,£36 15s
+"DAVIES, Mrs Elizabeth Agnes Mary",Survivor,England,48.0,Passenger,Female,2nd Class,33112,£36 15s
+"SINCOCK, Miss Maude",Survivor,England,20.0,Passenger,Female,2nd Class,33112,£36 15s
+"MALLET, Mr Albert Denis Pierre",Victim,France,45.0,Passenger,Male,2nd Class,2079,£37 1d
+"MALLET, Master André Clement",Survivor,France,1.0,Passenger,Male,2nd Class,2079,£37 1d
+"MALLET, Mrs Antonine Marie",Survivor,France,24.0,Passenger,Female,2nd Class,2079,£37 1d
+"GEE, Mr Arthur H.",Victim,England,47.0,Passenger,Male,1st Class,111320,£38 10s
+"BROWN, Mr Thomas William Solomon",Victim,South Africa,60.0,Passenger,Male,2nd Class,29750,£39
+"BROWN, Miss Edith Eileen",Survivor,South Africa,15.0,Passenger,Female,2nd Class,29750,£39
+"BECKER, Master Richard F.",Survivor,India,1.0,Passenger,Male,2nd Class,230136,£39
+"BECKER, Miss Marion Louise",Survivor,India,4.0,Passenger,Female,2nd Class,230136,£39
+"BECKER, Miss Ruth Elizabeth",Survivor,India,12.0,Passenger,Female,2nd Class,230136,£39
+"BECKER, Mrs Nellie E.",Survivor,India,35.0,Passenger,Female,2nd Class,230136,£39
+"BROWN, Mrs Elizabeth Catherine",Survivor,South Africa,40.0,Passenger,Female,2nd Class,29750,£39
+"RHEIMS, Mr George Alexander Lucien",Survivor,France,33.0,Passenger,Male,1st Class,17607,£39 12s
+"DUFF GORDON, Sir Cosmo Edmund",Survivor,England,49.0,Passenger,Male,1st Class,11755,£39 12s
+"BREWE, Dr Arthur Jackson",Victim,United States,45.0,Passenger,Male,1st Class,112379,£39 12s
+"PANULA, Master Jaako Arnold",Victim,Finland,14.0,Passenger,Male,3rd Class,3101295,£39 13s 9d
+"PANULA, Mr Ernesti Arvid",Victim,Finland,16.0,Passenger,Male,3rd Class,3101295,£39 13s 9d
+"PANULA, Master Eino Viljam",Victim,Finland,1.0,Passenger,Male,3rd Class,3101295,£39 13s 9d
+"PANULA, Master Juha Niilo",Victim,Finland,7.0,Passenger,Male,3rd Class,3101295,£39 13s 9d
+"PANULA, Master Urho Abraham",Victim,Finland,2.0,Passenger,Male,3rd Class,3101295,£39 13s 9d
+"PANULA, Mrs Maija Emelia Abrahamintytar",Victim,Finland,41.0,Passenger,Female,3rd Class,3101295,£39 13s 9d
+"RIIHIVUORI, Miss Susanna Juhantytär",Victim,Finland,22.0,Passenger,Female,3rd Class,3101295,£39 13s 9d
+"LINES, Miss Mary Conover",Survivor,France,16.0,Passenger,Female,1st Class,17592,£39 8s
+"LINES, Mrs Elizabeth Lindsey",Survivor,France,50.0,Passenger,Female,1st Class,17592,£39 8s
+"NICHOLS, Mr E.",,,,Passenger,Male,1st Class,103,£4
+"SEMAN, Master Betros",Victim,Lebanon,10.0,Passenger,Male,3rd Class,2622,£4 3d
+"ROSS, Mr John Hugo",Victim,Canada,36.0,Passenger,Male,1st Class,13049,£40 2s 6d
+"LAROCHE, Mr Joseph Philippe Lemercier",Victim,France,25.0,Passenger,Male,2nd Class,2123,£41 11s 7d
+"LAROCHE, Miss Louise",Survivor,France,1.0,Passenger,Female,2nd Class,2123,£41 11s 7d
+"LAROCHE, Miss Simonne Marie Anne Andrée",Survivor,France,3.0,Passenger,Female,2nd Class,2123,£41 11s 7d
+"LAROCHE, Mrs Juliette Marie Louise",Survivor,France,22.0,Passenger,Female,2nd Class,2123,£41 11s 7d
+"HEAD, Mr Christopher",Victim,,42.0,Passenger,Male,1st Class,113038,£42 10s
+"MOORE, Mr Clarence Bloomfield",Victim,United States,47.0,Passenger,Male,1st Class,113796,£42 8s
+"HARRINGTON, Mr Charles Henry",Victim,,37.0,Passenger,Male,1st Class,113796,£42 8s
+"LORING, Mr Joseph Holland",Victim,United States,30.0,Passenger,Male,1st Class,113801,£45 10s
+"GOODWIN, Mr Frederick Joseph",Victim,England,42.0,Passenger,Male,3rd Class,2144,£46 18s
+"GOODWIN, Mr Charles Edward",Victim,England,14.0,Passenger,Male,3rd Class,2144,£46 18s
+"GOODWIN, Miss Lillian Amy",Victim,England,16.0,Passenger,Female,3rd Class,2144,£46 18s
+"GOODWIN, Master Harold Victor",Victim,England,9.0,Passenger,Male,3rd Class,2144,£46 18s
+"GOODWIN, Master Sidney Leslie",Victim,England,1.0,Passenger,Male,3rd Class,2144,£46 18s
+"GOODWIN, Master William Frederick",Victim,England,11.0,Passenger,Male,3rd Class,2144,£46 18s
+"GOODWIN, Miss Jessie Allis",Victim,England,10.0,Passenger,Female,3rd Class,2144,£46 18s
+"GOODWIN, Mrs Augusta",Victim,England,43.0,Passenger,Female,3rd Class,2144,£46 18s
+"CARRAú-ESTEVES, Mr José Pedro",Victim,Uruguay,17.0,Passenger,Male,1st Class,113059,£47 2s
+"CARRAU, Mr Francisco Mauro Severiano",Victim,Uruguay,27.0,Passenger,Male,1st Class,113059,£47 2s
+"FRöLICHER, Miss Hedwig Margaritha",Survivor,Switzerland,22.0,Passenger,Female,1st Class,13568,£49 10s
+"ARTAGAVEYTIA, Mr Ramon",Victim,Argentina,71.0,Passenger,Male,1st Class,17609,£49 10s 1d
+"MAYNé, Mlle Berthe Antonine",Survivor,Belgium,24.0,Passenger,Female,1st Class,17482,£49 10s 1d
+"CARLSSON, Mr Frans Olof",Victim,United States,33.0,Passenger,Male,1st Class,695,£5
+"HIPKINS, Mr William Edward",Victim,England,55.0,Passenger,Male,1st Class,680,£50
+"ROOD, Mr Hugh Roscoe",Victim,United States,38.0,Passenger,Male,1st Class,113767,£50
+"ROEBLING, Mr Washington Augustus II",Victim,United States,31.0,Passenger,Male,1st Class,17590,£50 9s 11d
+"BRANDEIS, Mr Emil",Victim,United States,48.0,Passenger,Male,1st Class,17591,£50 9s 11d
+"HILLIARD, Mr Herbert Henry",Victim,United States,44.0,Passenger,Male,1st Class,17463,£51 17s 3d
+"MCCARTHY, Mr Timothy J.",Victim,United States,54.0,Passenger,Male,1st Class,17463,£51 17s 3d
+"KENYON, Mrs Marion",Survivor,United States,31.0,Passenger,Female,1st Class,17464,£51 17s 3d
+"KENYON, Mr Frederick R.",Victim,United States,41.0,Passenger,Male,1st Class,17464,£51 17s 3d
+"APPLETON, Mrs Charlotte",Survivor,United States,53.0,Passenger,Female,1st Class,11769,£51 9s 7d
+"BROWN, Mrs Caroline Lane",Survivor,United States,59.0,Passenger,Female,1st Class,11769,£51 9s 7d
+"CARDEZA, Mr Thomas Drake Martinez",Survivor,United States,36.0,Passenger,Male,1st Class,17755,£512 6s 7d
+"WARD, Miss Annie Moore",Survivor,,35.0,Passenger,Female,1st Class,17755,£512 6s 7d
+"LESUEUR, Mr Gustave J.",Survivor,,35.0,Passenger,Male,1st Class,17755,£512 6s 7d
+"CARDEZA, Mrs Charlotte Wardle",Survivor,United States,58.0,Passenger,Female,1st Class,17755,£512 6s 7d
+"TAYLOR, Mr Elmer Zebley",Survivor,United States,48.0,Passenger,Male,1st Class,19996,£52
+"DAVIDSON, Mrs Orian",Survivor,Canada,27.0,Passenger,Female,1st Class,12750,£52
+"HOLVERSON, Mrs Mary Aline",Survivor,United States,35.0,Passenger,Female,1st Class,113789,£52
+"TAYLOR, Mrs Juliet Cummins",Survivor,United States,49.0,Passenger,Female,1st Class,19996,£52
+"CLIFFORD, Mr George Quincy",Victim,United States,40.0,Passenger,Male,1st Class,110465,£52
+"DAVIDSON, Mr Thornton",Victim,Canada,31.0,Passenger,Male,1st Class,12750,£52
+"HOLVERSON, Mr Alexander Oskar",Victim,United States,42.0,Passenger,Male,1st Class,113789,£52
+"PORTER, Mr Walter Chamberlain",Victim,United States,46.0,Passenger,Male,1st Class,110465,£52
+"BECKWITH, Mr Richard Leonard",Survivor,United States,37.0,Passenger,Male,1st Class,11751,£52 11s 1d
+"BECKWITH, Mrs Sallie",Survivor,United States,46.0,Passenger,Female,1st Class,11751,£52 11s 1d
+"KIMBALL, Mr Edwin Nelson Jr.",Survivor,United States,42.0,Passenger,Male,1st Class,11753,£52 11s 1d
+"KIMBALL, Mrs Gertrude",Survivor,United States,45.0,Passenger,Female,1st Class,11753,£52 11s 1d
+"MARVIN, Mr Daniel Warner",Victim,United States,18.0,Passenger,Male,1st Class,113773,£53 2s
+"FUTRELLE, Mr Jacques Heath",Victim,England,37.0,Passenger,Male,1st Class,113803,£53 2s
+"CHAMBERS, Mr Norman Campbell",Survivor,United States,27.0,Passenger,Male,1st Class,113806,£53 2s
+"CHAMBERS, Mrs Bertha",Survivor,United States,32.0,Passenger,Female,1st Class,113806,£53 2s
+"FUTRELLE, Mrs Lily May",Survivor,England,35.0,Passenger,Female,1st Class,113803,£53 2s
+"MARVIN, Mrs Mary Graham Carmichael",Survivor,United States,18.0,Passenger,Female,1st Class,113773,£53 2s
+"CHIBNALL, Mrs Edith Martha Bowerman",Survivor,England,48.0,Passenger,Female,1st Class,113505,£55
+"BOWERMAN, Miss Elsie Edith",Survivor,England,22.0,Passenger,Female,1st Class,113505,£55
+"SILVEY, Mrs Alice",Survivor,United States,39.0,Passenger,Female,1st Class,13507,£55 18s
+"SILVEY, Mr William Baird",Victim,United States,50.0,Passenger,Male,1st Class,13507,£55 18s
+"HARDER, Mr George Achilles",Survivor,United States,25.0,Passenger,Male,1st Class,11765,£55 8s 10d
+"STENGEL, Mr Charles Emil Henry",Survivor,United States,54.0,Passenger,Male,1st Class,11778,£55 8s 10d
+"HARDER, Mrs Dorothy",Survivor,United States,21.0,Passenger,Female,1st Class,11765,£55 8s 10d
+"STENGEL, Mrs Annie May",Survivor,United States,44.0,Passenger,Female,1st Class,11778,£55 8s 10d
+"DUFF GORDON, Lucy Christiana, Lady",Survivor,England,48.0,Passenger,Female,1st Class,17485,£56 18s 7d
+"FRANCATELLI, Miss Laura Mabel",Survivor,England,31.0,Passenger,Female,1st Class,17485,£56 18s 7d
+"BING, Mr Lee",Survivor,,32.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"CHIP, Mr Chang",Survivor,,32.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"FOO, Mr Choong",Survivor,,32.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"HEE, Mr Ling",Survivor,,24.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"LAM, Mr Ali",Survivor,Hong Kong,38.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"LANG, Mr Fang",Survivor,,32.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"LAM, Mr Len",Victim,,23.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"LING, Mr Lee",Victim,,28.0,Passenger,Male,3rd Class,1601,£56 9s 11d
+"DICK, Mr Albert Adrian",Survivor,Canada,31.0,Passenger,Male,1st Class,17474,£57
+"DICK, Mrs Vera",Survivor,United States,17.0,Passenger,Female,1st Class,17474,£57
+"MOCK, Mr Philipp Edmund",Survivor,United States,30.0,Passenger,Male,1st Class,13236,£57 15s
+"SCHABERT, Mrs Emma",Survivor,Germany,35.0,Passenger,Female,1st Class,13236,£57 15s
+"HIPPACH, Miss Jean Gertrude",Survivor,United States,17.0,Passenger,Female,1st Class,111361,£57 19s 7d
+"HIPPACH, Mrs Ida Sophia",Survivor,United States,44.0,Passenger,Female,1st Class,111361,£57 19s 7d
+"GIBSON, Miss Dorothy Winifred",Survivor,United States,22.0,Passenger,Female,1st Class,112378,£59 8s
+"GIBSON, Mrs Pauline Caroline",Survivor,United States,44.0,Passenger,Female,1st Class,112378,£59 8s
+"ROTHSCHILD, Mrs Elizabeth Jane Anne",Survivor,United States,54.0,Passenger,Female,1st Class,17603,£59 8s
+"ROTHSCHILD, Mr Martin",Victim,United States,46.0,Passenger,Male,1st Class,17603,£59 8s
+"BURKE, Mr Jeremiah",Victim,Ireland,19.0,Passenger,Male,3rd Class,365222,£6 15s
+"HEGARTY, Miss Hanora ""Nora""",Victim,Ireland,18.0,Passenger,Female,3rd Class,365226,£6 15s
+"HART, Mr Henry",Victim,Ireland,28.0,Passenger,Male,3rd Class,394140,£6 17s 2d
+"FLYNN, Mr John",Victim,Ireland,42.0,Passenger,Male,3rd Class,368323,£6 19s
+"DALY, Miss Margaret Marcella ""Maggie""",Survivor,Ireland,30.0,Passenger,Female,3rd Class,382650,£6 19s
+"HAGLAND, Mr Ingvald Olai Olsen",Victim,Norway,28.0,Passenger,Male,3rd Class,65303,£6 19s 4d
+"HAGLAND, Mr Konrad Mathias Reiersen",Victim,Norway,19.0,Passenger,Male,3rd Class,65304,£6 19s 4d
+"EKSTRöM, Mr Johan",Victim,Sweden,45.0,Passenger,Male,3rd Class,347061,£6 19s 6d
+"HEDMAN, Mr Oskar Arvid",Survivor,Sweden,27.0,Passenger,Male,3rd Class,347089,£6 19s 6d
+"NYSVEEN, Mr Johan Hansen",Victim,Norway,60.0,Passenger,Male,3rd Class,345364,£6 4s 9d
+"THOMAS, Mr Charles R'ad.",Victim,Lebanon,31.0,Passenger,Male,3rd Class,2621,£6 8s 9d
+"THOMAS/TANNOUS, Mr John",Victim,,34.0,Passenger,Male,3rd Class,2681,£6 8s 9d
+"LYMPEROPOULUS, Mr Panagiotis K.",Victim,Greece,30.0,Passenger,Male,3rd Class,2683,£6 8s 9d
+"HOLM, Mr John Fredrik Alexander",Victim,Sweden,43.0,Passenger,Male,3rd Class,7075,£6 9s
+"JOHANSON, Mr Jakob Alfred",Victim,Finland,34.0,Passenger,Male,3rd Class,3101264,£6 9s 11d
+"WIKLUND, Mr Jakob Alfred",Victim,Finland,18.0,Passenger,Male,3rd Class,3101267,£6 9s 11d
+"WIKLUND, Mr Karl Johan",Victim,Finland,21.0,Passenger,Male,3rd Class,3101266,£6 9s 11d
+"SJöBLOM, Miss Anna Sofia",Survivor,Finland,18.0,Passenger,Female,3rd Class,3101265,£6 9s 11d
+"SMITH, Mrs Mary Eloise",Survivor,United States,18.0,Passenger,Female,1st Class,13695,£60
+"SMITH, Mr Lucian Philip",Victim,United States,24.0,Passenger,Male,1st Class,13695,£60
+"OSTBY, Mr Engelhart Cornelius",Victim,United States,64.0,Passenger,Male,1st Class,113509,£61 19s 7d
+"ØSTBY, Miss Helen Ragnhild",Survivor,United States,22.0,Passenger,Female,1st Class,113509,£61 19s 7d
+"CHAFFEE, Mrs Carrie Constance",Survivor,United States,47.0,Passenger,Female,1st Class,5734,£61 3s 6d
+"CHAFFEE, Mr Herbert Fuller",Victim,United States,46.0,Passenger,Male,1st Class,5734,£61 3s 6d
+"WILLIAMS, Mr Charles Duane",Victim,Switzerland,51.0,Passenger,Male,1st Class,17597,£61 7s 7d
+"WILLIAMS, Mr Richard Norris II",Survivor,Switzerland,21.0,Passenger,Male,1st Class,17597,£61 7s 7d
+"BESSETTE, Miss Nellie Mayo",Survivor,,39.0,Passenger,Female,1st Class,17760,£63 7s 2d
+"GREENFIELD, Mr William Bertram",Survivor,United States,23.0,Passenger,Male,1st Class,17759,£63 7s 2d
+"GREENFIELD, Mrs Blanche",Survivor,United States,45.0,Passenger,Female,1st Class,17759,£63 7s 2d
+"SWEET, Mr George Frederick",Victim,England,14.0,Passenger,Male,2nd Class,220845,£65
+"HERMAN, Mr Samuel",Victim,England,49.0,Passenger,Male,2nd Class,220845,£65
+"HERMAN, Miss Alice",Survivor,,23.0,Passenger,Female,2nd Class,220845,£65
+"HERMAN, Miss Kate",Survivor,,23.0,Passenger,Female,2nd Class,220845,£65
+"HERMAN, Mrs Jane",Survivor,,48.0,Passenger,Female,2nd Class,220845,£65
+"PEARS, Mr Thomas Clinton",Victim,England,29.0,Passenger,Male,1st Class,113776,£66 12s
+"PEARS, Mrs Edith",Survivor,England,22.0,Passenger,Female,1st Class,113776,£66 12s
+"SAGE, Mr Douglas Bullen",Victim,England,18.0,Passenger,Male,3rd Class,2343,£69 11s
+"SAGE, Mr George John",Victim,England,19.0,Passenger,Male,3rd Class,2343,£69 11s
+"SAGE, Mr Frederick",Victim,England,16.0,Passenger,Male,3rd Class,2343,£69 11s
+"SAGE, Miss Stella Anne",Victim,England,20.0,Passenger,Female,3rd Class,2343,£69 11s
+"SAGE, Miss Dorothy",Victim,England,14.0,Passenger,Female,3rd Class,2343,£69 11s
+"SAGE, Mr John George",Victim,England,44.0,Passenger,Male,3rd Class,2343,£69 11s
+"SAGE, Master Anthony William",Victim,England,12.0,Passenger,Male,3rd Class,2343,£69 11s
+"SAGE, Master Thomas Henry",Victim,England,4.0,Passenger,Male,3rd Class,2343,£69 11s
+"SAGE, Miss Constance Gladys",Victim,England,7.0,Passenger,Female,3rd Class,2343,£69 11s
+"SAGE, Miss Elizabeth Ada",Victim,England,10.0,Passenger,Female,3rd Class,2343,£69 11s
+"SAGE, Mrs Annie Elizabeth",Victim,England,44.0,Passenger,Female,3rd Class,2343,£69 11s
+"SäGESSER, Mlle Emma",Survivor,,24.0,Passenger,Female,1st Class,17477,£69 6s
+"AUBART, Mme. Léontine Pauline",Survivor,France,24.0,Passenger,Female,1st Class,17477,£69 6s
+"PEARCE, Mr Ernest",Victim,England,32.0,Passenger,Male,3rd Class,343271,£7
+"WILKES, Mrs Ellen",Survivor,England,47.0,Passenger,Female,3rd Class,363272,£7
+"KARLSSON, Mr Nils August",Victim,Sweden,22.0,Passenger,Male,3rd Class,350060,£7 10s 5d
+"BRAUND, Mr Lewis Richard",Victim,England,29.0,Passenger,Male,3rd Class,3460,£7 11d
+"KUTSCHER (LITHMAN), Mr Simon",Victim,Scotland,26.0,Passenger,Male,3rd Class,251,£7 11s
+"ABBING, Mr Anthony",Victim,United States,42.0,Passenger,Male,3rd Class,5547,£7 11s
+"WARREN, Mr Charles William",Victim,England,30.0,Passenger,Male,3rd Class,49867,£7 11s
+"MACKAY, Mr George William",Victim,England,20.0,Passenger,Male,3rd Class,42795,£7 11s
+"WILLEY, Mr Edward",Victim,England,18.0,Passenger,Male,3rd Class,751,£7 11s
+"DUQUEMIN, Mr Joseph Pierre",Survivor,Channel Islands,19.0,Passenger,Male,3rd Class,752,£7 11s
+"STANLEY, Miss Amy Zillah Elsie",Survivor,England,24.0,Passenger,Female,3rd Class,2314,£7 11s
+"HARKNETT, Miss Alice Phoebe",Victim,England,21.0,Passenger,Female,3rd Class,6609,£7 11s
+"SADOWITZ, Mr Harry",Victim,England,17.0,Passenger,Male,3rd Class,1588,£7 11s 10d
+"LUNDSTRöM, Mr Thure Edvin",Survivor,Sweden,32.0,Passenger,Male,3rd Class,350403,£7 11s 7d
+"CONNOLLY, Miss Kate [2]",Victim,Ireland,35.0,Passenger,Female,3rd Class,330972,£7 12s 7d
+"O'SULLIVAN, Miss Bridget Mary",Victim,Ireland,21.0,Passenger,Female,3rd Class,330909,£7 12s 7d
+"MOEN, Mr Sigurd Hansen",Victim,Norway,27.0,Passenger,Male,3rd Class,348123,£7 13s
+"SøHOLT, Mr Peter Andreas Lauritz Andersen",Victim,Norway,19.0,Passenger,Male,3rd Class,348124,£7 13s
+"ABELSETH, Mr Olaus Jørgensen",Survivor,United States,25.0,Passenger,Male,3rd Class,348122,£7 13s
+"HUMBLEN, Mr Adolf Mathias Nicolai Olsen",Victim,Norway,42.0,Passenger,Male,3rd Class,348121,£7 13s
+"ABELSETH, Miss Karen Marie",Survivor,Norway,16.0,Passenger,Female,3rd Class,348125,£7 13s
+"SALKJELSVIK, Miss Anna Kristine",Survivor,Norway,21.0,Passenger,Female,3rd Class,343120,£7 13s
+"GALLAGHER, Mr Martin",Victim,Ireland,29.0,Passenger,Male,3rd Class,36864,£7 14s 10d
+"RIORDAN, Miss Hannah",Survivor,Ireland,18.0,Passenger,Female,3rd Class,334915,£7 14s 5d
+"BRADLEY, Miss Bridget Delia",Survivor,Ireland,22.0,Passenger,Female,3rd Class,334914,£7 14s 6d
+"SCANLAN, Mr James",Victim,Ireland,22.0,Passenger,Male,3rd Class,36209,£7 14s 6d
+"SADLIER, Mr Matthew",Victim,Ireland,20.0,Passenger,Male,3rd Class,367655,£7 14s 7d
+"CHARTERS, Mr David",Victim,Ireland,20.0,Passenger,Male,3rd Class,13032,£7 14s 8d
+"CONLIN, Mr Thomas Henry",Victim,United States,31.0,Passenger,Male,3rd Class,21332,£7 14s 8d
+"O'CONNELL, Mr Patrick Denis",Victim,Ireland,17.0,Passenger,Male,3rd Class,334912,£7 14s 8d
+"GILNAGH, Miss Mary Katherine",Survivor,Ireland,17.0,Passenger,Female,3rd Class,35851,£7 14s 8d
+"MULLEN, Miss Katherine ""Katie""",Survivor,Ireland,21.0,Passenger,Female,3rd Class,35852,£7 14s 8d
+"SMYTH, Miss Julia",Survivor,Ireland,17.0,Passenger,Female,3rd Class,335432,£7 14s 8d
+"HARGADON, Miss Catherine ""Kate""",Victim,Ireland,17.0,Passenger,Female,3rd Class,30631,£7 14s 8d
+"KILGANNON, Mr Thomas",Victim,Ireland,22.0,Passenger,Male,3rd Class,36865,£7 14s 9d
+"MANNION, Miss Margaret",Survivor,Ireland,28.0,Passenger,Female,3rd Class,36866,£7 14s 9d
+"MCCORMACK, Mr Thomas Joseph",Survivor,United States,19.0,Passenger,Male,3rd Class,367228,£7 15s
+"DALY, Mr Eugene Patrick",Survivor,Ireland,29.0,Passenger,Male,3rd Class,382651,£7 15s
+"KENNEDY, Mr John",Survivor,Ireland,24.0,Passenger,Male,3rd Class,368783,£7 15s
+"O'KEEFE, Mr Patrick",Survivor,Ireland,21.0,Passenger,Male,3rd Class,368402,£7 15s
+"CONNAGHTON, Mr Michael",Victim,Ireland,31.0,Passenger,Male,3rd Class,335097,£7 15s
+"CONNORS, Mr Patrick",Victim,Ireland,66.0,Passenger,Male,3rd Class,370369,£7 15s
+"DWAN, Mr Frank",Victim,Ireland,65.0,Passenger,Male,3rd Class,336439,£7 15s
+"FARRELL, Mr James ""Jim""",Victim,Ireland,25.0,Passenger,Male,3rd Class,367232,£7 15s
+"FOLEY, Mr William",Victim,Ireland,20.0,Passenger,Male,3rd Class,365235,£7 15s
+"KEANE, Mr Andrew ""Andy""",Victim,Ireland,23.0,Passenger,Male,3rd Class,12460,£7 15s
+"LANE, Mr Patrick",Victim,Ireland,16.0,Passenger,Male,3rd Class,7935,£7 15s
+"MCMAHON, Mr Martin",Victim,Ireland,20.0,Passenger,Male,3rd Class,370372,£7 15s
+"MERNAGH, Mr Robert",Victim,Ireland,28.0,Passenger,Male,3rd Class,368703,£7 15s
+"SHAUGHNESSY, Mr Patrick",Victim,Ireland,24.0,Passenger,Male,3rd Class,370374,£7 15s
+"O'CONNOR, Mr Patrick",Victim,Ireland,23.0,Passenger,Male,3rd Class,366713,£7 15s
+"TOBIN, Mr Roger",Victim,Ireland,20.0,Passenger,Male,3rd Class,383121,£7 15s
+"RYAN, Mr Edward",Survivor,Ireland,24.0,Passenger,Male,3rd Class,383162,£7 15s
+"BJöRKLUND, Mr Ernst Herbert",Victim,Sweden,18.0,Passenger,Male,3rd Class,347090,£7 15s
+"CANAVAN, Mr Patrick",Victim,Ireland,21.0,Passenger,Male,3rd Class,364858,£7 15s
+"DOOLEY, Mr Patrick",Victim,Ireland,38.0,Passenger,Male,3rd Class,370376,£7 15s
+"FLYNN, Mr James",Victim,Ireland,28.0,Passenger,Male,3rd Class,364851,£7 15s
+"FOX, Mr Patrick",Victim,Ireland,28.0,Passenger,Male,3rd Class,368573,£7 15s
+"HORGAN, Mr John",Victim,,22.0,Passenger,Male,3rd Class,370377,£7 15s
+"KIERNAN, Mr John",Victim,United States,25.0,Passenger,Male,3rd Class,367227,£7 15s
+"KIERNAN, Mr Philip",Victim,Ireland,22.0,Passenger,Male,3rd Class,367229,£7 15s
+"MEEHON, Mr John",Victim,Ireland,22.0,Passenger,Male,3rd Class,3130,£7 15s
+"MORROW, Mr Thomas Rowan",Victim,Ireland,30.0,Passenger,Male,3rd Class,372622,£7 15s
+"MYHRMAN, Mr Pehr Fabian Oliver Malkolm",Victim,Sweden,18.0,Passenger,Male,3rd Class,347078,£7 15s
+"O'CONNOR, Mr Maurice",Victim,Ireland,16.0,Passenger,Male,3rd Class,371060,£7 15s
+"WIDEGREN, Mr Carl / Charles Peter",Victim,,51.0,Passenger,Male,3rd Class,347064,£7 15s
+"CONNOLLY, Miss Kate [1]",Survivor,Ireland,23.0,Passenger,Female,3rd Class,370373,£7 15s
+"CORR, Miss Helen",Survivor,Ireland,16.0,Passenger,Female,3rd Class,367231,£7 15s
+"GLYNN, Miss Mary Agatha",Survivor,Ireland,19.0,Passenger,Female,3rd Class,335677,£7 15s
+"HEALY, Miss Hanora ""Nora""",Survivor,Ireland,29.0,Passenger,Female,3rd Class,370375,£7 15s
+"JERMYN, Miss Annie Jane",Survivor,Ireland,26.0,Passenger,Female,3rd Class,14313,£7 15s
+"KELLY, Miss Anna Katherine",Survivor,Ireland,20.0,Passenger,Female,3rd Class,9234,£7 15s
+"KELLY, Miss Mary",Survivor,Ireland,22.0,Passenger,Female,3rd Class,14312,£7 15s
+"MADIGAN, Miss Margaret",Survivor,Ireland,21.0,Passenger,Female,3rd Class,370370,£7 15s
+"MCCARTHY, Miss Catherine ""Katie""",Survivor,Ireland,24.0,Passenger,Female,3rd Class,383123,£7 15s
+"MULVIHILL, Miss Bridget Elizabeth",Survivor,Ireland,25.0,Passenger,Female,3rd Class,382653,£7 15s
+"NYSTEN, Miss Anna Sofia",Survivor,Sweden,22.0,Passenger,Female,3rd Class,347081,£7 15s
+"O'DRISCOLL, Miss Bridget",Survivor,Ireland,27.0,Passenger,Female,3rd Class,14311,£7 15s
+"BOURKE, Miss Mary",Victim,Ireland,40.0,Passenger,Female,3rd Class,364848,£7 15s
+"CANAVAN, Miss Mary",Victim,Ireland,22.0,Passenger,Female,3rd Class,364846,£7 15s
+"CARR, Miss Jane",Victim,Ireland,45.0,Passenger,Female,3rd Class,368364,£7 15s
+"DONOHOE, Miss Bridget",Victim,Ireland,21.0,Passenger,Female,3rd Class,364856,£7 15s
+"DOYLE, Miss Elizabeth",Victim,Ireland,24.0,Passenger,Female,3rd Class,368702,£7 15s
+"FLEMING, Miss Honora",Victim,Ireland,22.0,Passenger,Female,3rd Class,364859,£7 15s
+"HENRY, Miss Bridget Delia",Victim,Ireland,21.0,Passenger,Female,3rd Class,382649,£7 15s
+"LINDBLOM, Miss Augusta Charlotta",Victim,Sweden,45.0,Passenger,Female,3rd Class,347073,£7 15s
+"MANGAN, Miss Mary",Victim,Ireland,32.0,Passenger,Female,3rd Class,364850,£7 15s
+"MCGOWAN, Miss Katherine",Victim,Ireland,42.0,Passenger,Female,3rd Class,9232,£7 15s
+"MCNEILL, Miss Bridget",Victim,Ireland,27.0,Passenger,Female,3rd Class,370368,£7 15s
+"NAUGHTON, Miss Hannah",Victim,Ireland,21.0,Passenger,Female,3rd Class,365237,£7 15s
+"SMYTH, Mr Thomas",Victim,Ireland,26.0,Passenger,Male,3rd Class,384461,£7 15s
+"BROBECK, Mr Karl Rudolf",Victim,Sweden,22.0,Passenger,Male,3rd Class,350045,£7 15s 11d
+"CARLSSON, Mr August Sigfrid",Victim,Sweden,28.0,Passenger,Male,3rd Class,350042,£7 15s 11d
+"SVENSSON, Mr Olof",Victim,Sweden,24.0,Passenger,Male,3rd Class,350035,£7 15s 11d
+"JOHANSSON, Mr Erik",Victim,Sweden,22.0,Passenger,Male,3rd Class,350052,£7 15s 11d
+"KARLSSON, Mr Einar Gervasius",Survivor,Sweden,21.0,Passenger,Male,3rd Class,350053,£7 15s 11d
+"ASPLUND, Mr Johan Charles",Survivor,Sweden,23.0,Passenger,Male,3rd Class,350054,£7 15s 11d
+"JANSSON, Mr Carl Olof",Survivor,Sweden,21.0,Passenger,Male,3rd Class,350034,£7 15s 11d
+"TENGLIN, Mr Gunnar Isidor",Survivor,Sweden,25.0,Passenger,Male,3rd Class,350033,£7 15s 11d
+"WENNERSTRöM, Mr August",Survivor,Sweden,27.0,Passenger,Male,3rd Class,350043,£7 15s 11d
+"FISCHER, Mr Eberhard Thelander",Victim,Sweden,18.0,Passenger,Male,3rd Class,350036,£7 15s 11d
+"BUCKLEY, Mr Daniel",Survivor,Ireland,21.0,Passenger,Male,3rd Class,330920,£7 15s 17d
+"PERSSON, Mr Ernst Ulrik",Survivor,Sweden,25.0,Passenger,Male,3rd Class,347083,£7 15s 6d
+"MIDTSJø, Mr Karl Albert",Survivor,Norway,21.0,Passenger,Male,3rd Class,345501,£7 15s 6d
+"ANDERSSON, Mr Johan Samuel",Victim,Sweden,26.0,Passenger,Male,3rd Class,347075,£7 15s 6d
+"ARONSSON, Mr Ernst Axel Algot",Victim,Sweden,24.0,Passenger,Male,3rd Class,349911,£7 15s 6d
+"BENGTSSON, Mr Johan Viktor",Victim,Sweden,26.0,Passenger,Male,3rd Class,347068,£7 15s 6d
+"EDVARDSSON, Mr Gustaf Hjalmar",Victim,Sweden,18.0,Passenger,Male,3rd Class,349912,£7 15s 6d
+"EKLUND, Mr Hans Linus",Victim,Sweden,16.0,Passenger,Male,3rd Class,347074,£7 15s 6d
+"GUSTAFSSON, Mr Karl Gideon",Victim,Sweden,19.0,Passenger,Male,3rd Class,347069,£7 15s 6d
+"JOHNSON, Mr Malkolm Joackim",Victim,United States,33.0,Passenger,Male,3rd Class,347062,£7 15s 6d
+"LARSSON-RONDBERG, Mr Edvard A.",Victim,Sweden,22.0,Passenger,Male,3rd Class,347065,£7 15s 6d
+"LARSSON, Mr Bengt Edvin",Victim,Sweden,29.0,Passenger,Male,3rd Class,347067,£7 15s 6d
+"PEDERSEN, Mr Olaf",Victim,Norway,28.0,Passenger,Male,3rd Class,345498,£7 15s 6d
+"PETTERSSON, Mr Johan Emil",Victim,Sweden,25.0,Passenger,Male,3rd Class,347076,£7 15s 6d
+"BIRKELAND, Mr Hans Martin Monsen",Victim,Norway,21.0,Passenger,Male,3rd Class,312992,£7 15s 6d
+"HENRIKSSON, Miss Jenny Lovisa",Victim,Sweden,28.0,Passenger,Female,3rd Class,347086,£7 15s 6d
+"ROMMETVEDT, Mr Knud Paust",Victim,Norway,49.0,Passenger,Male,3rd Class,312993,£7 15s 6d
+"JOHANSSON PALMQUIST, Mr Oskar Leander",Survivor,Sweden,26.0,Passenger,Male,3rd Class,347070,£7 15s 6d
+"MOSS, Mr Albert Johan",Survivor,Norway,29.0,Passenger,Male,3rd Class,312991,£7 15s 6d
+"NILSSON, Miss Berta Olivia",Survivor,Sweden,18.0,Passenger,Female,3rd Class,347066,£7 15s 6d
+"ÖHMAN, Miss Velin",Survivor,Sweden,22.0,Passenger,Female,3rd Class,347085,£7 15s 6d
+"OLSSON, Mr Oscar Wilhelm",Survivor,Sweden,32.0,Passenger,Male,3rd Class,347079,£7 15s 6d
+"ANDERSSON, Miss Ida Augusta Margareta",Victim,Sweden,38.0,Passenger,Female,3rd Class,347091,£7 15s 6d
+"JOHANSSON, Mr Karl Johan",Victim,United States,31.0,Passenger,Male,3rd Class,347063,£7 15s 6d
+"LINDAHL, Miss Agda Thorilda Viktoria",Victim,Sweden,25.0,Passenger,Female,3rd Class,347071,£7 15s 6d
+"PETTERSSON, Miss Ellen Natalia",Victim,Sweden,18.0,Passenger,Female,3rd Class,347087,£7 15s 6d
+"SVENSSON, Mr Johan",Victim,Sweden,74.0,Passenger,Male,3rd Class,347060,£7 15s 6d
+"MCDERMOTT, Miss Bridget Delia",Survivor,Ireland,31.0,Passenger,Female,3rd Class,330932,£7 15s 8d
+"NOSWORTHY, Mr Richard Cater",Victim,England,21.0,Passenger,Male,3rd Class,39886,£7 16s
+"O'LEARY, Miss Hanora ""Nora""",Survivor,Ireland,16.0,Passenger,Female,3rd Class,330919,£7 16s 7d
+"SHINE, Miss Ellen Natalia",Survivor,England,20.0,Passenger,Female,3rd Class,330968,£7 16s 7d
+"O'BRIEN, Mr Timothy",Victim,Ireland,21.0,Passenger,Male,3rd Class,330979,£7 16s 7d
+"KELLY, Mr James [3]",Victim,Irealnd,44.0,Passenger,Male,3rd Class,363592,£7 16s 7d 
+"GOLDSMITH, Mr Nathan",Victim,,41.0,Passenger,Male,3rd Class,3101263,£7 17s
+"ANGHELOFF, Mr Minko",Victim,Bulgaria,26.0,Passenger,Male,3rd Class,349202,£7 17s 11d
+"BALKIC, Mr Cerin",Victim,Bosnia,26.0,Passenger,Male,3rd Class,349248,£7 17s 11d
+"BOSTANDYEFF, Mr Guentcho",Victim,,26.0,Passenger,Male,3rd Class,349224,£7 17s 11d
+"COLEFF, Mr Satio",Victim,Bulgaria,24.0,Passenger,Male,3rd Class,349209,£7 17s 11d
+"COLTCHEFF, Mr Peju",Victim,Bulgaria,36.0,Passenger,Male,3rd Class,349210,£7 17s 11d
+"COR, Mr Bartol",Victim,Croatia,35.0,Passenger,Male,3rd Class,349230,£7 17s 11d
+"COR, Mr Ivan",Victim,Hungary,27.0,Passenger,Male,3rd Class,349229,£7 17s 11d
+"COR, Mr Liudevit",Victim,Hungary,19.0,Passenger,Male,3rd Class,349231,£7 17s 11d
+"DANOFF, Mr Yoto",Victim,,27.0,Passenger,Male,3rd Class,349219,£7 17s 11d
+"DELALIC, Mr Redjo",Victim,Bosnia,25.0,Passenger,Male,3rd Class,349250,£7 17s 11d
+"DENKOFF, Mr Mitto",Victim,,30.0,Passenger,Male,3rd Class,349225,£7 17s 11d
+"DRAZENOVIC, Mr Jozef",Victim,Croatia,33.0,Passenger,Male,3rd Class,349241,£7 17s 11d
+"GHEORGHEFF, Mr Stanio",Victim,Bulgaria,,Passenger,Male,3rd Class,349254,£7 17s 11d
+"HENDEKOVIC, Mr Ignjac",Victim,,28.0,Passenger,Male,3rd Class,349243,£7 17s 11d
+"ILIEFF, Mr Ylio",Victim,,32.0,Passenger,Male,3rd Class,349220,£7 17s 11d
+"IVANOFF, Mr Kanio",Victim,Bulgaria,20.0,Passenger,Male,3rd Class,349201,£7 17s 11d
+"JONKOFF, Mr Lalio",Victim,Bulgaria,23.0,Passenger,Male,3rd Class,349204,£7 17s 11d
+"KARAJIC, Mr Milan",Victim,Hungary,30.0,Passenger,Male,3rd Class,349246,£7 17s 11d
+"KRAEFF, Mr Theodor",Victim,Bulgaria,,Passenger,Male,3rd Class,349253,£7 17s 11d
+"LALEFF, Mr Kristo",Victim,Bulgaria,23.0,Passenger,Male,3rd Class,349217,£7 17s 11d
+"LYNTAKOFF, Mr Stanko",Victim,,44.0,Passenger,Male,3rd Class,349235,£7 17s 11d
+"MARKOFF, Mr Marin",Victim,Bulgaria,35.0,Passenger,Male,3rd Class,349213,£7 17s 11d
+"MARKUN, Mr Johann",Victim,,33.0,Passenger,Male,3rd Class,349257,£7 17s 11d
+"MIHOFF, Mr Stoytcho",Victim,Bulgaria,28.0,Passenger,Male,3rd Class,349207,£7 17s 11d
+"MINEFF, Mr Ivan",Victim,,24.0,Passenger,Male,3rd Class,349233,£7 17s 11d
+"MINKOFF, Mr Lazar",Victim,Bulgaria,21.0,Passenger,Male,3rd Class,349211,£7 17s 11d
+"MITKOFF, Mr Mito",Victim,,23.0,Passenger,Male,3rd Class,349221,£7 17s 11d
+"NAIDENOFF, Mr Penko",Victim,Bulgaria,22.0,Passenger,Male,3rd Class,349206,£7 17s 11d
+"NANKOFF, Mr Minko",Victim,,32.0,Passenger,Male,3rd Class,349218,£7 17s 11d
+"NENKOFF, Mr Christo",Victim,,22.0,Passenger,Male,3rd Class,349234,£7 17s 11d
+"PAVLOVIC, Mr Stefo",Victim,Hungary,32.0,Passenger,Male,3rd Class,349242,£7 17s 11d
+"PETROFF, Mr Nedialco",Victim,Bulgaria,19.0,Passenger,Male,3rd Class,349212,£7 17s 11d
+"PETROFF, Mr Pastcho",Victim,Bulgaria,29.0,Passenger,Male,3rd Class,349215,£7 17s 11d
+"PLOTCHARSKY, Mr Vasil",Victim,,27.0,Passenger,Male,3rd Class,349227,£7 17s 11d
+"RADEFF, Mr Alexander",Victim,,27.0,Passenger,Male,3rd Class,349223,£7 17s 11d
+"REKIC, Mr Tido",Victim,Bosnia,38.0,Passenger,Male,3rd Class,349249,£7 17s 11d
+"SIVIC, Mr Husein",Victim,Bosnia,40.0,Passenger,Male,3rd Class,349251,£7 17s 11d
+"SLABENOFF, Mr Petco",Victim,,42.0,Passenger,Male,3rd Class,349214,£7 17s 11d
+"STANEFF, Mr Ivan",Victim,Bulgaria,23.0,Passenger,Male,3rd Class,349208,£7 17s 11d
+"STOYTCHEFF, Mr Ilia",Victim,Bulgaria,19.0,Passenger,Male,3rd Class,349205,£7 17s 11d
+"TODOROFF, Mr Lalio",Victim,Bulgaria,23.0,Passenger,Male,3rd Class,349216,£7 17s 11d
+"TOTEVSKI, Mr Hristo Danchev",Victim,Bulgaria,25.0,Passenger,Male,3rd Class,349203,£7 17s 11d
+"TURCIN, Mr Stjepan",Victim,Croatia,36.0,Passenger,Male,3rd Class,349247,£7 17s 11d
+"VOVK, Mr Janko",Victim,,21.0,Passenger,Male,3rd Class,349252,£7 17s 11d
+"PETRANEC, Miss Matilda",Victim,Hungary,28.0,Passenger,Female,3rd Class,349245,£7 17s 11d
+"JAL?EVAC, Mr Ivan",Survivor,Croatia,29.0,Passenger,Male,3rd Class,349240,£7 17s 11d
+"DIKA, Mr Mirko",Victim,Croatia,17.0,Passenger,Male,3rd Class,349232,£7 17s 11d
+"DINTCHEFF, Mr Valtcho",Victim,,43.0,Passenger,Male,3rd Class,349226,£7 17s 11d
+"MARINKO, Mr Dmitri",Victim,Yugoslavia,23.0,Passenger,Male,3rd Class,349238,£7 17s 11d
+"MATINOFF, Mr Nicola",Victim,Bulgaria,30.0,Passenger,Male,3rd Class,349255,£7 17s 11d
+"SDYCOFF, Mr Todor",Victim,,42.0,Passenger,Male,3rd Class,349222,£7 17s 11d
+"KARLSSON, Mr Julius Konrad Eugen",Victim,Sweden,33.0,Passenger,Male,3rd Class,347465,£7 17s 1d
+"KLASéN, Mr Klas Albin",Victim,Sweden,18.0,Passenger,Male,3rd Class,350404,£7 17s 1d
+"HANSEN, Mr Henrik Juul",Victim,Denmark,26.0,Passenger,Male,3rd Class,350025,£7 17s 1d
+"JENSEN, Mr Svend Lauritz",Victim,Denmark,17.0,Passenger,Male,3rd Class,350047,£7 17s 1d
+"JONSSON, Mr Carl",Survivor,Sweden,25.0,Passenger,Male,3rd Class,350417,£7 17s 1d
+"ANDREASSON, Mr Paul Edvin",Victim,Sweden,20.0,Passenger,Male,3rd Class,347466,£7 17s 1d
+"AUGUSTSSON, Mr Albert",Victim,Sweden,23.0,Passenger,Male,3rd Class,347468,£7 17s 1d
+"CARLSSON, Mr Carl Robert",Victim,Sweden,24.0,Passenger,Male,3rd Class,350409,£7 17s 1d
+"JOHANSSON, Mr Nils",Victim,United States,29.0,Passenger,Male,3rd Class,347467,£7 17s 1d
+"JöNSSON, Mr Nils Hilding",Victim,Sweden,27.0,Passenger,Male,3rd Class,350408,£7 17s 1d
+"NILSSON, Mr August Ferdinand",Victim,Sweden,21.0,Passenger,Male,3rd Class,350410,£7 17s 1d
+"VENDEL, Mr Olof Edvin",Victim,Sweden,20.0,Passenger,Male,3rd Class,350416,£7 17s 1d
+"HANSEN, Mr Henry Damsgaard",Victim,Denmark,21.0,Passenger,Male,3rd Class,350029,£7 17s 1d
+"BRAF, Miss Elin Ester Maria",Victim,Sweden,20.0,Passenger,Female,3rd Class,347471,£7 17s 1d
+"VESTRöM, Miss Hulda Amanda Adolfina",Victim,Sweden,14.0,Passenger,Female,3rd Class,350406,£7 17s 1d
+"ANDERSEN-JENSEN, Miss Carla Christine Nielsine",Survivor,Denmark,19.0,Passenger,Female,3rd Class,350046,£7 17s 1d
+"LUNDIN, Miss Olga Elida",Survivor,United States,23.0,Passenger,Female,2nd Class,347469,£7 17s 1d
+"NILSSON, Miss Helmina Josefina",Survivor,Sweden,26.0,Passenger,Female,3rd Class,347470,£7 17s 1d
+"JENSEN, Mr Hans Peder",Victim,Denmark,20.0,Passenger,Male,3rd Class,350050,£7 17s 1d
+"OLSSON, Miss Elina",Victim,Sweden,31.0,Passenger,Female,3rd Class,350407,£7 17s 1d
+"OLSSON, Mr Nils Johan Göransson",Victim,Sweden,28.0,Passenger,Male,3rd Class,347464,£7 17s 1d
+"ZIMMERMANN, Mr Leo",Victim,Germany,29.0,Passenger,Male,3rd Class,315082,£7 17s 6d
+"FOLEY, Mr Joseph",Victim,United States,19.0,Passenger,Male,3rd Class,330910,£7 17s 7d
+"LINEHAN, Mr Michael",Victim,Ireland,21.0,Passenger,Male,3rd Class,330971,£7 17s 7d
+"LOCKYER, Mr Edward Thomas",Victim,England,21.0,Passenger,Male,3rd Class,1222,£7 17s 7d
+"BARRY, Miss Julia",Victim,United States,26.0,Passenger,Female,3rd Class,330844,£7 17s 7d
+"DEVANEY, Miss Margaret Delia",Survivor,Ireland,19.0,Passenger,Female,3rd Class,330958,£7 17s 7d
+"MCGOVERN, Ms Mary",Survivor,Ireland,22.0,Passenger,Female,3rd Class,330931,£7 17s 7d
+"MOCKLER, Miss Ellen Mary",Survivor,Ireland,23.0,Passenger,Female,3rd Class,330980,£7 17s 7d
+"O'DWYER, Miss Ellen ""Nellie""",Survivor,Ireland,25.0,Passenger,Female,3rd Class,330959,£7 17s 7d
+"BURNS, Miss Mary Delia",Victim,Ireland,17.0,Passenger,Female,3rd Class,330963,£7 17s 7d
+"MAHON, Miss Bridget Delia",Victim,Ireland,20.0,Passenger,Female,3rd Class,330924,£7 17s 7d
+"HYMAN, Mr Abraham Joseph",Survivor,England,34.0,Passenger,Male,3rd Class,3470,£7 17s 9d
+"ALEXANDER, Mr William",Victim,England,23.0,Passenger,Male,3rd Class,3474,£7 17s 9d
+"ALHOMäKI, Mr Ilmari Rudolf",Victim,Finland,19.0,Passenger,Male,3rd Class,3101287,£7 18s 6d
+"GUSTAFSSON, Mr Anders Vilhelm",Victim,Finland,37.0,Passenger,Male,3rd Class,3101276,£7 18s 6d
+"MäKINEN, Mr Kalle Edvard",Victim,Finland,29.0,Passenger,Male,3rd Class,3101268,£7 18s 6d
+"PEKONIEMI, Mr Edvard",Victim,Finland,21.0,Passenger,Male,3rd Class,3101294,£7 18s 6d
+"PELTOMäKI, Mr Nikolai Johannes",Victim,Finland,25.0,Passenger,Male,3rd Class,3101291,£7 18s 6d
+"SALONEN, Mr Johan Werner",Victim,United States,29.0,Passenger,Male,3rd Class,3101296,£7 18s 6d
+"SIVOLA, Mr Antti Wilhelm",Victim,United States,21.0,Passenger,Male,3rd Class,3101280,£7 18s 6d
+"TIKKANEN, Mr Juho",Victim,Finland,32.0,Passenger,Male,3rd Class,3101293,£7 18s 6d
+"HEININEN, Miss Wendla Maria",Victim,Finland,23.0,Passenger,Female,3rd Class,3101290,£7 18s 6d
+"ILMAKANGAS, Miss Ida Livija",Victim,United States,27.0,Passenger,Female,3rd Class,3101270,£7 18s 6d
+"ILMAKANGAS, Miss Pieta Sofia",Victim,Finland,25.0,Passenger,Female,3rd Class,3101271,£7 18s 6d
+"NIEMINEN, Miss Manta Josefina",Victim,Finland,29.0,Passenger,Female,3rd Class,3101297,£7 18s 6d
+"ABRAHAMSSON, Mr Abraham August Johannes",Survivor,Finland,20.0,Passenger,Male,3rd Class,3101284,£7 18s 6d
+"ANDERSSON, Miss Erna Alexandra",Survivor,Finland,17.0,Passenger,Female,3rd Class,3101281,£7 18s 6d
+"HEIKKINEN, Miss Laina",Survivor,Finland,26.0,Passenger,Female,3rd Class,3101282,£7 18s 6d
+"HONKANEN, Miss Eliina",Survivor,Finland,27.0,Passenger,Female,3rd Class,3101283,£7 18s 6d
+"JUSSILA, Mr Eiriik",Survivor,Finland,32.0,Passenger,Male,3rd Class,3101286,£7 18s 6d
+"LINDQVIST, Mr Eino William",Survivor,Finland,20.0,Passenger,Male,3rd Class,3101285,£7 18s 6d
+"NISKäNEN, Mr Juha",Survivor,United States,39.0,Passenger,Male,3rd Class,3101289,£7 18s 6d
+"STRANDéN, Mr Juho Niilosson",Survivor,Finland,31.0,Passenger,Male,3rd Class,3101288,£7 18s 6d
+"SUNDMAN, Mr Johan Julian",Survivor,Finland,44.0,Passenger,Male,3rd Class,3101269,£7 18s 6d
+"GUSTAFSSON, Mr Johan Birger",Victim,Finland,28.0,Passenger,Male,3rd Class,3101277,£7 18s 6d
+"LEINONEN, Mr Antti Gustaf",Victim,Finland,32.0,Passenger,Male,3rd Class,3101292,£7 18s 6d
+"SUTEHALL, Mr Henry Jr",Victim,England,25.0,Passenger,Male,3rd Class,392076,£7 1s
+"ALI, Mr Ahmed",Victim,Argentina,24.0,Passenger,Male,3rd Class,3101311,£7 1s
+"ALI, Mr William",Victim,Argentina,25.0,Passenger,Male,3rd Class,3101312,£7 1s
+"ASIM, Mr Adola",Victim,Argentina,35.0,Passenger,Male,3rd Class,3101310,£7 1s
+"ASSAM, Mr Ali",Victim,Argentina,23.0,Passenger,Male,3rd Class,3101309,£7 1s
+"COELHO, Mr Domingos Fernandeo",Victim,,20.0,Passenger,Male,3rd Class,3101307,£7 1s
+"ESTANISLAU, Mr Manuel Gonçalves",Victim,,37.0,Passenger,Male,3rd Class,3101306,£7 1s
+"JARDIM, Mr José Neto",Victim,,21.0,Passenger,Male,3rd Class,3101305,£7 1s
+"FINOLI, Mr Luigi",Survivor,,34.0,Passenger,Male,3rd Class,3101308,£7 1s
+"JENSEN, Mr Niels Peder (""Rasmus"")",Victim,United States,48.0,Passenger,Male,3rd Class,350048,£7 1s 1d
+"LUNDAHL, Mr Johan Svensson",Victim,Sweden,51.0,Passenger,Male,3rd Class,347743,£7 1s 1d
+"MADSEN, Mr Fridtjof Arne",Survivor,Norway,24.0,Passenger,Male,3rd Class,17369,£7 2s 10d
+"KALLIO, Mr Nikolai Erland",Victim,Finland,17.0,Passenger,Male,3rd Class,3101274,£7 2s 6d
+"NIRVA, Mr Iisakki Antino Äijö",Victim,Finland,41.0,Passenger,Male,3rd Class,3101272,£7 2s 6d
+"RINTAMäKI, Mr Matti",Victim,Finland,35.0,Passenger,Male,3rd Class,3101273,£7 2s 6d
+"MäENPää, Mr Matti Alexanteri",Victim,Finland,22.0,Passenger,Male,3rd Class,3101275,£7 2s 6d
+"BACCOS, Mr Raffull",Victim,,20.0,Passenger,Male,3rd Class,2679,£7 4s 6d
+"GERIOS THAMAH, Mr Assaf",Victim,Lebanon,21.0,Passenger,Male,3rd Class,2692,£7 4s 6d
+"SAAD, Mr Khalil",Victim,Lebanon,27.0,Passenger,Male,3rd Class,2672,£7 4s 6d
+"BADT, Mr Mohamed",Victim,Lebanon,40.0,Passenger,Male,3rd Class,2623,£7 4s 6d
+"WAZLI, Mr Yousif Ahmed",Victim,Lebanon,25.0,Passenger,Male,3rd Class,2647,£7 4s 6d
+"ZENNI, Mr Philip",Survivor,Lebanon,22.0,Passenger,Male,3rd Class,2620,£7 4s 6d
+"ELIAS, Mr Dibo",Victim,,29.0,Passenger,Male,3rd Class,2674,£7 4s 6d
+"HANNA, Mr Boulos",Victim,Lebanon,18.0,Passenger,Male,3rd Class,2664,£7 4s 6d
+"LAHOUD ISHAQ MOWAD, Mr Sarkis",Victim,Lebanon,30.0,Passenger,Male,3rd Class,2624,£7 4s 6d
+"SHIHāB, Mr Al-Amīr Fāris",Victim,Lebanon,29.0,Passenger,Male,3rd Class,2631,£7 4s 6d
+"ZAKARIAN, Mr Ortin",Victim,Turkey,27.0,Passenger,Male,3rd Class,2670,£7 4s 6d
+"ATTALA, Mr Sleiman",Victim,Canada,27.0,Passenger,Male,3rd Class,2694,£7 4s 6d
+"THOMAS/TANNOUS, Mr Tannous",Victim,,16.0,Passenger,Male,3rd Class,2684,£7 4s 6d
+"YOUSSEFF (ABI SAAB), Mr Gerios",Victim,Lebanon,26.0,Passenger,Male,3rd Class,2685,£7 4s 6d
+"ASSAF, Mrs Mariana",Survivor,Lebanon,45.0,Passenger,Female,3rd Class,2696,£7 4s 6d
+"MOUSSELMANI, Mrs Fatima",Survivor,Lebanon,22.0,Passenger,Female,3rd Class,2649,£7 4s 6d
+"NAJIB KIAMIE, Miss Adele ""Jane""",Survivor,Lebanon,15.0,Passenger,Female,3rd Class,2667,£7 4s 6d
+"VARTANIAN, Mr David",Survivor,Turkey,22.0,Passenger,Male,3rd Class,2658,£7 4s 6d
+"NASSR RIZQ, Mr Saade",Victim,Lebanon,20.0,Passenger,Male,3rd Class,2676,£7 4s 6d
+"SHEDID, Mr Daher",Victim,,19.0,Passenger,Male,3rd Class,2698,£7 4s 6d
+"ZAKARIAN, Mr Mapriededer",Victim,Turkey,22.0,Passenger,Male,3rd Class,2656,£7 4s 6d
+"MARDIROSIAN, Mr Sarkis",Victim,Turkey,25.0,Passenger,Male,3rd Class,2655,£7 4s 7d
+"NASR ALMA, Mr Mustafa",Victim,Lebanon,20.0,Passenger,Male,3rd Class,2652,£7 4s 7d
+"SAAD, Mr Amin",Victim,Lebanon,30.0,Passenger,Male,3rd Class,2671,£7 4s 7d
+"TORFA, Mr Assad",Victim,Lebanon,20.0,Passenger,Male,3rd Class,2673,£7 4s 7d
+"KASSEM HOUSSEIN, Mr Fared",Victim,,18.0,Passenger,Male,3rd Class,2700,£7 4s 7d
+"KATAVELOS, Mr Vasilios G.",Victim,Greece,19.0,Passenger,Male,3rd Class,2682,£7 4s 7d
+"SIRAYANIAN, Mr Orsen",Victim,Turkey,22.0,Passenger,Male,3rd Class,2669,£7 4s 7d
+"KREKORIAN, Mr Neshan",Survivor,Turkey,25.0,Passenger,Male,3rd Class,2654,£7 4s 7d
+"ELIAS NASRALLAH, Mr Tannous",Victim,Lebanon,22.0,Passenger,Male,3rd Class,2695,£7 4s 7d
+"ELIAS, Mr Joseph jr.",Victim,Lebanon,15.0,Passenger,Male,3rd Class,2690,£7 4s 7d
+"MOUSSA, Mrs Mantoura Boulos",Survivor,Lebanon,35.0,Passenger,Female,3rd Class,2626,£7 4s 7d
+"NOFAL, Mr Mansouer",Victim,Lebanon,20.0,Passenger,Male,3rd Class,2697,£7 4s 7d
+"BETROS, Mr Tannous",Victim,Lebanon,20.0,Passenger,Male,3rd Class,2648,£7 4s 7d
+"ABRAHIM, Mrs Mary Sophie Halaut",Survivor,Lebanon,18.0,Passenger,Female,3rd Class,2657,£7 4s 7d
+"AYOUB DAHER, Miss Banoura",Survivor,Lebanon,15.0,Passenger,Female,3rd Class,2687,£7 4s 7d
+"GEORGE/JOSEPH, Mrs Shawneene",Survivor,United States,38.0,Passenger,Female,3rd Class,2688,£7 4s 7d
+"HANNAH, Mr Borak (""Hannah Assi Borah"")",Survivor,Lebanon,27.0,Passenger,Male,3rd Class,2663,£7 4s 7d
+"MAMEE, Mr Hanna",Survivor,Lebanon,20.0,Passenger,Male,3rd Class,2677,£7 4s 7d
+"DAHER, Mr Tannous",Victim,,28.0,Passenger,Male,3rd Class,2686,£7 4s 7d
+"HANNA, Mr Mansour",Victim,Lebanon,35.0,Passenger,Male,3rd Class,2693,£7 4s 7d
+"JOSEPH (SHAHIN), Mr Elias",Victim,Lebanon,39.0,Passenger,Male,3rd Class,2675,£7 4s 7d
+"NAKHLI, Mr Toufik",Victim,Lebanon,17.0,Passenger,Male,3rd Class,2641,£7 4s 7d
+"RAZI, Mr Raihed",Victim,Lebanon,30.0,Passenger,Male,3rd Class,2629,£7 4s 7d
+"YOUSSIFF (SAM'AAN), Mr Gerios",Victim,Lebanon,45.0,Passenger,Male,3rd Class,2628,£7 4s 7d
+"REED, Mr James George",Victim,Wales,19.0,Passenger,Male,3rd Class,362316,£7 5s
+"FRANKLIN, Mr Charles (""Charles Fardon"")",Victim,England,38.0,Passenger,Male,3rd Class,3101314,£7 5s
+"WINDELøV, Mr Einar",Victim,South Africa,21.0,Passenger,Male,3rd Class,3101317,£7 5s
+"COXON, Mr Daniel",Victim,England,59.0,Passenger,Male,3rd Class,364500,£7 5s
+"DENNIS, Mr Samuel",Victim,England,22.0,Passenger,Male,3rd Class,21172,£7 5s
+"DENNIS, Mr William",Victim,England,26.0,Passenger,Male,3rd Class,21175,£7 5s
+"ELSBURY, Mr William James",Victim,England,47.0,Passenger,Male,3rd Class,3902,£7 5s
+"KEEFE, Mr Arthur",Victim,United States,39.0,Passenger,Male,3rd Class,323592,£7 5s
+"LOVELL, Mr John Hall (""Henry"")",Victim,England,20.0,Passenger,Male,3rd Class,21173,£7 5s
+"PERKIN, Mr John Henry",Victim,England,22.0,Passenger,Male,3rd Class,21174,£7 5s
+"ÅDAHL, Mr Mauritz Nils Martin",Victim,Sweden,30.0,Passenger,Male,3rd Class,7076,£7 5s
+"COLBERT, Mr Patrick",Victim,Ireland,24.0,Passenger,Male,3rd Class,371109,£7 5s
+"BRAUND, Mr Owen Harris",Victim,England,22.0,Passenger,Male,3rd Class,21171,£7 5s
+"LIVSHIN, Mr David (Abraham Harmer)",Victim,England,25.0,Passenger,Male,3rd Class,374887,£7 5s
+"WISEMAN, Mr Philippe",Victim,England,54.0,Passenger,Male,3rd Class,34244,£7 5s
+"SæTHER, Mr Simon Sivertsen",Victim,Norway,43.0,Passenger,Male,3rd Class,3101262,£7 5s
+"CARVER, Mr Alfred John",Victim,England,28.0,Passenger,Male,3rd Class,370160,£7 5s
+"LANDERGREN, Miss Aurora Adelia",Survivor,Sweden,22.0,Passenger,Female,3rd Class,7077,£7 5s
+"BUCKLEY, Miss Katherine",Victim,Ireland,22.0,Passenger,Female,3rd Class,329944,£7 5s 8d
+"OLSEN, Mr Ole Martin",Victim,Norway,27.0,Passenger,Male,3rd Class,265302,£7 6s 3d
+"CROSBY, Mrs Catherine Elizabeth",Survivor,United States,64.0,Passenger,Female,1st Class,5735,£71
+"CROSBY, Captain Edward Gifford",Victim,United States,70.0,Passenger,Male,1st Class,5735,£71
+"CUMINGS, Mrs Florence Briggs",Survivor,Peru,35.0,Passenger,Female,1st Class,17599,£71 5s 8d
+"CUMINGS, Mr John Bradley",Victim,United States,39.0,Passenger,Male,1st Class,17599,£71 5s 8d
+"DAVIES, Mr Charles Henry",Victim,England,21.0,Passenger,Male,2nd Class,14879,£73 10s
+"DEACON, Mr Percy William",Victim,England,20.0,Passenger,Male,2nd Class,14879,£73 10s
+"DIBDEN, Mr William",Victim,England,18.0,Passenger,Male,2nd Class,14879,£73 10s
+"HICKMAN, Mr Leonard Mark",Victim,England,24.0,Passenger,Male,2nd Class,14879,£73 10s
+"HICKMAN, Mr Lewis",Victim,England,30.0,Passenger,Male,2nd Class,14879,£73 10s
+"HICKMAN, Mr Stanley George",Victim,England,20.0,Passenger,Male,2nd Class,14879,£73 10s
+"HOOD, Mr Ambrose Jr",Victim,England,22.0,Passenger,Male,2nd Class,14879,£73 10s
+"MCCAFFRY, Mr Thomas Francis",Victim,Canada,46.0,Passenger,Male,1st Class,13050,£75 4s 10d
+"BEATTIE, Mr Thomson",Victim,Canada,36.0,Passenger,Male,1st Class,13050,£75 4s 10d
+"WARREN, Mrs Anna Sophia",Survivor,United States,60.0,Passenger,Female,1st Class,110813,£75 5s
+"WARREN, Mr Frank Manley",Victim,United States,63.0,Passenger,Male,1st Class,110813,£75 5s
+"HARPER, Mr Henry Sleeper",Survivor,United States,48.0,Passenger,Male,1st Class,17572,£76 14s 7d
+"HASSAB, Mr Hammad",Survivor,Egypt,27.0,Passenger,Male,1st Class,17572,£76 14s 7d
+"HARPER, Mrs Myna",Survivor,United States,49.0,Passenger,Female,1st Class,17572,£76 14s 7d
+"BAZZANI, Mrs Albina",Survivor,,36.0,Passenger,Female,1st Class,11813,£76 5s 10d
+"BUCKNELL, Mrs Emma Eliza",Survivor,United States,59.0,Passenger,Female,1st Class,11813,£76 5s 10d
+"HOGEBOOM, Mrs Anna Louisa",Survivor,United States,51.0,Passenger,Female,1st Class,13502,£77 19s 2d
+"ANDREWS, Miss Kornelia Theodosia",Survivor,United States,62.0,Passenger,Female,1st Class,13502,£77 19s 2d
+"LONGLEY, Miss Gretchen Fiske",Survivor,United States,21.0,Passenger,Female,1st Class,13502,£77 19s 2d
+"WHITE, Mr Percival Wayland",Victim,United States,54.0,Passenger,Male,1st Class,35281,£77 5s 9d
+"WHITE, Mr Richard Frasar",Victim,United States,21.0,Passenger,Male,1st Class,35281,£77 5s 9d
+"BARBER, Miss Ellen Mary",Survivor,,26.0,Passenger,Female,1st Class,19877,£78 17s
+"CAVENDISH, Mrs Julia Florence",Survivor,England,25.0,Passenger,Female,1st Class,19877,£78 17s
+"CAVENDISH, Mr Tyrell William",Victim,England,36.0,Passenger,Male,1st Class,19877,£78 17s
+"EUSTIS, Miss Elizabeth Mussey",Survivor,United States,54.0,Passenger,Female,1st Class,36947,£78 5s 4d
+"STEPHENSON, Mrs Martha",Survivor,France,52.0,Passenger,Female,1st Class,36947,£78 5s 4d
+"TAUSSIG, Miss Ruth",Survivor,United States,18.0,Passenger,Female,1st Class,110413,£79 13s
+"TAUSSIG, Mrs Tillie",Survivor,United States,39.0,Passenger,Female,1st Class,110413,£79 13s
+"TAUSSIG, Mr Emil",Victim,United States,52.0,Passenger,Male,1st Class,110413,£79 13s
+"ROSENSHINE, Mr George",Victim,United States,46.0,Passenger,Male,1st Class,17585,£79 4d
+"GUGGENHEIM, Mr Benjamin",Victim,France,46.0,Passenger,Male,1st Class,17593,£79 4s
+"GIGLIO, Mr Victor Gaitan Andrea",Victim,,23.0,Passenger,Male,1st Class,17593,£79 4s
+"FRöLICHER-STEHLI, Mr Maximilian Josef",Survivor,Switzerland,60.0,Passenger,Male,1st Class,13567,£79 4s
+"FRöLICHER-STEHLI, Mrs Margaretha Emerentia",Survivor,Switzerland,48.0,Passenger,Female,1st Class,13567,£79 4s
+"THOMAS, Mrs Thamine ""Thelma""",Survivor,Lebanon,16.0,Passenger,Female,3rd Class,2625,£8 10s 4d
+"THOMAS/TANNOUS, Master Assad Alexander",Survivor,Lebanon,0.42,Passenger,Male,3rd Class,2625,£8 10s 4d
+"JOHANSSON, Mr Gustaf Joel",Victim,Sweden,33.0,Passenger,Male,3rd Class,7540,£8 13s 1d
+"CACIC, Miss Manda",Victim,Croatia,21.0,Passenger,Female,3rd Class,315087,£8 13s 3d
+"CACIC, Miss Marija",Victim,Croatia,30.0,Passenger,Female,3rd Class,315084,£8 13s 3d
+"CALIC, Mr Petar",Victim,Croatia,17.0,Passenger,Male,3rd Class,315086,£8 13s 3d
+"ORESKOVIC, Miss Marija",Victim,Croatia,20.0,Passenger,Female,3rd Class,315096,£8 13s 3d
+"SMILJANIC, Mr Mile",Victim,Croatia,37.0,Passenger,Male,3rd Class,315037,£8 13s 3d
+"CACIC, Mr Jego Grga",Victim,Croatia,18.0,Passenger,Male,3rd Class,315091,£8 13s 3d
+"CACIC, Mr Luka",Victim,Croatia,38.0,Passenger,Male,3rd Class,315089,£8 13s 3d
+"ORESKOVIC, Miss Jelka",Victim,Croatia,23.0,Passenger,Female,3rd Class,315085,£8 13s 3d
+"ORESKOVIC, Mr Luka",Victim,Croatia,20.0,Passenger,Male,3rd Class,315094,£8 13s 3d
+"PASIC, Mr Jakob",Victim,,21.0,Passenger,Male,3rd Class,315097,£8 13s 3d
+"STRILIC, Mr Ivan",Victim,Croatia,27.0,Passenger,Male,3rd Class,315083,£8 13s 3d
+"WIRZ, Mr Albert",Victim,Switzerland,27.0,Passenger,Male,3rd Class,315154,£8 13s 3d
+"KINK, Mr Vincenz",Victim,Switzerland,26.0,Passenger,Male,3rd Class,315151,£8 13s 3d
+"LULIC, Mr Nikola",Survivor,Croatia,29.0,Passenger,Male,3rd Class,315098,£8 13s 3d
+"CALIC, Mr Jovo",Victim,Croatia,17.0,Passenger,Male,3rd Class,315093,£8 13s 3d
+"CULUMOVIC, Mr Jeso",Victim,Croatia,17.0,Passenger,Male,3rd Class,315090,£8 13s 3d
+"DIMIC, Mr Jovan",Victim,Hungary,42.0,Passenger,Male,3rd Class,315088,£8 13s 3d
+"KINK, Miss Maria",Victim,Switzerland,22.0,Passenger,Female,3rd Class,315152,£8 13s 3d
+"POKRNIC, Mr Mate",Victim,Croatia,17.0,Passenger,Male,3rd Class,315095,£8 13s 3d
+"POKRNIC, Mr Tome",Victim,Croatia,24.0,Passenger,Male,3rd Class,315092,£8 13s 3d
+"BANSKI, Mrs Mara",Survivor,Hungary,31.0,Passenger,Female,3rd Class,349244,£8 13s 8d
+"STANKOVIC, Mr Ivan",Victim,Croatia,33.0,Passenger,Male,3rd Class,349239,£8 13s 9d
+"PULNER, Mr Uscher",Victim,,16.0,Passenger,Male,3rd Class,3411,£8 14s 3d
+"WILLER, Mr Aaron",Victim,,37.0,Passenger,Male,3rd Class,3410,£8 14s 3d
+"HAAS, Miss Aloisia",Victim,Switzerland,24.0,Passenger,Female,3rd Class,349236,£8 17s
+"HELLSTRöM, Miss Hilda Maria",Survivor,Sweden,22.0,Passenger,Female,3rd Class,7548,£8 19s 3d
+"REYNOLDS, Mr Harold J.",Victim,England,21.0,Passenger,Male,3rd Class,342684,£8 1s
+"DROPKIN, Miss Jennie",Survivor,England,24.0,Passenger,Female,3rd Class,392083,£8 1s
+"MOORE, Mr Leonard Charles",Victim,United States,19.0,Passenger,Male,3rd Class,54510,£8 1s
+"WILLIAMS, Mr Howard Hugh ""Harry""",Victim,Channel Islands,28.0,Passenger,Male,3rd Class,2466,£8 1s
+"DAHL, Mr Charles Edward",Survivor,,45.0,Passenger,Male,3rd Class,7598,£8 1s
+"FORD, Mr Arthur",Victim,England,22.0,Passenger,Male,3rd Class,1478,£8 1s
+"MORLEY, Mr William",Victim,England,34.0,Passenger,Male,3rd Class,364506,£8 1s
+"MURDLIN, Mr Joseph",Victim,England,22.0,Passenger,Male,3rd Class,3235,£8 1s
+"CHRISTMANN, Mr Emil",Victim,England,29.0,Passenger,Male,3rd Class,343276,£8 1s
+"PETERSEN, Mr Marius",Victim,England,24.0,Passenger,Male,3rd Class,342441,£8 1s
+"MILES, Mr Frank",Victim,England,23.0,Passenger,Male,3rd Class,359306,£8 1s
+"ROUSE, Mr Richard Henry",Victim,England,53.0,Passenger,Male,3rd Class,3594,£8 1s
+"SUNDERLAND, Mr Victor Francis",Survivor,England,20.0,Passenger,Male,3rd Class,392089,£8 1s
+"GREEN, Mr George [1]",Victim,England,40.0,Passenger,Male,3rd Class,21440,£8 1s
+"TöRBER, Mr Ernst Wilhelm",Victim,England,41.0,Passenger,Male,3rd Class,364511,£8 1s
+"SAWYER, Mr Frederick Charles",Victim,England,33.0,Passenger,Male,3rd Class,342826,£8 1s
+"BARTON, Mr David John",Victim,England,22.0,Passenger,Male,3rd Class,324669,£8 1s
+"BEAVAN, Mr William Thomas",Victim,England,18.0,Passenger,Male,3rd Class,323951,£8 1s
+"GUEST, Mr Robert",Victim,England,23.0,Passenger,Male,3rd Class,376563,£8 1s
+"NIKLASSON, Mr Samuel",Victim,Sweden,28.0,Passenger,Male,3rd Class,363611,£8 1s
+"SIMMONS, Mr John",Victim,,39.0,Passenger,Male,3rd Class,392082,£8 1s
+"SPECTOR, Mr Woolf",Victim,England,23.0,Passenger,Male,3rd Class,3236,£8 1s
+"SPINNER, Mr Henry John",Victim,England,32.0,Passenger,Male,3rd Class,369943,£8 1s
+"DORKING, Mr Edward Arthur",Survivor,England,18.0,Passenger,Male,3rd Class,10482,£8 1s
+"BROCKLEBANK, Mr William Alfred",Victim,England,35.0,Passenger,Male,3rd Class,364512,£8 1s
+"THEOBALD, Mr Thomas Leonard",Victim,England,34.0,Passenger,Male,3rd Class,363294,£8 1s
+"DAVIES, Mr Joseph",Victim,England,17.0,Passenger,Male,3rd Class,48873,£8 1s
+"HOWARD, Miss May Elizabeth",Survivor,England,27.0,Passenger,Female,3rd Class,39186,£8 1s
+"PICKARD, Mr Berk",Survivor,England,32.0,Passenger,Male,3rd Class,392078,£8 1s
+"GILINSKI, Mr Eliezer",Victim,Wales,22.0,Passenger,Male,3rd Class,14973,£8 1s
+"NANCARROW, Mr William Henry",Victim,England,34.0,Passenger,Male,3rd Class,3338,£8 1s
+"THOMPSON, Mr Alexander Morrison",Victim,,36.0,Passenger,Male,3rd Class,32302,£8 1s
+"SLOCOVSKI, Mr Selman Francis",Victim,England,20.0,Passenger,Male,3rd Class,392086,£8 1s
+"MEANWELL, Mrs Marian",Victim,England,63.0,Passenger,Female,3rd Class,392087,£8 1s
+"CANN, Mr Ernest Charles",Victim,England,21.0,Passenger,Male,3rd Class,2152,£8 1s
+"DAVIES, Mr Evan",Victim,Wales,22.0,Passenger,Male,3rd Class,23568,£8 1s
+"ROGERS, Mr William John",Victim,Wales,29.0,Passenger,Male,3rd Class,23567,£8 1s
+"SAUNDERCOCK, Mr William Henry",Victim,England,19.0,Passenger,Male,3rd Class,2151,£8 1s
+"WEBBER, Mr James",Victim,United States,66.0,Passenger,Male,3rd Class,3101316,£8 1s
+"WARE, Mr Frederick",Victim,England,34.0,Passenger,Male,3rd Class,359309,£8 1s
+"MEO (MARTINO), Mr Alfonzo",Victim,England,48.0,Passenger,Male,3rd Class,11206,£8 1s
+"KELLY, Mr James [1]",Victim,England,19.0,Passenger,Male,3rd Class,363592,£8 1s
+"RUSH, Mr Alfred George John",Victim,England,16.0,Passenger,Male,3rd Class,20589,£8 1s
+"STANLEY, Mr Edward Roland",Victim,England,21.0,Passenger,Male,3rd Class,45380,£8 1s
+"COHEN, Mr Gurshon ""Gus""",Survivor,England,18.0,Passenger,Male,3rd Class,3540,£8 1s
+"TOMLIN, Mr Ernest Portage",Victim,England,22.0,Passenger,Male,3rd Class,364499,£8 1s
+"BADMAN, Miss Emily Louisa",Survivor,England,18.0,Passenger,Female,3rd Class,31416,£8 1s
+"CELOTTI, Mr Francesco",Victim,,24.0,Passenger,Male,3rd Class,343275,£8 1s
+"ROTH, Miss Sarah A.",Survivor,England,26.0,Passenger,Female,3rd Class,342712,£8 1s
+"MAISNER, Mr Simon",Victim,England,34.0,Passenger,Male,3rd Class,2816,£8 1s
+"SIROTA, Mr Maurice",Victim,England,20.0,Passenger,Male,3rd Class,392092,£8 1s
+"ALLEN, Mr William Henry",Victim,England,38.0,Passenger,Male,3rd Class,373450,£8 1s
+"MOUTAL, Mr Rahamin Haim",Victim,England,28.0,Passenger,Male,3rd Class,374746,£8 1s
+"CORN, Mr Harry",Victim,England,30.0,Passenger,Male,3rd Class,392090,£8 1s
+"SHORNEY, Mr Charles Joseph",Victim,England,22.0,Passenger,Male,3rd Class,374910,£8 1s
+"PEDUZZI, Mr Giuseppe",Victim,England,24.0,Passenger,Male,3rd Class,2817,£8 1s
+"COOK, Mr Jacob",Victim,,43.0,Passenger,Male,3rd Class,3536,£8 1s
+"ADAMS, Mr John",Victim,England,26.0,Passenger,Male,3rd Class,341826,£8 1s
+"MEEK, Mrs Annie Louise Rowley",Victim,Wales,31.0,Passenger,Female,3rd Class,343095,£8 1s
+"SOMERTON, Mr Francis William",Victim,England,31.0,Passenger,Male,3rd Class,18509,£8 1s
+"JOHANNESEN, Mr Bernt Johannes",Survivor,Norway,29.0,Passenger,Male,3rd Class,65306,£8 2s 3d
+"RASMUSSEN, Mrs Lena Jakobsen",Victim,Norway,63.0,Passenger,Female,3rd Class,65305,£8 2s 3d
+"PETERS, Miss Katie",Victim,Ireland,26.0,Passenger,Female,3rd Class,330935,£8 2s 9d
+"CREASE, Mr Ernest James",Victim,England,19.0,Passenger,Male,3rd Class,3464,£8 3s 2d
+"ALLUM, Mr Owen George",Victim,England,15.0,Passenger,Male,3rd Class,2223,£8 6s
+"GRøNNESTAD, Mr Daniel Danielsen",Victim,Norway,32.0,Passenger,Male,3rd Class,8471,£8 6s 15d
+"MCGOWAN, Miss Anna ""Annie""",Survivor,Ireland,17.0,Passenger,Female,3rd Class,330923,£8 7d
+"OLSEN, Mr Karl Siegwart Andreas",Victim,United States,42.0,Passenger,Male,3rd Class,4579,£8 8s 1d
+"KALVIK, Mr Johannes Halvorsen",Victim,Norway,21.0,Passenger,Male,3rd Class,8475,£8 8s 8d
+"DOUGHERTY, Mr William John",Victim,Ireland,22.0,Passenger,Male,3rd Class,330877,£8 9s 2d
+"ICARD, Miss Rose Amélie",Survivor,,39.0,Passenger,Female,1st Class,113572,£80
+"STONE, Mrs Martha Evelyn",Survivor,United States,62.0,Passenger,Female,1st Class,113572,£80
+"THORNE, Miss Gertrude Maybelle",Survivor,United States,38.0,Passenger,Female,1st Class,17585,£80 4d
+"DODGE, Dr Washington",Survivor,United States,52.0,Passenger,Male,1st Class,33638,£81 17s 2d
+"DODGE, Master Washington",Survivor,United States,4.0,Passenger,Male,1st Class,33638,£81 17s 2d
+"DODGE, Mrs Ruth",Survivor,United States,34.0,Passenger,Female,1st Class,33638,£81 17s 2d
+"MEYER, Mr Edgar Joseph",Victim,United States,28.0,Passenger,Male,1st Class,17604,£82 3s 5d
+"MEYER, Mrs Leila",Survivor,United States,25.0,Passenger,Female,1st Class,17604,£82 3s 5d
+"SNYDER, Mr John Pillsbury",Survivor,United States,24.0,Passenger,Male,1st Class,21228,£82 5s 4d
+"SNYDER, Mrs Nelle",Survivor,United States,23.0,Passenger,Female,1st Class,21228,£82 5s 4d
+"EARNSHAW, Mrs Olive",Survivor,United States,23.0,Passenger,Female,1st Class,11767,£83 3s 2d
+"COMPTON, Miss Sara Rebecca",Survivor,United States,39.0,Passenger,Female,1st Class,17756,£83 3s 2d
+"COMPTON, Mrs Mary Eliza",Survivor,United States,64.0,Passenger,Female,1st Class,17756,£83 3s 2d
+"HAYS, Miss Margaret Bechstein",Survivor,United States,24.0,Passenger,Female,1st Class,11767,£83 3s 2d
+"POTTER, Mrs Lily Alexenia",Survivor,United States,56.0,Passenger,Female,1st Class,11767,£83 3s 2d
+"COMPTON, Mr Alexander Taylor jr",Victim,United States,37.0,Passenger,Male,1st Class,17756,£83 3s 2d
+"HARRIS, Mr Henry Birkhardt",Victim,United States,45.0,Passenger,Male,1st Class,36973,£83 9s 6d
+"HARRIS, Mrs Irene",Survivor,United States,35.0,Passenger,Female,1st Class,36973,£83 9s 6d
+"CHERRY, Miss Gladys",Survivor,England,30.0,Passenger,Female,1st Class,110152,£86 10s
+"ROTHES, Lucy Noël Martha, Countess of",Survivor,England,33.0,Passenger,Female,1st Class,110152,£86 10s
+"MAIONI, Miss Roberta Elizabeth Mary",Survivor,England,19.0,Passenger,Female,1st Class,110152,£86 10s
+"GOLDENBERG, Mr Samuel L.",Survivor,United States,47.0,Passenger,Male,1st Class,17453,£89 2s 1d
+"GOLDENBERG, Mrs Nella",Survivor,United States,40.0,Passenger,Female,1st Class,17453,£89 2s 1d
+"WAELENS, Mr Achille",Victim,Belgium,22.0,Passenger,Male,3rd Class,345767,£9
+"VANDERCRUYSSEN, Mr Victor",Victim,Belgium,46.0,Passenger,Male,3rd Class,345765,£9
+"LINHART, Mr Wenzel",Victim,Austria,27.0,Passenger,Male,3rd Class,345775,£9 10s
+"DE PELSMAEKER, Mr Alfons",Victim,Belgium,16.0,Passenger,Male,3rd Class,345778,£9 10s
+"LIEVENS, Mr René Aimé",Victim,Belgium,24.0,Passenger,Male,3rd Class,345781,£9 10s
+"VAN DE VELDE, Mr Johannes Josef",Victim,Belgium,35.0,Passenger,Male,3rd Class,345780,£9 10s
+"VAN DEN STEEN, Mr Leo Peter",Victim,Belgium,28.0,Passenger,Male,3rd Class,345783,£9 10s
+"VAN MELCKEBEKE, Mr Philemon",Victim,Belgium,23.0,Passenger,Male,3rd Class,345777,£9 10s
+"WITTEVRONGEL, Mr Camilius Aloysius",Victim,Belgium,36.0,Passenger,Male,3rd Class,345771,£9 10s
+"VANDEWALLE, Mr Nestor Cyriel",Victim,Belgium,28.0,Passenger,Male,3rd Class,345770,£9 10s
+"HAMPE, Mr Léon Jérome",Victim,Belgium,19.0,Passenger,Male,3rd Class,345769,£9 10s
+"DE MULDER, Mr Theodoor",Survivor,Belgium,30.0,Passenger,Male,3rd Class,345774,£9 10s
+"SAP, Mr Julius (""Jules _"")",Survivor,Belgium,21.0,Passenger,Male,3rd Class,345768,£9 10s
+"SCHEERLINCK, Mr Jean",Survivor,Belgium,29.0,Passenger,Male,3rd Class,345779,£9 10s
+"LAITINEN, Miss Kristina Sofia",Victim,Finland,37.0,Passenger,Female,3rd Class,4135,£9 11s 9d
+"TURKULA, Mrs Hedwig",Survivor,Finland,63.0,Passenger,Female,3rd Class,4134,£9 11s 9d
+"MYLES, Mr Thomas Francis",Victim,Ireland,63.0,Passenger,Male,2nd Class,240276,£9 13s 9d
+"JUSSILA, Miss Katriina",Victim,Finland,20.0,Passenger,Female,3rd Class,4136,£9 16s 10d
+"JUSSILA, Miss Mari Aina",Victim,Finland,21.0,Passenger,Female,3rd Class,4137,£9 16s 10d
+"TURJA, Miss Anna Sofia",Survivor,Finland,18.0,Passenger,Female,3rd Class,4138,£9 16s 10d
+"GUSTAFSSON, Mr Alfred Ossian",Victim,Finland,19.0,Passenger,Male,3rd Class,7534,£9 16s 11d
+"STRANDBERG, Miss Ida Sofia",Victim,Finland,22.0,Passenger,Female,3rd Class,7553,£9 16s 9d
+"OSéN, Mr Olaf Elon",Victim,Sweden,16.0,Passenger,Male,3rd Class,7534,£9 4s 4d
+"ÖDAHL, Mr Nils Martin",Victim,Sweden,23.0,Passenger,Male,3rd Class,7267,£9 4s 6d
+"OLSVIGEN, Mr Thor Anderson",Victim,Norway,20.0,Passenger,Male,3rd Class,6563,£9 4s 6d
+"SVENSSON, Mr Johan Cervin",Survivor,Sweden,14.0,Passenger,Male,3rd Class,7538,£9 4s 6d
+"SALANDER, Mr Karl Johan",Victim,Sweden,24.0,Passenger,Male,3rd Class,7266,£9 6s 6d
+"BERGLUND, Mr Karl Ivar Sven",Victim,Finland,22.0,Passenger,Male,3rd Class,4348,£9 7s
+"AKS, Master Frank Philip",Survivor,England,0.83,Passenger,Male,3rd Class,392091,£9 7s
+"AKS, Mrs Leah",Survivor,England,18.0,Passenger,Female,3rd Class,392091,£9 7s
+"AHLIN, Mrs Johanna Persdotter",Victim,Sweden,40.0,Passenger,Female,3rd Class,7546,£9 9s 6d
+"LARSSON, Mr August Viktor",Victim,United States,29.0,Passenger,Male,3rd Class,7545,£9 9s 8d
+"MINAHAN, Dr William Edward",Victim,United States,44.0,Passenger,Male,1st Class,19928,£90
+"MINAHAN, Miss Daisy E.",Survivor,United States,33.0,Passenger,Female,1st Class,19928,£90
+"MINAHAN, Mrs Lillian E.",Survivor,United States,37.0,Passenger,Female,1st Class,19928,£90
+"BISHOP, Mr Dickinson H.",Survivor,United States,25.0,Passenger,Male,1st Class,11967,£91 1s 7d
+"BISHOP, Mrs Helen",Survivor,United States,19.0,Passenger,Female,1st Class,11967,£91 1s 7d
+"HAYS, Mr Charles Melville",Victim,Canada,55.0,Passenger,Male,1st Class,12749,£93 10s
+"PAYNE, Mr Vivian Ponsonby",Victim,Canada,22.0,Passenger,Male,1st Class,12749,£93 10s
+"PERREAULT, Miss Mary Anne",Survivor,Canada,33.0,Passenger,Female,1st Class,12749,£93 10s
+"HAYS, Mrs Clara Jennings",Survivor,Canada,52.0,Passenger,Female,1st Class,12749,£93 10s
+"BARKER, Mr George [1]",,,46.0,Crew,Male,Deck Crew,,
+"BURGESS, Mr Charles",Survivor,England,18.0,Crew,Male,Victualling Crew,,
+"JOUGHIN, Mr Charles John",Survivor,England,32.0,Crew,Male,Victualling Crew,,
+"NEAL, Mr Bentley Harold",Survivor,England,25.0,Crew,Male,Victualling Crew,,
+"BARKER, Mr Albert Vale",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"BARNES, Mr Frederick Charles",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"CHITTY, Mr George Henry",Victim,England,52.0,Crew,Male,Victualling Crew,,
+"FELTHAM, Mr George William",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"GILES, Mr John Robert",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"HINE, Mr William Edward",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"SMITH, Mr James William",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"WAKE, Mr Percy",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"WEIKMAN, Mr Augustus Henry",Survivor,England,52.0,Crew,Male,Victualling Crew,,
+"KLEIN, Mr Herbert",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"WHITE, Mr Arthur",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"PRICE, Mr Ernest Cyril",Victim,England,17.0,Crew,Male,Restaurant Staff,,
+"BARRATT, Mr Arthur",Victim,England,15.0,Crew,Male,Victualling Crew,,
+"HARRIS, Mr Clifford Henry",Victim,England,16.0,Crew,Male,Victualling Crew,,
+"WATSON, Mr William Albert",Victim,England,14.0,Crew,Male,Victualling Crew,,
+"SLOAN, Mr Thomas",,,50.0,Crew,Male,Deck Crew,,
+"HAINES, Mr Albert",Survivor,England,31.0,Crew,Male,Deck Crew,,
+"NICHOLS, Mr Alfred William Stanley",Victim,England,47.0,Crew,Male,Deck Crew,,
+"CHISNALL, Mr George Alexander",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"FITZPATRICK, Mr Hugh Joseph",Victim,Northern Ireland,28.0,Crew,Male,Engineering Crew,,
+"GUY, Mr Elgar John",Survivor,England,28.0,Crew,Male,Victualling Crew,,
+"MILLS, Mr Christopher",Survivor,England,51.0,Crew,Male,Victualling Crew,,
+"BARROW, Mr Charles Henry John Barrow",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"HENSFORD, Mr Herbert George Ernest",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"MAYTUM, Mr Alfred",Victim,England,52.0,Crew,Male,Victualling Crew,,
+"PORTEUS, Mr Thomas Henry",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"ROBERTS, Mr Frank John",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"TOPP, Mr Thomas",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"WILLSHER, Mr William Aubrey",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"ZARRACCHI, Sig. L.",Victim,England,26.0,Crew,Male,Restaurant Staff,,
+"HUTCHINSON, Mr John Hall",Victim,England,26.0,Crew,Male,Deck Crew,,
+"MAXWELL, Mr John",Victim,England,31.0,Crew,Male,Deck Crew,,
+"SCAVINO, Sig. Candido",Victim,England,42.0,Crew,Male,Restaurant Staff,,
+"BOWKER, Miss Ruth",Survivor,England,27.0,Crew,Female,Restaurant Staff,,
+"MARTIN, Miss Mabel Elvina",Survivor,England,20.0,Crew,Female,Restaurant Staff,,
+"BOCHATAY, Mr Alexis Joseph",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"PROCTOR, Mr Charles",Victim,England,45.0,Crew,Male,Victualling Crew,,
+"ROUSSEAU, Mr Pierre",Victim,England,49.0,Crew,Male,Restaurant Staff,,
+"CARRUTHERS, Mr Francis",,,,Passenger,Male,1st Class,,
+"MAUGE, Mr Paul Achille Maurice Germain",Survivor,England,25.0,Crew,Male,Restaurant Staff,,
+"ASHCROFT, Mr Austin Aloysius",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"CAMPBELL, Mr Donald S.",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"GWYNN, Mr William Logan",Victim,United States,37.0,Crew,Male,Victualling Crew,,
+"KING, Mr Ernest Waldron",Victim,Ireland,28.0,Crew,Male,Victualling Crew,,
+"MARCH, Mr John Starr",Victim,United States,50.0,Crew,Male,Victualling Crew,,
+"RICE, Mr John Reginald",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"SMITH, Mr John Richard Jago",Victim,,35.0,Crew,Male,Victualling Crew,,
+"WILLIAMSON, Mr James Bertram",Victim,Ireland,35.0,Crew,Male,Victualling Crew,,
+"WOODY, Mr Oscar Scott",Victim,United States,44.0,Crew,Male,Victualling Crew,,
+"FARENDEN, Mr Ernest John",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"LEADER, Mr Archibald",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"ELLIS, Mr John Bertie",Survivor,England,28.0,Crew,Male,Victualling Crew,,
+"MAYNARD, Mr Isaac Hiram",Survivor,England,31.0,Crew,Male,Victualling Crew,,
+"WINDEBANK, Mr Alfred Edgar",Survivor,England,38.0,Crew,Male,Victualling Crew,,
+"AYLING, Mr Edwin George",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"BEDFORD, Mr William Barnett",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"BIETRIX, Mr George Baptiste",Victim,England,28.0,Crew,Male,Restaurant Staff,,
+"BOLHUIS, Mr Hendrik",Victim,England,27.0,Crew,Male,Restaurant Staff,,
+"BUCKLEY, Mr H. E.",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"CAUNT, Mr William Ewart",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"CHABOISSON, Mr Adrien Finnin",Victim,England,25.0,Crew,Male,Restaurant Staff,,
+"COOMBS, Mr Charles Augustus",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"CORNAIRE, Mr Marcel Raymond André",Victim,England,19.0,Crew,Male,Restaurant Staff,,
+"COUTIN, Mr Auguste Louis",Victim,England,28.0,Crew,Male,Restaurant Staff,,
+"DESVERNINE, Mr Louis Gabriel",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"DORNIER, Mr Louis Auguste",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"GILL, Mr Patrick",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"GOLLOP, Mr F.",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"HUTCHINSON, Mr James",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"JAILLET, Mr Henri Marie",Victim,England,38.0,Crew,Male,Restaurant Staff,,
+"JONES, Mr H.",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"JOUANNAULT, Mr Georges Jules",Victim,England,24.0,Crew,Male,Restaurant Staff,,
+"KENNELL, Mr Charles",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"LOVELL, Mr John",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"MONTEVERDI, Sig. Giovanni",Victim,England,23.0,Crew,Male,Restaurant Staff,,
+"ORR, Mr J.",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"PACHERA, Sig. Jean Baptiste Stanislas",Victim,England,19.0,Crew,Male,Restaurant Staff,,
+"SIMMONS, Mr William",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"SLIGHT, Mr William Henry James",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"STUBBINGS, Mr Harry Robert",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"THORLEY, Mr William",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"THORN, Mr Harry",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"VICAT, Sig. Alphonse Jean Eugene",Victim,England,21.0,Crew,Male,Restaurant Staff,,
+"VILLVARLANGE, Mr Pierre Léon Gabriel",Victim,England,19.0,Crew,Male,Restaurant Staff,,
+"VINE, Mr Herbert Thomas Gordon",Victim,England,18.0,Crew,Male,Restaurant Staff,,
+"WELCH, Mr William Harold",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"CHISHOLM, Mr Roderick Robert Crispin",Victim,Northern Ireland,43.0,Passenger,Male,1st Class,112051,
+"ALLSOP, Mr Alfred Samuel",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"ERVINE, Mr Albert George",Victim,Northern Ireland,18.0,Crew,Male,Engineering Crew,,
+"JUPE, Mr Boykett Herbert",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"KELLY, Mr William",Victim,Ireland,23.0,Crew,Male,Engineering Crew,,
+"MIDDLETON, Mr Alfred Pirrie",Victim,Ireland,26.0,Crew,Male,Engineering Crew,,
+"PARR, Mr William Henry Marsh",Victim,Northern Ireland,29.0,Passenger,Male,1st Class,112052,
+"SLOAN, Mr Peter",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"WATSON, Mr Ennis Hastings",Victim,Northern Ireland,19.0,Passenger,Male,2nd Class,239856,
+"BELL, Mr Joseph",Victim,England,50.0,Crew,Male,Engineering Crew,,
+"COY, Mr Francis Ernest George",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"CREESE, Mr Henry Philip",Victim,England,44.0,Crew,Male,Engineering Crew,,
+"DODD, Mr Edward Charles",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"DODDS, Mr Henry Watson",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"DYER, Mr Henry Ryland",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"FARQUHARSON, Mr William Edward",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"FRASER, Mr James",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"HARRISON, Mr Norman E.",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"HARVEY, Mr Herbert Gifford",Victim,England,34.0,Crew,Male,Engineering Crew,,
+"HESKETH, Mr John Henry",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"HODGE, Mr Charley",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"HODGKINSON, Mr Leonard",Victim,England,46.0,Crew,Male,Engineering Crew,,
+"HOSKING, Mr George Fox",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"KEMP, Mr Thomas Hulman",Victim,England,43.0,Crew,Male,Engineering Crew,,
+"MACKIE, Mr William Dickson",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"MCREYNOLDS, Mr William",Victim,Northern Ireland,22.0,Crew,Male,Engineering Crew,,
+"MILLAR, Mr Robert",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"MILLAR, Mr Thomas",Victim,Northern Ireland,32.0,Crew,Male,Engineering Crew,,
+"MOYES, Mr William Young",Victim,Scotland,23.0,Crew,Male,Engineering Crew,,
+"PARSONS, Mr Frank Alfred",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"SHEPHERD, Mr Jonathan",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"SMITH, Mr James Muil",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"WARD, Mr Arthur",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"WILSON, Mr Herbert 'Bertie'",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"DAVIS, Mr John",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"KEENAN, Mr William [1]",,,32.0,Crew,Male,Engineering Crew,,
+"KEENAN, Mr William [2]",,Scotland,43.0,Crew,Male,Engineering Crew,,
+"LITTLE, Mr James [1]",,,49.0,Crew,Male,Engineering Crew,,
+"LITTLE, Mr James [2]",,,28.0,Crew,Male,Engineering Crew,,
+"WARD, Mr William [2]",,,24.0,Crew,Male,Engineering Crew,,
+"ANDREWS, Mr Archibald",,,38.0,Crew,Male,Engineering Crew,,
+"ARMSTRONG, Mr James",,,31.0,Crew,Male,Engineering Crew,,
+"BAIN, Mr David",,,46.0,Crew,Male,Engineering Crew,,
+"BAKER (?BARKER), Mr John",,,,Crew,Male,Engineering Crew,,
+"BARKER, Mr Stokes",,,26.0,Crew,Male,Engineering Crew,,
+"BARKLEY, Mr Robert",,,39.0,Crew,Male,Engineering Crew,,
+"BARNES, Mr William",,,32.0,Crew,Male,Engineering Crew,,
+"BITTLE, Mr Robert",,,37.0,Crew,Male,Engineering Crew,,
+"BLACK, Mr James",,,38.0,Crew,Male,Engineering Crew,,
+"BOAL, Mr John",,,40.0,Crew,Male,Engineering Crew,,
+"BOYD, Mr Adam",,,38.0,Crew,Male,Engineering Crew,,
+"BRENNAN, Mr Thomas",,,39.0,Crew,Male,Engineering Crew,,
+"BRIDAN, Mr William",,,33.0,Crew,Male,Engineering Crew,,
+"BURNESS, Mr Frank",,,43.0,Crew,Male,Engineering Crew,,
+"CAIRNES, Mr Robert",,,50.0,Crew,Male,Engineering Crew,,
+"CARDWELL, Mr John",,,32.0,Crew,Male,Engineering Crew,,
+"CHEVERS, Mr William",,,28.0,Crew,Male,Engineering Crew,,
+"CLELAND, Mr James",,,29.0,Crew,Male,Engineering Crew,,
+"COCHRANE, Mr Robert",,,40.0,Crew,Male,Engineering Crew,,
+"COFFEY, Mr John",,England,23.0,Crew,Male,Engineering Crew,,
+"CONNOR, Mr Thomas",,,39.0,Crew,Male,Engineering Crew,,
+"CRAIG, Mr David",,,33.0,Crew,Male,Engineering Crew,,
+"CRAIG, Mr John",,,29.0,Crew,Male,Engineering Crew,,
+"CROSKERY, Mr Thomas",,,38.0,Crew,Male,Engineering Crew,,
+"CROUGHANE, Mr Michael",,,45.0,Crew,Male,Engineering Crew,,
+"CULLEN, Mr John",,,43.0,Crew,Male,Engineering Crew,,
+"CULLEN, Mr Patrick",,,36.0,Crew,Male,Engineering Crew,,
+"DECKER, Mr Charles",,,47.0,Crew,Male,Engineering Crew,,
+"DENVER, Mr John",,,33.0,Crew,Male,Engineering Crew,,
+"DUNLOP, Mr Joseph",,,47.0,Crew,Male,Engineering Crew,,
+"ENNES, Mr William",,,28.0,Crew,Male,Engineering Crew,,
+"FARLEY, Mr John",,,31.0,Crew,Male,Engineering Crew,,
+"FERRIS, Mr George",,,34.0,Crew,Male,Engineering Crew,,
+"FERRON, Mr Nicholas",,,32.0,Crew,Male,Engineering Crew,,
+"FLETCHER, Mr Robert",,,38.0,Crew,Male,Engineering Crew,,
+"FLINN, Mr Michael",,,34.0,Crew,Male,Engineering Crew,,
+"GASS, Mr David",,,45.0,Crew,Male,Engineering Crew,,
+"GORMAN, Mr David",,,33.0,Crew,Male,Engineering Crew,,
+"GREGG, Mr William",,,43.0,Crew,Male,Engineering Crew,,
+"HADLEY, Mr John",,,50.0,Crew,Male,Engineering Crew,,
+"HALE, Mr John",,,25.0,Crew,Male,Engineering Crew,,
+"HALL, Mr George",,,38.0,Crew,Male,Engineering Crew,,
+"HALPIN, Mr Joseph",,,24.0,Crew,Male,Engineering Crew,,
+"HANLEY, Mr William",,,25.0,Crew,Male,Engineering Crew,,
+"HARKIN, Mr Samuel",,,36.0,Crew,Male,Engineering Crew,,
+"HENRY, Mr James",,,47.0,Crew,Male,Engineering Crew,,
+"HEPBURN, Mr William",,,27.0,Crew,Male,Engineering Crew,,
+"HOLLAND, Mr James",,,30.0,Crew,Male,Engineering Crew,,
+"HOLLAND, Mr T.",,,28.0,Crew,Male,Engineering Crew,,
+"HOLME, Mr Nicholas",,,36.0,Crew,Male,Engineering Crew,,
+"HUTTON, Mr George",,,37.0,Crew,Male,Engineering Crew,,
+"JAMESON, Mr William",,,48.0,Crew,Male,Engineering Crew,,
+"KEENAN, Mr John",,,58.0,Crew,Male,Engineering Crew,,
+"KERNAGHAN, Mr David",,,30.0,Crew,Male,Engineering Crew,,
+"KINSTRY, Mr Charles",,,30.0,Crew,Male,Engineering Crew,,
+"LEWIS, Mr James",,,34.0,Crew,Male,Engineering Crew,,
+"LOWERY, Mr David",,,28.0,Crew,Male,Engineering Crew,,
+"MARTIN, Mr John",,,33.0,Crew,Male,Engineering Crew,,
+"MASSEY, Mr James",,,35.0,Crew,Male,Engineering Crew,,
+"MAXWELL, Mr William",,,39.0,Crew,Male,Engineering Crew,,
+"MAYES, Mr William",,,29.0,Crew,Male,Engineering Crew,,
+"MCALLISTER, Mr Hugh",,,34.0,Crew,Male,Engineering Crew,,
+"MCALLISTOR, Mr Daniel",,,29.0,Crew,Male,Engineering Crew,,
+"MCARTHUR, Mr James",,,29.0,Crew,Male,Engineering Crew,,
+"MCBARTY, Mr Thomas",,,,Crew,Male,Engineering Crew,,
+"MCCARRON, Mr David",,,32.0,Crew,Male,Engineering Crew,,
+"MCDONALD, Mr George",,,30.0,Crew,Male,Engineering Crew,,
+"MCENTEE, Mr Charles",,,37.0,Crew,Male,Engineering Crew,,
+"MCGAW, Mr Samuel",,,34.0,Crew,Male,Engineering Crew,,
+"MCGEE, Mr Patrick",,,32.0,Crew,Male,Engineering Crew,,
+"MCGEE, Mr Samuel",,,48.0,Crew,Male,Engineering Crew,,
+"MCGILL, Mr John",,,36.0,Crew,Male,Engineering Crew,,
+"MCGIVERN, Mr Thomas",,,43.0,Crew,Male,Engineering Crew,,
+"MCGOUGH, Mr Frank",,,25.0,Crew,Male,Engineering Crew,,
+"MCGOWN, Mr Barney",,,43.0,Crew,Male,Engineering Crew,,
+"MCILROY, Mr Barney",,,36.0,Crew,Male,Engineering Crew,,
+"MCILROY, Mr William",,,40.0,Crew,Male,Engineering Crew,,
+"MCKENNA, Mr Barney",,,24.0,Crew,Male,Engineering Crew,,
+"MCKINNEY, Mr Peter",,,40.0,Crew,Male,Engineering Crew,,
+"MCMILLAN, Mr Samuel",,,29.0,Crew,Male,Engineering Crew,,
+"MCMILLAN, Mr William",,,35.0,Crew,Male,Engineering Crew,,
+"MCMILLEN, Mr Thomas",,,55.0,Crew,Male,Engineering Crew,,
+"MCMULLAN, Mr Patrick",,,30.0,Crew,Male,Engineering Crew,,
+"MILLER, Mr William",,,32.0,Crew,Male,Engineering Crew,,
+"MORGAN, Mr Patrick",,,26.0,Crew,Male,Engineering Crew,,
+"MULLHOLLAND, Mr Daniel",,,48.0,Crew,Male,Engineering Crew,,
+"MULLHOLLAND, Mr J.",,,45.0,Crew,Male,Engineering Crew,,
+"MURDOCK, Mr William John",,,37.0,Crew,Male,Engineering Crew,,
+"MURPHY, Mr Thomas",,,35.0,Crew,Male,Engineering Crew,,
+"NEILL, Mr Thomas",,,42.0,Crew,Male,Engineering Crew,,
+"NOLAN, Mr Michael",,,31.0,Crew,Male,Engineering Crew,,
+"O'FLANNIGAN, Mr Thomas",,,39.0,Crew,Male,Engineering Crew,,
+"PHILLIPS, Mr James",,,27.0,Crew,Male,Engineering Crew,,
+"PHILLIPS, Mr William",,,26.0,Crew,Male,Engineering Crew,,
+"PIDGEON, Mr William",,,39.0,Crew,Male,Engineering Crew,,
+"PIERCE, Mr Robert",,,40.0,Crew,Male,Engineering Crew,,
+"QUINN, Mr John",,,34.0,Crew,Male,Engineering Crew,,
+"REID, Mr James",,,36.0,Crew,Male,Engineering Crew,,
+"SHAW, Mr Andrew",,,37.0,Crew,Male,Engineering Crew,,
+"SMYTH, Mr John",,,33.0,Crew,Male,Engineering Crew,,
+"STEVENSON, Mr James",,,40.0,Crew,Male,Engineering Crew,,
+"STEVENSON, Mr John",,,49.0,Crew,Male,Engineering Crew,,
+"STRANGE, Mr Samuel",,,38.0,Crew,Male,Engineering Crew,,
+"SWARBRICK, Mr William J.",,,24.0,Crew,Male,Engineering Crew,,
+"TINSLEY, Mr Thomas",,,40.0,Crew,Male,Engineering Crew,,
+"WALLS, Mr James",,,32.0,Crew,Male,Engineering Crew,,
+"WELSH, Mr Patrick",,,50.0,Crew,Male,Engineering Crew,,
+"WHINNERY, Mr Hugh",,,41.0,Crew,Male,Engineering Crew,,
+"WOODMEY, Mr Robert",,,41.0,Crew,Male,Engineering Crew,,
+"WOODS, Mr Hugh",,,28.0,Crew,Male,Engineering Crew,,
+"COLLINS, Mr John (Samuel Collins)",Survivor,England,38.0,Crew,Male,Engineering Crew,,
+"BARRETT, Mr Frederick",Survivor,England,28.0,Crew,Male,Engineering Crew,,
+"BEAUCHAMP, Mr George William",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"CLARK, Mr William",Survivor,England,39.0,Crew,Male,Engineering Crew,,
+"COMBES, Mr George",Survivor,England,34.0,Crew,Male,Engineering Crew,,
+"COUPER, Mr Robert Frederick William",Survivor,England,29.0,Crew,Male,Engineering Crew,,
+"CRIMMINS, Mr James",Survivor,England,21.0,Crew,Male,Engineering Crew,,
+"DIAPER, Mr John Joseph",Survivor,England,27.0,Crew,Male,Engineering Crew,,
+"DILLEY, Mr John",Survivor,England,30.0,Crew,Male,Engineering Crew,,
+"DOEL, Mr Frederick",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"DYMOND, Mr Frank",Survivor,England,40.0,Crew,Male,Engineering Crew,,
+"FLARTY, Mr Edward",Survivor,England,43.0,Crew,Male,Engineering Crew,,
+"GODLEY, Mr George Auguste",Survivor,England,38.0,Crew,Male,Engineering Crew,,
+"GRAHAM, Mr Thomas G.",Survivor,Northern Ireland,28.0,Crew,Male,Engineering Crew,,
+"HAGGAN, Mr John",Survivor,England,35.0,Crew,Male,Engineering Crew,,
+"HARRIS, Mr Frederick",Survivor,England,39.0,Crew,Male,Engineering Crew,,
+"HENDRICKSON, Mr Charles Osker",Survivor,England,28.0,Crew,Male,Engineering Crew,,
+"HURST, Mr Walter",Survivor,England,23.0,Crew,Male,Engineering Crew,,
+"JUDD, Mr Charles Edward",Survivor,England,31.0,Crew,Male,Engineering Crew,,
+"KASPER, Mr F.",Survivor,England,40.0,Crew,Male,Engineering Crew,,
+"KEMISH, Mr George",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"LINDSAY, Mr William Charles",Survivor,England,30.0,Crew,Male,Engineering Crew,,
+"MAJOR, Mr William James",Survivor,England,32.0,Crew,Male,Engineering Crew,,
+"MASON, Mr Frank Archibald Robert",Survivor,England,32.0,Crew,Male,Engineering Crew,,
+"MAYZES, Mr Thomas Jubilee",Survivor,England,25.0,Crew,Male,Engineering Crew,,
+"MOORE, Mr John J.",Survivor,England,29.0,Crew,Male,Engineering Crew,,
+"NOSS, Mr Henry",Survivor,England,30.0,Crew,Male,Engineering Crew,,
+"NUTBEAN, Mr William",Survivor,England,30.0,Crew,Male,Engineering Crew,,
+"OLIVER, Mr H.",Survivor,England,32.0,Crew,Male,Engineering Crew,,
+"OTHEN, Mr Charles Alfred",Survivor,England,36.0,Crew,Male,Engineering Crew,,
+"PEARCE, Mr John",Survivor,England,28.0,Crew,Male,Engineering Crew,,
+"PODESTA, Mr Alfred John Alexander",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"PRIEST, Mr Arthur John",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"PUSEY, Mr William Robert Holland",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"RICE, Mr Charles",Survivor,England,32.0,Crew,Male,Engineering Crew,,
+"SELF, Mr Albert Charles Edward",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"SENIOR, Mr Harry",Survivor,England,31.0,Crew,Male,Engineering Crew,,
+"SHIERS, Mr Alfred Charles",Survivor,England,25.0,Crew,Male,Engineering Crew,,
+"SPARKMAN, Mr Henry William",Survivor,England,35.0,Crew,Male,Engineering Crew,,
+"STREET, Mr Thomas Albert",Survivor,England,25.0,Crew,Male,Engineering Crew,,
+"TAYLOR, Mr George",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"TAYLOR, Mr William Henry",Survivor,England,27.0,Crew,Male,Engineering Crew,,
+"THOMPSON, Mr John William",Survivor,England,35.0,Crew,Male,Engineering Crew,,
+"THRELFALL, Mr Thomas",Survivor,England,44.0,Crew,Male,Engineering Crew,,
+"THRESHER, Mr George Terrill",Survivor,England,25.0,Crew,Male,Engineering Crew,,
+"TRIGGS, Mr Robert",Survivor,England,40.0,Crew,Male,Engineering Crew,,
+"JAMES, Mr Thomas [1]",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"MAY, Mr Arthur William [1]",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"ABRAMS, Mr William Thomas",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"ADAMS, Mr Robert John",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"ALLEN, Mr Henry",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"BAILEY, Mr George W.",Victim,England,46.0,Crew,Male,Engineering Crew,,
+"BARLOW, Mr Charles",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"BARNES, Mr Charles",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"BARNES, Mr John",Victim,England,41.0,Crew,Male,Engineering Crew,,
+"BARRETT, Mr Frederick William",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"BENDELL, Mr Frank",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"BENNETT, Mr George Alfred",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"BENVILLE, Mr Edward",Victim,England,47.0,Crew,Male,Engineering Crew,,
+"BESSANT, Mr William Edward Lowe",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"BIDDLECOMBE, Mr Reginald Charles",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"BIGGS, Mr Edward Charles",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"BLACK, Mr Alexander",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"BLACK, Mr D.",Victim,England,41.0,Crew,Male,Engineering Crew,,
+"BLACKMAN, Mr Albert Edward",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"BLAKE, Mr Thomas Henry",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"BLANEY, Mr James",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"BLANN, Mr Eustace Horatius",Victim,England,21.0,Crew,Male,Engineering Crew,,
+"BRADLEY, Mr Patrick Joseph",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"BROWN, Mr John",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"BROWN, Mr Joseph James",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"BURROUGHS, Mr Arthur Peckham",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"BURTON, Mr Edward John",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"BUTT, Mr William John",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"CANNER, Mr John",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"CARTER (BALL), Mr James (W.)",Victim,England,46.0,Crew,Male,Engineering Crew,,
+"CHERRETT, Mr William Victor",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"CHORLEY, Mr John Henry",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"COOPER, Mr Harry",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"COPPERTHWAITE, Mr Albert Harry",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"CORCORAN, Mr Denny",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"CROSS, Mr William Alfred",Victim,England,43.0,Crew,Male,Engineering Crew,,
+"CUNNINGHAM, Mr B.",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"CURTIS, Mr Arthur",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"DAVIES, Mr Thomas",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"DOYLE, Mr Laurence",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"DURNIL, Mr James",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"FERRIS, Mr W.",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"FORD, Mr Thomas",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"FRASER, Mr J.",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"GEER, Mr Alfred Emest",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"GOLDER, Mr M. W.",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"GRADIDGE, Mr Ernest Edward",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"HALL, Mr J.",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"HALLETT, Mr George Alexander",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"HANDS, Mr Bernard",Victim,England,53.0,Crew,Male,Engineering Crew,,
+"HANNAM, Mr George",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"HARRIS, Mr Edward John",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"HART, Mr James",Victim,England,49.0,Crew,Male,Engineering Crew,,
+"HEAD, Mr Alfred",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"HODGES, Mr W.",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"HOPGOOD, Mr Roland John C.",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"HOSGOOD, Mr Richard William",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"HUNT, Mr Tom",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"HURST, Mr Charles John",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"INSTANCE, Mr T.",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"JACKOPSON, Mr John Henry",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"JOAS, Mr N.",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"KERR, Mr Thomas Russell",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"KINSELLA, Mr Louis",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"LAHY, Mr T. E.",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"LIGHT, Mr Christopher William",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"LIGHT, Mr W.",Victim,England,47.0,Crew,Male,Engineering Crew,,
+"LLOYD, Mr William",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"MARETT, Mr George John",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"MARSH, Mr Frederick Charles",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"MASON, Mr J.",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"MAYO, Mr William Peter",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"MCANDREW, Mr Thomas Patrick",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"MCANDREWS, Mr William",Victim,,23.0,Crew,Male,Engineering Crew,,
+"MCCASTLAN, Mr W.",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"MCGARVEY, Mr Edward Joseph",Victim,England,34.0,Crew,Male,Engineering Crew,,
+"MCGAW, Mr Erroll Victor",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"MCQUILLAN, Mr William",Victim,Northern Ireland,26.0,Crew,Male,Engineering Crew,,
+"MCRAE, Mr William Alexander",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"MILFORD, Mr George",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"MINTRAM, Mr William",Victim,England,46.0,Crew,Male,Engineering Crew,,
+"MORGAN, Mr Thomas A.",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"NETTLETON, Mr George Walter",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"NIVEN, Mr John Brown",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"NOON, Mr John",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"NORRIS, Mr James",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"NOSS, Mr Bertram Arthur",Victim,England,21.0,Crew,Male,Engineering Crew,,
+"PAICE, Mr Richard Charles John",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"PAINTER, Mr Charles",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"PAINTER, Mr Frank Frederick",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"POND, Mr George",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"PUGH, Mr Arthur Percy",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"REEVES, Mr Frederick Simms",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"RICHARDS, Mr Joseph James",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"RICKMAN, Mr George Albert",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"ROBERTS, Mr Robert George",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"RUTTER, Mr Sidney Frank",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"SANGSTER, Mr Charles Edward",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"SAUNDERS, Mr F.",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"SAUNDERS, Mr W.",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"SCOTT, Mr Archibald",Victim,England,41.0,Crew,Male,Engineering Crew,,
+"SHEA, Mr Thomas",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"SMALL, Mr William",Victim,England,40.0,Crew,Male,Engineering Crew,,
+"SMITHER, Mr Harry John",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"SNELLGROVE, Mr George",Victim,England,40.0,Crew,Male,Engineering Crew,,
+"STANBROOK, Mr Augustus George",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"STUBBS, Mr James Henry",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"SULLIVAN, Mr S.",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"TAYLOR, Mr J.",Victim,England,42.0,Crew,Male,Engineering Crew,,
+"TAYLOR, Mr John Henry",Victim,England,49.0,Crew,Male,Engineering Crew,,
+"THOMAS, Mr Joseph Wakefield",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"TIZARD, Mr Arthur Leopold",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"TURLEY, Mr Richard",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"VAN DER BRUGGE, Mr Wessel Adrianus",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"VEAR, Mr Henry",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"VEAR, Mr William",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"WARD, Mr James William",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"WARDNER, Mr Fred Albert",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"WATERIDGE, Mr Edward Lewis",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"WATSON, Mr W.",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"WEBBER, Mr Francis Albert",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"WILLIAMS, Mr Samuel Solomon",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"WITCHER, Mr Albert Ernest",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"WITT, Mr Henry Dennis",Victim,England,37.0,Crew,Male,Engineering Crew,,
+"WORTHMAN, Mr William Henry",Victim,England,37.0,Crew,Male,Engineering Crew,,
+"WYETH, Mr James Robert",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"YOUNG, Mr Francis James",Victim,England,32.0,Crew,Male,Engineering Crew,,
+"CUNNINGHAM, Mr Alfred Fleming",Victim,Northern Ireland,21.0,Passenger,Male,2nd Class,239853,
+"FROST, Mr Anthony Wood",Victim,Northern Ireland,38.0,Passenger,Male,2nd Class,239854,
+"KNIGHT, Mr Robert",Victim,Northern Ireland,39.0,Passenger,Male,2nd Class,239855,
+"SALUSSOLIA, Sig. Govanni",Victim,England,25.0,Crew,Male,Restaurant Staff,,
+"SARTORI, Sig. Lazar",Victim,England,24.0,Crew,Male,Restaurant Staff,,
+"TESTONI, Sig. Ercole",Victim,England,23.0,Crew,Male,Restaurant Staff,,
+"KELLY, Mr James [2]",Victim,England,44.0,Crew,Male,Engineering Crew,,
+"BURNS, Mr William",,,38.0,Crew,Male,Engineering Crew,,
+"CONNOR, Mr James",,,46.0,Crew,Male,Engineering Crew,,
+"CURRAN, Mr Thomas",,,41.0,Crew,Male,Engineering Crew,,
+"GAMBELL, Mr William",,,29.0,Crew,Male,Engineering Crew,,
+"GIBSON, Mr William",,,43.0,Crew,Male,Engineering Crew,,
+"MCERLINE, Mr John",,,49.0,Crew,Male,Engineering Crew,,
+"MCGROGAN, Mr John",,,45.0,Crew,Male,Engineering Crew,,
+"MCILROY, Mr James",,,40.0,Crew,Male,Engineering Crew,,
+"MCMULLAN, Mr William",,,40.0,Crew,Male,Engineering Crew,,
+"MCTEER, Mr John",,,38.0,Crew,Male,Engineering Crew,,
+"ROGAN, Mr Patrick",,,43.0,Crew,Male,Engineering Crew,,
+"PRANGNELL, Mr George Alexander",Survivor,England,30.0,Crew,Male,Engineering Crew,,
+"RANGER, Mr Thomas",Survivor,England,29.0,Crew,Male,Engineering Crew,,
+"SCOTT, Mr Frederick William",Survivor,England,28.0,Crew,Male,Engineering Crew,,
+"WHITE, Mr Alfred",Survivor,England,32.0,Crew,Male,Engineering Crew,,
+"BAINES, Mr Richard",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"BANNON, Mr John Joseph",Victim,England,34.0,Crew,Male,Engineering Crew,,
+"BEATTIE, Mr Joseph",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"BOTT, Mr William Thomas",Victim,England,44.0,Crew,Male,Engineering Crew,,
+"BRIANT, Mr Albert",Victim,England,34.0,Crew,Male,Engineering Crew,,
+"CASTLEMAN, Mr Edward",Victim,England,37.0,Crew,Male,Engineering Crew,,
+"COUCH, Mr Joseph Henry",Victim,England,49.0,Crew,Male,Engineering Crew,,
+"EASTMAN, Mr Charles",Victim,England,44.0,Crew,Male,Engineering Crew,,
+"FAY, Mr Thomas Joseph",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"GODWIN, Mr Frederick Charles",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"GOREE, Mr Frank",Victim,England,40.0,Crew,Male,Engineering Crew,,
+"GREGORY, Mr David",Victim,England,43.0,Crew,Male,Engineering Crew,,
+"JAGO, Mr Joseph",Victim,England,57.0,Crew,Male,Engineering Crew,,
+"JUKES, Mr Henry James",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"KEARL, Mr Charles Henry",Victim,England,44.0,Crew,Male,Engineering Crew,,
+"KENCHENTEN, Mr Frederick Charles",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"KIRKHAM, Mr James",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"MCINERNEY, Mr Thomas",Victim,England,38.0,Crew,Male,Engineering Crew,,
+"MOORES, Mr Richard Henry",Victim,England,44.0,Crew,Male,Engineering Crew,,
+"MORRIS, Mr Arthur",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"OLIVE, Mr Charles",Victim,England,31.0,Crew,Male,Engineering Crew,,
+"PALLES, Mr Thomas Henry Michael",Victim,England,42.0,Crew,Male,Engineering Crew,,
+"PHILLIPS, Mr A. George",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"PITFIELD, Mr William James",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"SELF, Mr Alfred Henry",Victim,England,39.0,Crew,Male,Engineering Crew,,
+"TOZER, Mr James",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"VEAL, Mr Arthur",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"WOODFORD, Mr Frederick Ernest",Victim,England,40.0,Crew,Male,Engineering Crew,,
+"MATTMANN, Sig. Adolf",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"HARDWICK, Mr Reginald",Survivor,England,21.0,Crew,Male,Victualling Crew,,
+"BEERE, Mr William",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"SHAW, Mr Henry",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"SMITH, Mr Charles",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"TIETZ, Sig. Carlo/Karl",Victim,England,27.0,Crew,Male,Restaurant Staff,,
+"HEMMING, Mr Samuel Ernest",Survivor,England,43.0,Crew,Male,Deck Crew,,
+"JENNER, Mr F.",,,31.0,Crew,Male,Deck Crew,,
+"EVANS, Mr Alfred Frank",Survivor,England,25.0,Crew,Male,Deck Crew,,
+"FLEET, Mr Frederick",Survivor,England,24.0,Crew,Male,Deck Crew,,
+"HOGG, Mr George Alfred",Survivor,England,29.0,Crew,Male,Deck Crew,,
+"JEWELL, Mr Archie",Survivor,England,23.0,Crew,Male,Deck Crew,,
+"LEE, Mr Reginald Robinson",Survivor,England,41.0,Crew,Male,Deck Crew,,
+"SYMONS, Mr George Thomas Macdonald",Survivor,England,24.0,Crew,Male,Deck Crew,,
+"HADDOCK, Mr Herbert James",,,51.0,Crew,Male,Deck Crew,,
+"SMITH, Captain Edward John",Victim,England,62.0,Crew,Male,Deck Crew,,
+"BAILEY, Mr Henry Joseph",Survivor,England,43.0,Crew,Male,Deck Crew,,
+"KING, Mr Thomas Walter",Victim,England,42.0,Crew,Male,Deck Crew,,
+"WALLIS, Mrs Catherine Jane",Victim,England,35.0,Crew,Female,Victualling Crew,,
+"BRAILEY, Mr William Theodore Ronald",Victim,England,24.0,Passenger,Male,2nd Class,250654,
+"BRICOUX, Mr Roger Marie",Victim,France,20.0,Passenger,Male,2nd Class,250654,
+"CLARKE, Mr John Frederick Preston",Victim,England,28.0,Passenger,Male,2nd Class,250654,
+"HARTLEY, Mr Wallace Henry",Victim,England,33.0,Passenger,Male,2nd Class,250654,
+"HUME, Mr John Law",Victim,,21.0,Passenger,Male,2nd Class,250654,
+"KRINS, Mr Georges Alexandre",Victim,England,23.0,Passenger,Male,2nd Class,250654,
+"TAYLOR, Mr Percy Cornelius",Victim,England,32.0,Passenger,Male,2nd Class,250654,
+"WOODWARD, Mr John Wesley",Victim,England,32.0,Passenger,Male,2nd Class,250654,
+"WILDING, Mr Edward",,Northern Ireland,,Passenger,Male,1st Class,,
+"BLAIR, Mr David",,,37.0,Crew,Male,Deck Crew,,
+"BOXHALL, Mr Joseph Groves",Survivor,England,28.0,Crew,Male,Deck Crew,,
+"LIGHTOLLER, Mr Charles Herbert",Survivor,England,38.0,Crew,Male,Deck Crew,,
+"LOWE, Mr Harold Godfrey",Survivor,Wales,29.0,Crew,Male,Deck Crew,,
+"PITMAN, Mr Herbert John",Survivor,England,34.0,Crew,Male,Deck Crew,,
+"MOODY, Mr James Paul",Victim,England,24.0,Crew,Male,Deck Crew,,
+"MURDOCH, Mr William McMaster",Victim,England,39.0,Crew,Male,Deck Crew,,
+"WILDE, Mr Henry Tingle",Victim,England,39.0,Crew,Male,Deck Crew,,
+"TURVEY, Mr Charles Thomas",Victim,England,17.0,Crew,Male,Restaurant Staff,,
+"THOMPSON, Mr Joey",,Northern Ireland,,Passenger,Male,1st Class,,
+"BLUMET, Mr Jean Baptiste",Victim,England,26.0,Crew,Male,Restaurant Staff,,
+"ASPESLAGH, Mr Georges",Victim,England,26.0,Crew,Male,Restaurant Staff,,
+"PARKES, Mr Francis",Victim,Northern Ireland,21.0,Passenger,Male,2nd Class,239853,
+"ROUS, Mr Arthur John",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"BARKER, Mr Reginald Lomond",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"MCELROY, Mr Hugh Walter",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"BRIGHT, Mr Arthur John",Survivor,England,42.0,Crew,Male,Deck Crew,,
+"HICHENS, Mr Robert",Survivor,England,29.0,Crew,Male,Deck Crew,,
+"HUMPHREYS, Mr Sidney James",Survivor,England,48.0,Crew,Male,Deck Crew,,
+"OLLIVER, Mr Alfred John",Survivor,England,27.0,Crew,Male,Deck Crew,,
+"PERKIS, Mr Walter John",Survivor,England,37.0,Crew,Male,Deck Crew,,
+"ROWE, Mr George Thomas",Survivor,England,32.0,Crew,Male,Deck Crew,,
+"WYNN, Mr Walter",Survivor,England,41.0,Crew,Male,Deck Crew,,
+"JEFFERY, Mr William Alfred",Victim,England,28.0,Crew,Male,Restaurant Staff,,
+"GATTI, Sig. Gaspare Antonio Pietro",Victim,England,37.0,Crew,Male,Restaurant Staff,,
+"BARTLEY, Mr Joseph",,,32.0,Crew,Male,Victualling Crew,,
+"HEDLEY, Mr Robert",,,45.0,Crew,Male,Victualling Crew,,
+"COLLINS, Mr John",Survivor,Northern Ireland,17.0,Crew,Male,Victualling Crew,,
+"COLGAN, Mr E. Joseph",Survivor,England,33.0,Crew,Male,Victualling Crew,,
+"LEE, Mr Henry Reginald",Survivor,England,29.0,Crew,Male,Victualling Crew,,
+"ROSS, Mr Horace Leopold",Survivor,England,38.0,Crew,Male,Victualling Crew,,
+"SIMMONS, Mr Andrew George James",Survivor,England,31.0,Crew,Male,Victualling Crew,,
+"ALLEN, Mr George",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"BULL, Mr W.",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"FEY, Sig. Carlo",Victim,England,30.0,Crew,Male,Restaurant Staff,,
+"FIORAVANTE, Sig. Giuseppe Bertoldo",Victim,England,23.0,Crew,Male,Restaurant Staff,,
+"HALL, Mr F. A. J.",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"HATCH, Mr Hugh",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"INGS, Mr William Ernest",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"KING, Mr G.",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"LOCKE, Mr A.",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"PLATT, Mr Wilfred George",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"BENSON, Mr James",,,50.0,Crew,Male,Deck Crew,,
+"BENSON, Mr John",,,26.0,Crew,Male,Deck Crew,,
+"BLOOMER, Mr James",,,40.0,Crew,Male,Deck Crew,,
+"BURNS, Mr John",,,32.0,Crew,Male,Deck Crew,,
+"DENMIGAN, Mr Charles",,,42.0,Crew,Male,Deck Crew,,
+"DONAUGHE, Mr Hugh",,,34.0,Crew,Male,Deck Crew,,
+"DOUGLASS, Mr William",,,31.0,Crew,Male,Deck Crew,,
+"GRACEY, Mr John",,,41.0,Crew,Male,Deck Crew,,
+"HARMES, Mr Robert",,,31.0,Crew,Male,Deck Crew,,
+"HARRIS, Mr Joseph",,,32.0,Crew,Male,Deck Crew,,
+"HEDDLES, Mr William",,,39.0,Crew,Male,Deck Crew,,
+"HINDS, Mr Charles",,,42.0,Crew,Male,Deck Crew,,
+"HOPKINS, Mr Robert",,,38.0,Crew,Male,Deck Crew,,
+"KAVANAGH, Mr William",,,27.0,Crew,Male,Deck Crew,,
+"MANN, Mr Joseph",,,26.0,Crew,Male,Deck Crew,,
+"MAWHINNEY, Mr John",,,45.0,Crew,Male,Deck Crew,,
+"MCCARTNEY, Mr John",,,49.0,Crew,Male,Deck Crew,,
+"MCENSPIE, Mr James",,,48.0,Crew,Male,Deck Crew,,
+"MCGONAGAL, Mr W.",,,49.0,Crew,Male,Deck Crew,,
+"MCINTOSH, Mr Joseph",,,48.0,Crew,Male,Deck Crew,,
+"MCKENNA, Mr Patrick",,,40.0,Crew,Male,Deck Crew,,
+"MILLFORD, Mr Daniel",,,26.0,Crew,Male,Deck Crew,,
+"MORRELL, Mr James",,,24.0,Crew,Male,Deck Crew,,
+"ROBINSON, Mr Samuel",,,43.0,Crew,Male,Deck Crew,,
+"SMITH, Mr Walter",,,44.0,Crew,Male,Deck Crew,,
+"STARKEY, Mr Henry",,,46.0,Crew,Male,Deck Crew,,
+"THOMAS, Mr John",,,25.0,Crew,Male,Deck Crew,,
+"THOMAS, Mr William",,,49.0,Crew,Male,Deck Crew,,
+"ANDERSON, Mr James",Survivor,England,40.0,Crew,Male,Deck Crew,,
+"ARCHER, Mr Ernest Edward",Survivor,England,36.0,Crew,Male,Deck Crew,,
+"BRICE, Mr Walter Thomas",Survivor,England,42.0,Crew,Male,Deck Crew,,
+"BULEY, Mr Edward John",Survivor,England,26.0,Crew,Male,Deck Crew,,
+"CLENCH, Mr Frederick Charles",Survivor,England,33.0,Crew,Male,Deck Crew,,
+"EVANS, Mr Frank Oliver",Survivor,England,27.0,Crew,Male,Deck Crew,,
+"FORWARD, Mr James",Survivor,England,27.0,Crew,Male,Deck Crew,,
+"HOPKINS, Mr Robert John",Survivor,England,40.0,Crew,Male,Deck Crew,,
+"HORSWILL, Mr Albert Edward James",Survivor,England,33.0,Crew,Male,Deck Crew,,
+"JONES, Mr Thomas William",Survivor,England,32.0,Crew,Male,Deck Crew,,
+"LUCAS, Mr William Arthur",Survivor,England,25.0,Crew,Male,Deck Crew,,
+"MCCARTHY, Mr William",Survivor,Ireland,47.0,Crew,Male,Deck Crew,,
+"MCGOUGH, Mr George Francis 'Paddy'",Survivor,England,36.0,Crew,Male,Deck Crew,,
+"MOORE, Mr George Alfred",Survivor,England,32.0,Crew,Male,Deck Crew,,
+"OSMAN, Mr Frank",Survivor,England,27.0,Crew,Male,Deck Crew,,
+"PASCOE, Mr Charles H.",Survivor,England,43.0,Crew,Male,Deck Crew,,
+"PETERS, Mr William Chapman",Survivor,England,26.0,Crew,Male,Deck Crew,,
+"POINGDESTRE, Mr John Thomas",Survivor,England,33.0,Crew,Male,Deck Crew,,
+"SCARROTT, Mr Joseph George",Survivor,England,33.0,Crew,Male,Deck Crew,,
+"TöRNQUIST, Mr William Henry",Survivor,Sweden,25.0,Passenger,Male,3rd Class,370160,
+"VIGOTT, Mr Philip Francis",Survivor,England,32.0,Crew,Male,Deck Crew,,
+"WELLER, Mr William Clifford",Survivor,England,30.0,Crew,Male,Deck Crew,,
+"BRADLEY, Mr T.",Victim,England,29.0,Crew,Male,Deck Crew,,
+"CLENCH, Mr George James",Victim,England,31.0,Crew,Male,Deck Crew,,
+"COUCH, Mr Frank",Victim,England,28.0,Crew,Male,Deck Crew,,
+"DAVIS, Mr Stephen James",Victim,England,39.0,Crew,Male,Deck Crew,,
+"HOLMAN, Mr Harry",Victim,England,28.0,Crew,Male,Deck Crew,,
+"JOHNSON, Mr August",Victim,England,49.0,Passenger,Male,3rd Class,370160,
+"JOHNSON, Mr William Cahoone Jr.",Victim,United States,19.0,Passenger,Male,3rd Class,370160,
+"LEONARD, Mr Lionel",Victim,,36.0,Passenger,Male,3rd Class,370160,
+"LYONS, Mr William Henry",Victim,England,25.0,Crew,Male,Deck Crew,,
+"MATHERSON, Mr David",Victim,England,30.0,Crew,Male,Deck Crew,,
+"SMITH, Mr William",Victim,England,26.0,Crew,Male,Deck Crew,,
+"STOREY, Mr Thomas",Victim,England,51.0,Passenger,Male,3rd Class,370160,
+"TAYLOR, Mr C.",Victim,England,35.0,Crew,Male,Deck Crew,,
+"TERRELL, Mr Bertram",Victim,England,18.0,Crew,Male,Deck Crew,,
+"HARRISON, Mr William Henry",Victim,England,45.0,Passenger,Male,1st Class,112059,
+"FRY, Mr John Richard",Victim,England,39.0,Passenger,Male,1st Class,112058,
+"ANDREWS, Mr Thomas",Victim,Northern Ireland,39.0,Passenger,Male,1st Class,112050,
+"SANDERSON, Mr Harold Arthur",,England,52.0,Passenger,Male,1st Class,,
+"ISMAY, Mr Joseph Bruce",Survivor,England,49.0,Passenger,Male,1st Class,112058,
+"JANIN, Mr Claude Marie",Victim,England,29.0,Crew,Male,Restaurant Staff,,
+"WRIGHT, Mr Frederick",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"TURNER, Mr George Frederick",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"STEWART, Mr John [1]",Survivor,England,27.0,Crew,Male,Victualling Crew,,
+"WARD, Mr William [1]",Survivor,England,36.0,Crew,Male,Victualling Crew,,
+"ANDREWS, Mr Charles Edward",Survivor,England,19.0,Crew,Male,Victualling Crew,,
+"BAGGOTT, Mr Allen Marden",Survivor,England,28.0,Crew,Male,Victualling Crew,,
+"BALL, Mr Percy",Survivor,England,19.0,Crew,Male,Victualling Crew,,
+"BENNETT, Mrs Mabel",Survivor,England,33.0,Crew,Female,Victualling Crew,,
+"BLISS, Mrs Emma",Survivor,,45.0,Crew,Female,Victualling Crew,,
+"BROWN, Mr Edward",Survivor,England,34.0,Crew,Male,Victualling Crew,,
+"BURKE, Mr William",Survivor,England,31.0,Crew,Male,Victualling Crew,,
+"BURRAGE, Mr Arthur Victor Edwards",Survivor,England,20.0,Crew,Male,Victualling Crew,,
+"CATON, Miss Annie",Survivor,England,33.0,Crew,Female,Victualling Crew,,
+"CHAPMAN, Mr Joseph Charles",Survivor,England,32.0,Crew,Male,Victualling Crew,,
+"CRAFTER, Mr Frederick Horace",Survivor,England,20.0,Crew,Male,Victualling Crew,,
+"CRAWFORD, Mr Alfred George",Survivor,England,43.0,Crew,Male,Victualling Crew,,
+"CROWE, Mr George Frederick",Survivor,England,30.0,Crew,Male,Victualling Crew,,
+"CULLEN, Mr Charles James",Survivor,England,49.0,Crew,Male,Victualling Crew,,
+"CUNNINGHAM, Mr Andrew Orr",Survivor,England,38.0,Crew,Male,Victualling Crew,,
+"DANIELS, Mr Sidney Edward",Survivor,England,18.0,Crew,Male,Victualling Crew,,
+"ETCHES, Mr Henry Samuel",Survivor,England,43.0,Crew,Male,Victualling Crew,,
+"FAULKNER, Mr William Stephen",Survivor,England,37.0,Crew,Male,Victualling Crew,,
+"FITZPATRICK, Mr Cecil William",Survivor,England,21.0,Crew,Male,Engineering Crew,,
+"FOLEY, Mr Wilfred Cyril",Survivor,England,22.0,Crew,Male,Victualling Crew,,
+"GIBBONS, Mr Jacob William",Survivor,,36.0,Crew,Male,Victualling Crew,,
+"GOLD, Mrs Jane Kate Coulson",Survivor,England,45.0,Crew,Female,Victualling Crew,,
+"GREGSON, Miss Mary",Survivor,England,45.0,Crew,Female,Victualling Crew,,
+"HALFORD, Mr Richard",Survivor,England,22.0,Crew,Male,Victualling Crew,,
+"HARDY, Mr John",Survivor,England,40.0,Crew,Male,Victualling Crew,,
+"HARRISON, Mr Aragõa Drummond",Survivor,England,40.0,Crew,Male,Victualling Crew,,
+"HART, Mr John Edward",Survivor,England,31.0,Crew,Male,Victualling Crew,,
+"HARTNELL, Mr Fred",Survivor,England,21.0,Crew,Male,Victualling Crew,,
+"HYLAND, Mr James Leo",Survivor,England,19.0,Crew,Male,Victualling Crew,,
+"JESSOP, Miss Violet Constance",Survivor,England,24.0,Crew,Female,Victualling Crew,,
+"JOHNSTON, Mr James",Survivor,England,41.0,Crew,Male,Victualling Crew,,
+"KEEN, Mr Percy Edward",Survivor,England,30.0,Crew,Male,Victualling Crew,,
+"KNIGHT, Mr George",Survivor,England,44.0,Crew,Male,Victualling Crew,,
+"KNOWLES, Mr Thomas",Survivor,England,42.0,Crew,Male,Engineering Crew,,
+"LAVINGTON, Miss Elizabeth",Survivor,England,40.0,Crew,Female,Victualling Crew,,
+"LEATHER, Mrs Elizabeth Mary",Survivor,England,41.0,Crew,Female,Victualling Crew,,
+"LEWIS, Mr Arthur Ernest Read",Survivor,England,27.0,Crew,Male,Victualling Crew,,
+"LITTLEJOHN, Mr Alexander James",Survivor,England,40.0,Crew,Male,Victualling Crew,,
+"LUCAS, Mr William Watson",Survivor,England,31.0,Crew,Male,Victualling Crew,,
+"MACKAY, Mr Charles Donald",Survivor,England,34.0,Crew,Male,Victualling Crew,,
+"MARSDEN, Miss Evelyn",Survivor,England,28.0,Crew,Female,Victualling Crew,,
+"MARTIN, Mrs Annie Martha",Survivor,England,39.0,Crew,Female,Victualling Crew,,
+"MCLAREN, Mrs Hypatia",Survivor,England,40.0,Crew,Female,Victualling Crew,,
+"MCMICKEN, Mr Arthur",Survivor,England,23.0,Crew,Male,Victualling Crew,,
+"MORRIS, Mr Frank Herbert",Survivor,England,28.0,Crew,Male,Victualling Crew,,
+"NICHOLS, Mr Walter Henry",Survivor,England,35.0,Crew,Male,Victualling Crew,,
+"PEARCEY, Mr Albert Victor",Survivor,England,25.0,Crew,Male,Victualling Crew,,
+"PFROPPER, Mr Richard Paul Jozef",Survivor,England,30.0,Crew,Male,Victualling Crew,,
+"PHILLIMORE, Mr Harold Charles William",Survivor,England,23.0,Crew,Male,Victualling Crew,,
+"PORT, Mr Frank",Survivor,England,22.0,Crew,Male,Victualling Crew,,
+"PRICHARD, Mrs Alice Maud",Survivor,England,34.0,Crew,Female,Victualling Crew,,
+"PRIOR, Mr Harold John Arnold",Survivor,England,21.0,Crew,Male,Victualling Crew,,
+"PUGH, Mr Alfred",Survivor,England,20.0,Crew,Male,Victualling Crew,,
+"RAY, Mr Frederick Dent",Survivor,England,32.0,Crew,Male,Victualling Crew,,
+"ROBERTS, Mrs Mary Kezia",Survivor,England,41.0,Crew,Female,Victualling Crew,,
+"ROBINSON, Mrs Annie",Survivor,England,40.0,Crew,Female,Victualling Crew,,
+"RULE, Mr Samuel James",Survivor,England,58.0,Crew,Male,Victualling Crew,,
+"RYERSON, Mr William Edwy",Survivor,England,33.0,Crew,Male,Victualling Crew,,
+"SAVAGE, Mr Charles Joseph",Survivor,England,23.0,Crew,Male,Victualling Crew,,
+"SEWARD, Mr Wilfred Deable",Survivor,England,25.0,Crew,Male,Victualling Crew,,
+"SLOAN, Miss Mary",Survivor,Northern Ireland,28.0,Crew,Female,Victualling Crew,,
+"SLOCOMBE, Mrs Maude Louise",Survivor,England,30.0,Crew,Female,Victualling Crew,,
+"SMITH, Miss Katherine Elizabeth",Survivor,England,44.0,Crew,Female,Victualling Crew,,
+"STAP, Miss Sarah Agnes",Survivor,England,47.0,Crew,Female,Victualling Crew,,
+"TERRELL, Mr Frank",Survivor,England,27.0,Crew,Male,Victualling Crew,,
+"THEISSINGER, Mr Alfred",Survivor,England,46.0,Crew,Male,Victualling Crew,,
+"THOMAS, Mr Albert Charles",Survivor,England,23.0,Crew,Male,Victualling Crew,,
+"THOMAS, Mr Benjamin James",Survivor,England,30.0,Crew,Male,Victualling Crew,,
+"TOMS, Mr Fred",Survivor,England,29.0,Crew,Male,Victualling Crew,,
+"WHEAT, Mr Joseph Thomas",Survivor,England,30.0,Crew,Male,Victualling Crew,,
+"WHEELTON, Mr Edneser Edward",Survivor,England,29.0,Crew,Male,Victualling Crew,,
+"WHITELEY, Mr Thomas Arthur",Survivor,England,18.0,Crew,Male,Victualling Crew,,
+"WIDGERY, Mr James George",Survivor,England,37.0,Crew,Male,Victualling Crew,,
+"WILLIAMS, Mr Walter John",Survivor,England,28.0,Crew,Male,Victualling Crew,,
+"WITTER, Mr James William Cheetham",Survivor,England,31.0,Crew,Male,Victualling Crew,,
+"WRIGHT, Mr William",Survivor,England,40.0,Crew,Male,Victualling Crew,,
+"YEARSLEY, Mr Harry",Survivor,England,40.0,Crew,Male,Victualling Crew,,
+"MAY, Mr Arthur William [2]",Victim,England,59.0,Crew,Male,Engineering Crew,,
+"ABBOTT, Mr Ernest Owen",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"AHIER, Mr Percy Snowden",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"AKERMAN, Mr Albert Edward",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"AKERMAN, Mr Joseph Francis",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"ALLEN, Mr Frederick",Victim,England,17.0,Crew,Male,Victualling Crew,,
+"ALLEN, Mr Robert Spencer",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"ALLSOP, Mr Frank Richard",Victim,England,41.0,Crew,Male,Victualling Crew,,
+"ANDERSON, Mr Walter Yuill",Victim,England,48.0,Crew,Male,Victualling Crew,,
+"ASHE, Mr Henry Wellesley",Victim,England,41.0,Crew,Male,Victualling Crew,,
+"BACK, Mr Charles Frederick",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"BAGLEY, Mr Edward Henry",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"BAILEY, Mr George Francis",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"BARKER, Mr Ernest Thomas",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"BARLOW, Mr George",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"BARRINGER, Mr Arthur William",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"BARROWS, Mr William",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"BARTON, Mr Sidney John",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"BAXTER, Mr Harry Ross",Victim,England,53.0,Crew,Male,Victualling Crew,,
+"BAXTER, Mr Thomas Ferguson",Victim,England,55.0,Crew,Male,Victualling Crew,,
+"BEEDEM, Mr George Arthur",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"BENHAM, Mr Fred John",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"BESSANT, Mr Edward",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"BEST, Mr Edwin Alfred",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"BISHOP, Mr Walter Alexander",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"BLAKE, Mr Seaton",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"BOGIE, Mr Norman Leslie",Victim,England,59.0,Crew,Male,Victualling Crew,,
+"BOND, Mr William John",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"BOOTHBY, Mr Walter Thomas",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"BOSTON, Mr William John",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"BOUGHTON, Mr Bernard John",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"BOYD, Mr John",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"BOYES, Mr John Henry",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"BRADSHAW, Mr John Albert Perkin",Victim,England,43.0,Crew,Male,Victualling Crew,,
+"BREWSTER, Mr George Henry",Victim,England,48.0,Crew,Male,Victualling Crew,,
+"BRISTOW, Mr Harry",Victim,,33.0,Crew,Male,Victualling Crew,,
+"BRISTOW, Mr Robert Charles",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"BROOKMAN, Mr John Cress",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"BROOM, Mr Herbert George",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"BROOME, Mr Athol Frederick",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"BROWN, Mr Walter James",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"BULLEY, Mr Henry Ashburnham",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"BUNNELL, Mr Wilfred James",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"BURKE, Mr Richard Edward",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"BURR, Mr Ewart Sydenham",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"BUTT, Mr Robert Henry",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"BUTTERWORTH, Mr John",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"BYRNE, Mr James Edward",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"CARNEY, Mr William",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"CARTWRIGHT, Mr James Edward",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"CASSWILL, Mr Charles",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"CAVE, Mr Herbert",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"CECIL, Mr Charles Thomas",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"CHARMAN, Mr John James",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"CHEVERTON, Mr William Frederick",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"CHITTY, Mr Archibald George",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"CHRISTMAS, Mr Herbert Harry",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"COLEMAN, Mr Albert Edward",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"COLEMAN, Mr John",Victim,England,57.0,Crew,Male,Engineering Crew,,
+"CONWAY, Mr Percy Walter",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"COOK, Mr George",Victim,,32.0,Crew,Male,Victualling Crew,,
+"CORBEN, Mr Ernest Theodore",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"COX, Mr William Denton",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"CRISP, Mr Albert Hector",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"CRISPIN, Mr William",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"CRUMPLIN, Mr Charles George Chandler",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"DASHWOOD, Mr William George",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"DAVIES, Mr Gordon Raleigh",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"DAVIES, Mr Robert J.",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"DEAN, Mr George H.",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"DEEBLE, Mr Alfred Arnold",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"DERRETT, Mr Arthur Henry",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"DESLANDES, Mr Percival Stainer",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"DINENAGE, Mr James Richard",Victim,England,49.0,Crew,Male,Victualling Crew,,
+"DODD, Mr George Charles",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"DOLBY, Mr Joseph",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"DONOGHUE, Mr Frank (?Thomas)",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"DOUGHTY, Mr Walter Thomas",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"DUNFORD, Mr William",Victim,England,47.0,Crew,Male,Victualling Crew,,
+"DYER, Mr William Henry",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"EDBROOKE, Mr Francis Samuel Jacob",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"EDE, Mr George Bulkeley",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"EDGE, Mr Frederick William",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"EDWARDS, Mr Charles Essex",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"EGG, Mr William Henry",Victim,England,47.0,Crew,Male,Victualling Crew,,
+"EVANS, Mr George Richard",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"FAIRALL, Mr Henry Charles",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"FELLOWES, Mr Alfred James",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"FINCH, Mr Harry",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"FLETCHER, Mr Percy William",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"FORD, Mr Ernest",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"FORD, Mr Francis",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"FOX, Mr William Thomas",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"FRANKLIN, Mr Alan Vincent",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"FREEMAN, Mr Ernest Edward Samuel",Victim,England,45.0,Crew,Male,Victualling Crew,,
+"GEDDES, Mr Richard Charles",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"GILL, Mr Joseph Stanley",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"GOSHAWK, Mr Alfred James",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"GUMERY, Mr George",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"GUNN, Mr Joseph Alfred",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"HAMBLYN, Mr Ernest William",Victim,England,46.0,Crew,Male,Victualling Crew,,
+"HAMILTON, Mr Ernest",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"HARDING, Mr Alfred John",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"HARRIS, Mr Charles William",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"HARRIS, Mr Edward Matthew",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"HAWKESWORTH, Mr James",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"HAWKESWORTH, Mr William Walter",Victim,England,43.0,Crew,Male,Victualling Crew,,
+"HAYTER, Mr Arthur",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"HEINEN, Mr Joseph Dominichus",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"HENDY, Mr Edward Martin",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"HEWITT, Mr Thomas",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"HILL, Mr H. P.",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"HILL, Mr James Colston",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"HINCKLEY, Mr George Herbert",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"HISCOCK, Mr Sydney George",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"HOARE, Mr Leonard James",Victim,England,16.0,Crew,Male,Victualling Crew,,
+"HOGG, Mr Charles William",Victim,England,43.0,Crew,Male,Victualling Crew,,
+"HOGUE, Mr E.",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"HOLLAND, Mr Thomas",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"HOLLOWAY, Mr Sidney",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"HOPKINS, Mr Frederick William",Victim,England,16.0,Crew,Male,Victualling Crew,,
+"HOUSE, Mr William John",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"HOWELL, Mr Arthur Albert",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"HUGHES, Mr William Thomas",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"HUMBY, Mr Frederick Charles",Victim,England,17.0,Crew,Male,Victualling Crew,,
+"HUMPHREYS, Mr Humphrey",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"IDE, Mr Harry John",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"INGROUILLE, Mr Henry",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"JACKSON, Mr Cecil",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"JANAWAY, Mr William Frank",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"JENNER, Mr Thomas Henry (Harry)",Victim,England,55.0,Crew,Male,Victualling Crew,,
+"JENSEN, Mr Charles Valdemar",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"JONES, Mr Albert",Victim,England,17.0,Crew,Male,Victualling Crew,,
+"JONES, Mr Arthur Ernest",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"JONES, Mr Victor Reginald",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"KELLAND, Mr Thomas",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"KERLEY, Mr William Thomas",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"KETCHLEY, Mr Henry",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"KIERAN, Mr James William",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"KING, Mr Alfred John Moffett",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"KINGSCOTE, Mr William Ford",Victim,England,42.0,Crew,Male,Victualling Crew,,
+"KIRKALDY, Mr Thomas Benjamin",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"KITCHING, Mr Arthur Alfred",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"KNIGHT, Mr Leonard George",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"LACEY, Mr Bertie William",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"LAKE, Mr William",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"LANE, Mr Albert Edward",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"LATIMER, Mr Andrew L",Victim,England,55.0,Crew,Male,Victualling Crew,,
+"LAWRENCE, Mr Arthur",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"LEFEBVRE, Mr Paul Georges",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"LEONARD, Mr Matthew",Victim,Northern Ireland,25.0,Crew,Male,Victualling Crew,,
+"LEVETT, Mr George Alfred",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"LIGHT, Mr Charles Edward",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"LLOYD, Mr Humphrey",Victim,England,41.0,Crew,Male,Victualling Crew,,
+"LONGMUIR, Mr John Dickson",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"LYDIATT, Mr Charles",Victim,England,45.0,Crew,Male,Victualling Crew,,
+"MABEY, Mr John Charles",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"MACKIE, Mr George William",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"MAJOR, Mr Thomas Edgar",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"MANTLE, Mr Roland Frederick",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"MARKS, Mr James",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"MARRIOTT, Mr John William",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"MATHIAS, Mr Montague Vincent",Victim,England,28.0,Crew,Male,Deck Crew,,
+"MCCARTHY, Mr Frederick James",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"MCCAWLEY, Mr Thomas W.",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"MCGRADY, Mr James",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"MCMICKEN, Mr Benjamin Tucker",Victim,England,21.0,Crew,Male,Victualling Crew,,
+"MCMULLIN, Mr John Richard",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"MCMURRAY, Mr William",Victim,England,43.0,Crew,Male,Victualling Crew,,
+"MELLOR, Mr Arthur",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"MIDDLETON, Mr Mark Victor",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"MISHELLANY, Mr Abraham Mansoor",Victim,England,53.0,Crew,Male,Victualling Crew,,
+"MOORE, Mr Alfred Ernest",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"MOSS, Mr William",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"MüLLER, Mr Ludwig",Victim,England,36.0,Crew,Male,Victualling Crew,,
+"MULLIN, Mr Thomas",Victim,Scotland,20.0,Crew,Male,Victualling Crew,,
+"NICHOLLS, Mr Sidney",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"NICHOLS, Mr A.D.",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"O'CONNOR, Mr Thomas Peter",Victim,England,43.0,Crew,Male,Victualling Crew,,
+"OLIVE, Mr Ernest Roskelly",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"ORPET, Mr Walter Hayward",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"OSBORNE, Mr William Edward",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"OWEN, Mr Lewis",Victim,England,49.0,Crew,Male,Victualling Crew,,
+"PACEY, Mr Reginald lvan",Victim,England,17.0,Crew,Male,Victualling Crew,,
+"PAINTIN, Mr James Arthur",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"PARSONS, Mr Richard Henry",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"PEARCE, Mr Alfred Emest",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"PENNAL, Mr Thomas Frederick Cohen",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"PENNY, Mr William Farr",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"PENROSE, Mr John Poole",Victim,England,49.0,Crew,Male,Victualling Crew,,
+"PERKINS, Mr Laurence Alexander",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"PERREN, Mr William Charles",Victim,England,47.0,Crew,Male,Victualling Crew,,
+"PERRITON, Mr Hubert Prouse",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"PETTY, Mr Edwin Henry",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"POOK, Mr Percy Robert",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"PRIDEAUX, Mr John Arthur (Jack)",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"PRYCE, Mr Charles William",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"PUZEY, Mr John Edward",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"RANDALL, Mr Frank Henry",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"RANSOM, Mr James Augustus",Victim,England,49.0,Crew,Male,Victualling Crew,,
+"RATTENBURY, Mr William Henry",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"REED, Mr Thomas Charles Prowse",Victim,England,54.0,Crew,Male,Victualling Crew,,
+"REVELL, Mr William James Francis",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"RICE, Mr Percy",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"RIDOUT, Mr Walter George",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"RIMMER, Mr Gilbert",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"ROBERTON, Mr George Edward",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"ROBERTS, Mr Hugh H.",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"ROBINSON, Mr James William",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"ROGERS, Mr Michael",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"ROWE, Mr Edgar Maurice",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"RUSSELL, Mr Boysie Richard",Victim,England,17.0,Crew,Male,Victualling Crew,,
+"RYAN, Mr Thomas",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"SAMUEL, Mr Owen Wilmore",Victim,England,46.0,Crew,Male,Victualling Crew,,
+"SAUNDERS, Mr D. E.",Victim,England,26.0,Crew,Male,Victualling Crew,,
+"SCOTT, Mr John",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"SCOVELL, Mr Robert",Victim,England,54.0,Crew,Male,Victualling Crew,,
+"SEDUNARY, Mr Samuel Francis",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"SHEA, Mr John Joseph",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"SIEBERT, Mr Sidney Conrad",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"SIMMONS, Mr Frederick Charles",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"SIVIER, Mr William",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"SKINNER, Mr Edward",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"SLIGHT, Mr Harry John",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"SMILLIE, Mr John",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"SMITH, Mr Charles Edwin",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"SMITH, Mr F.",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"SMITH, Mr Robert G.",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"SNAPE, Mrs Lucy Violet",Victim,England,22.0,Crew,Female,Victualling Crew,,
+"STAGG, Mr John Henry",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"STEBBINGS, Mr Sydney Frederick",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"STONE, Mr Edmund",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"STONE, Mr Edward Thomas",Victim,England,29.0,Crew,Male,Victualling Crew,,
+"STROUD, Mr Edward Alfred Orlando",Victim,England,19.0,Crew,Male,Victualling Crew,,
+"STROUD, Mr Harry John",Victim,England,35.0,Crew,Male,Victualling Crew,,
+"STRUGNELL, Mr John Herbert",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"SWAN, Mr William",Victim,England,46.0,Crew,Male,Victualling Crew,,
+"SYMONDS, Mr John Crane",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"TALBOT, Mr George Frederick Charles",Victim,England,20.0,Crew,Male,Victualling Crew,,
+"TAMLYN, Mr Frederick",Victim,England,23.0,Crew,Male,Deck Crew,,
+"TAYLOR, Mr Bernard Cuthbert",Victim,England,22.0,Crew,Male,Victualling Crew,,
+"TAYLOR, Mr William John",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"TEUTON, Mr Thomas Moore",Victim,England,32.0,Crew,Male,Victualling Crew,,
+"THALER, Mr Montague Donald",Victim,England,17.0,Crew,Male,Victualling Crew,,
+"TOSHACK, Mr James Adamson",Victim,England,30.0,Crew,Male,Victualling Crew,,
+"TURNER, Mr Leopold Olerenshaw",Victim,England,28.0,Crew,Male,Victualling Crew,,
+"VEAL, Mr Thomas Henry Edom",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"WALPOLE, Mr James",Victim,England,48.0,Crew,Male,Victualling Crew,,
+"WALSH, Miss Catherine",Victim,England,32.0,Crew,Female,Victualling Crew,,
+"WARD, Mr Edward",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"WARD, Mr Percy Thomas",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"WAREHAM, Mr Robert Arthur",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"WARWICK, Mr Tom",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"WEATHERSTON, Mr Thomas Herbert",Victim,England,24.0,Crew,Male,Victualling Crew,,
+"WEBB, Mr Brooke Holding",Victim,England,50.0,Crew,Male,Victualling Crew,,
+"WHITE, Mr Edward Joseph",Victim,England,27.0,Crew,Male,Victualling Crew,,
+"WHITE, Mr Leonard Lisle Oliver",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"WHITFORD, Mr Alfred Henry",Victim,England,39.0,Crew,Male,Victualling Crew,,
+"WILLIS, Mr William",Victim,England,46.0,Crew,Male,Victualling Crew,,
+"WINSER, Mr Rowland",Victim,England,33.0,Crew,Male,Victualling Crew,,
+"WITTMAN, Mr Henry",Victim,England,38.0,Crew,Male,Victualling Crew,,
+"WOOD, Mr James Thomas",Victim,England,40.0,Crew,Male,Victualling Crew,,
+"WORMALD, Mr Henry Frederick Charles",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"WRAPSON, Mr Frederick Bernard",Victim,England,18.0,Crew,Male,Victualling Crew,,
+"BARKER, Mr George [2]",,,56.0,Crew,Male,Engineering Crew,,
+"FOLEY, Mr John",Survivor,England,46.0,Crew,Male,Deck Crew,,
+"PRENTICE, Mr Frank Winnold",Survivor,England,23.0,Crew,Male,Victualling Crew,,
+"FOSTER, Mr Albert C.",Victim,England,37.0,Crew,Male,Engineering Crew,,
+"KENZLER, Mr August",Victim,England,43.0,Crew,Male,Engineering Crew,,
+"KIERAN, Mr Edgar Michael",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"MORGAN (BIRD), Mr Charles Frederick",Victim,England,42.0,Crew,Male,Victualling Crew,,
+"NEWMAN, Mr Charles Thomas",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"PARSONS, Mr Edward",Victim,England,37.0,Crew,Male,Victualling Crew,,
+"PHILLIPS, Mr Walter John",Victim,England,35.0,Crew,Male,Restaurant Staff,,
+"RICKS, Mr Cyril Gordon",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"ROGERS, Mr Edward James William",Victim,England,31.0,Crew,Male,Victualling Crew,,
+"RUDD, Mr Henry",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"THOMPSON, Mr Herbert Henry",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"WILLIAMS, Mr Arthur John",Victim,England,42.0,Crew,Male,Victualling Crew,,
+"O'LOUGHLIN, Dr William Francis Norman",Victim,England,62.0,Crew,Male,Deck Crew,,
+"SIMPSON, Dr John Edward",Victim,Northern Ireland,37.0,Crew,Male,Deck Crew,,
+"BRIDE, Mr Harold Sydney",Survivor,England,22.0,Crew,Male,Victualling Crew,,
+"PHILLIPS, Mr John George",Victim,England,25.0,Crew,Male,Victualling Crew,,
+"JAMES, Mr Thomas [2]",,,36.0,Crew,Male,Engineering Crew,,
+"STEWART, Mr John [2]",,,30.0,Crew,Male,Engineering Crew,,
+"AULD, Mr James",,,32.0,Crew,Male,Engineering Crew,,
+"BAILEY, Mr William",,,30.0,Crew,Male,Engineering Crew,,
+"BARRY, Mr James",,,31.0,Crew,Male,Engineering Crew,,
+"BARTLEY, Mr Robert",,,32.0,Crew,Male,Engineering Crew,,
+"BEATTIE, Mr Francis",,,36.0,Crew,Male,Engineering Crew,,
+"BENSON, Mr William",,,25.0,Crew,Male,Engineering Crew,,
+"BRYAN, Mr John",,,22.0,Crew,Male,Engineering Crew,,
+"CARSON, Mr James",,,36.0,Crew,Male,Engineering Crew,,
+"CASSIDY, Mr William J.",,,,Crew,Male,Engineering Crew,,
+"COSGROVE, Mr John",,,23.0,Crew,Male,Engineering Crew,,
+"COSGROVE, Mr William",,,26.0,Crew,Male,Engineering Crew,,
+"CROSSLEY, Mr John",,,34.0,Crew,Male,Engineering Crew,,
+"ELLISON, Mr Joseph",,,29.0,Crew,Male,Engineering Crew,,
+"FLACK, Mr John",,,30.0,Crew,Male,Engineering Crew,,
+"FLEMMING, Mr William",,,32.0,Crew,Male,Engineering Crew,,
+"GIBSON, Mr Thomas",,,20.0,Crew,Male,Engineering Crew,,
+"HAMILTON, Mr William J.",,,24.0,Crew,Male,Engineering Crew,,
+"HARVEY, Mr John",,,26.0,Crew,Male,Engineering Crew,,
+"HERD, Mr Hugh",,,35.0,Crew,Male,Engineering Crew,,
+"HOLMAN, Mr Thomas",,,24.0,Crew,Male,Engineering Crew,,
+"HORNER, Mr Alex",,,38.0,Crew,Male,Engineering Crew,,
+"JOSEPH, Mr Kirkpatrick",,,37.0,Crew,Male,Engineering Crew,,
+"KEENAN, Mr Patrick",,,35.0,Crew,Male,Engineering Crew,,
+"KERNEY, Mr William",,,39.0,Crew,Male,Engineering Crew,,
+"LOUGHRAN, Mr Joseph",,,28.0,Crew,Male,Engineering Crew,,
+"LYTLE, Mr Thomas",,,31.0,Crew,Male,Engineering Crew,,
+"MANN, Mr Samuel",,,40.0,Crew,Male,Engineering Crew,,
+"MATHERS, Mr John",,,26.0,Crew,Male,Engineering Crew,,
+"MCDONALD, Mr Daniel",,,26.0,Crew,Male,Engineering Crew,,
+"MCGILL, Mr Thomas",,,29.0,Crew,Male,Engineering Crew,,
+"MCGIVERN, Mr Henry",,,41.0,Crew,Male,Engineering Crew,,
+"MCGREEVY, Mr Richard",,,26.0,Crew,Male,Engineering Crew,,
+"MCILROY, Mr Robert",,,26.0,Crew,Male,Engineering Crew,,
+"MCILWAINE, Mr James",,,25.0,Crew,Male,Engineering Crew,,
+"MECHAN, Mr William",,,38.0,Crew,Male,Engineering Crew,,
+"MORRISON, Mr Thomas",,,26.0,Crew,Male,Engineering Crew,,
+"PATON, Mr Matthew",,,26.0,Crew,Male,Engineering Crew,,
+"RICHARD, Mr McMullan",,,23.0,Crew,Male,Engineering Crew,,
+"ROBINSON, Mr Thomas",,,30.0,Crew,Male,Engineering Crew,,
+"SHANNON, Mr David",,,30.0,Crew,Male,Engineering Crew,,
+"SIMMS, Mr William",,,38.0,Crew,Male,Engineering Crew,,
+"SMITH, Mr Joseph",,,25.0,Crew,Male,Engineering Crew,,
+"STEVENSON, Mr Andrew",,,28.0,Crew,Male,Engineering Crew,,
+"STEWART, Mr Matthew",,,25.0,Crew,Male,Engineering Crew,,
+"SWARBRICK, Mr Joseph",,,22.0,Crew,Male,Engineering Crew,,
+"TAGGART, Mr William",,,23.0,Crew,Male,Engineering Crew,,
+"VALLER, Mr Arthur",,,25.0,Crew,Male,Engineering Crew,,
+"WALKER, Mr Robert",,,43.0,Crew,Male,Engineering Crew,,
+"WALLACE, Mr Robert",,,26.0,Crew,Male,Engineering Crew,,
+"WAUGH, Mr James",,,26.0,Crew,Male,Engineering Crew,,
+"ALLEN, Mr Ernest Frederick",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"AVERY, Mr James Albert",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"BINSTEAD, Mr Walter William",Survivor,England,20.0,Crew,Male,Engineering Crew,,
+"BLAKE, Mr Percival Albert",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"CAVELL, Mr George Henry",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"DILLON, Mr Thomas Patrick",Survivor,England,24.0,Crew,Male,Engineering Crew,,
+"DORE, Mr Albert James",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"FREDERICKS, Mr Walter Francis",Survivor,England,21.0,Crew,Male,Engineering Crew,,
+"FRYER, Mr Albert Ernest",Survivor,England,29.0,Crew,Male,Engineering Crew,,
+"HEBB, Mr William Albert",Survivor,England,22.0,Crew,Male,Engineering Crew,,
+"HUNT, Mr Albert Sylvanus",Survivor,England,23.0,Crew,Male,Engineering Crew,,
+"MCGANN, Mr James",Survivor,England,26.0,Crew,Male,Engineering Crew,,
+"MCINTYRE, Mr William",Survivor,England,21.0,Crew,Male,Engineering Crew,,
+"O'CONNOR, Mr John",Survivor,England,25.0,Crew,Male,Engineering Crew,,
+"PELHAM, Mr George",Survivor,England,39.0,Crew,Male,Engineering Crew,,
+"PERRY, Mr Edgar Lionel",Survivor,England,19.0,Crew,Male,Engineering Crew,,
+"SHEATH, Mr Frederick",Survivor,England,20.0,Crew,Male,Engineering Crew,,
+"SNOW, Mr Eustace Philip",Survivor,England,21.0,Crew,Male,Engineering Crew,,
+"WHITE, Mr William George",Survivor,England,23.0,Crew,Male,Engineering Crew,,
+"GREEN, Mr George [2]",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"BEVIS, Mr Joseph Henry",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"BILLOWS, Mr James",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"BREWER, Mr Harry",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"BROOKS, Mr J.",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"CALDERWOOD, Mr Hugh",Victim,Northern Ireland,30.0,Crew,Male,Engineering Crew,,
+"CARR, Mr Richard Stephen",Victim,England,37.0,Crew,Male,Engineering Crew,,
+"CASEY, Mr Thomas",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"COE, Mr Harry",Victim,England,21.0,Crew,Male,Engineering Crew,,
+"COOPER, Mr James Edward",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"COTTON, Mr Alfred",Victim,England,35.0,Crew,Male,Engineering Crew,,
+"CRABB, Mr Henry James",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"DAWSON, Mr Joseph",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"DICKSON, Mr William",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"EAGLE, Mr Alfred James",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"ELLIOTT, Mr Everett Edward",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"EVANS, Mr William Thomas",Victim,England,33.0,Crew,Male,Engineering Crew,,
+"FERRARY, Mr Antonio",Victim,England,34.0,Crew,Male,Engineering Crew,,
+"FORD, Mr H.",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"GORDON, Mr J.",Victim,England,29.0,Crew,Male,Engineering Crew,,
+"GOSLING, Mr Bertram James",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"GOSLING, Mr S.",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"HARRIS, Mr Amos",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"HASLIN, Mr James",Victim,England,45.0,Crew,Male,Engineering Crew,,
+"HILL, Mr James",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"HINTON, Mr Stephen William",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"INGRAM, Mr George",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"KEARL, Mr George Edward",Victim,England,24.0,Crew,Male,Engineering Crew,,
+"LEE, Mr H.",Victim,England,18.0,Crew,Male,Engineering Crew,,
+"LONG, Mr Frank",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"LONG, Mr William",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"MASKELL, Mr Leopold Adolphus",Victim,England,25.0,Crew,Male,Engineering Crew,,
+"MITCHELL, Mr Lorenzo (Lawrence) Horace",Victim,England,18.0,Crew,Male,Engineering Crew,,
+"MOORE, Mr Ralph",Victim,England,21.0,Crew,Male,Engineering Crew,,
+"MORGAN, Mr Arthur Herbert",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"MORRIS, Mr William Edward",Victim,England,22.0,Crew,Male,Engineering Crew,,
+"PERRY, Mr Henry Frederick",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"PRESTON, Mr Thomas Charles Alfred",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"PROUDFOOT, Mr Richard Royston",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"READ, Mr Joseph",Victim,England,21.0,Crew,Male,Engineering Crew,,
+"REID, Mr Robert Thomas",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"SAUNDERS, Mr Walter Edward",Victim,England,23.0,Crew,Male,Engineering Crew,,
+"SHILLABEER, Mr Charles Frederick",Victim,England,19.0,Crew,Male,Engineering Crew,,
+"SKEATES, Mr William",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"SMITH, Mr Emest George",Victim,England,27.0,Crew,Male,Engineering Crew,,
+"SNOOKS, Mr W.",Victim,England,26.0,Crew,Male,Engineering Crew,,
+"STEEL, Mr Robert Edward",Victim,,29.0,Crew,Male,Engineering Crew,,
+"STOCKER, Mr Henry Dorey",Victim,England,20.0,Crew,Male,Engineering Crew,,
+"WATTS, Mr",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"WEBB, Mr Samuel Francis",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"WHITE, Mr Albert",Victim,England,21.0,Crew,Male,Engineering Crew,,
+"WHITE, Mr Frank Leonard",Victim,England,28.0,Crew,Male,Engineering Crew,,
+"WILTON, Mr William Edward",Victim,England,53.0,Crew,Male,Engineering Crew,,
+"WOOD, Mr Henry",Victim,England,30.0,Crew,Male,Engineering Crew,,
+"CROSBIE, Mr John Borthwick",Victim,England,44.0,Crew,Male,Victualling Crew,,
+"ENNIS, Mr Walter",Victim,England,34.0,Crew,Male,Victualling Crew,,
+"TAYLOR, Mr Leonard",Victim,England,23.0,Crew,Male,Victualling Crew,,
+"ALLARIA, Sig. Battista Antonio",Victim,England,22.0,Crew,Male,Restaurant Staff,,
+"BANFI, Sig. Ugo",Victim,England,24.0,Crew,Male,Restaurant Staff,,
+"BASILICO, Sig. Giovanni",Victim,England,27.0,Crew,Male,Restaurant Staff,,
+"BAZZI, Sig. Narciso",Victim,England,33.0,Crew,Male,Restaurant Staff,,
+"BERNARDI, Sig. Battista",Victim,England,22.0,Crew,Male,Restaurant Staff,,
+"BEUX, Mr David",Victim,England,26.0,Crew,Male,Restaurant Staff,,
+"BOCHET, Mr Pierre Giuseppe",Victim,England,44.0,Crew,Male,Restaurant Staff,,
+"CASALI, Sig. Giulio",Victim,England,32.0,Crew,Male,Restaurant Staff,,
+"CROVELLA, Sig. Luigi",Victim,England,17.0,Crew,Male,Restaurant Staff,,
+"DE MARSICO, Sig. Govanni",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"DEBREUCQ, Mr Maurice Emile Victor",Victim,England,18.0,Crew,Male,Restaurant Staff,,
+"DONATI, Sig. Italo Francesco",Victim,England,17.0,Crew,Male,Restaurant Staff,,
+"GILARDINO, Sig. Vincenzo Pio",Victim,England,31.0,Crew,Male,Restaurant Staff,,
+"GROSCLAUDE, Mr Gérald",Victim,England,24.0,Crew,Male,Restaurant Staff,,
+"MONRóS, Sr. Joan Javier",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"NANNINI, Sig. Francesco Luigi Arcangelo",Victim,England,42.0,Crew,Male,Restaurant Staff,,
+"PEDRINI, Sig. Alessandro",Victim,England,21.0,Crew,Male,Restaurant Staff,,
+"PERACCHIO, Sig. Alberto",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"PERACCHIO, Sig. Sebastiano",Victim,England,17.0,Crew,Male,Restaurant Staff,,
+"PEROTTI, Sig. Alfonso",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"PIATTI, Sig. Louis",Victim,England,17.0,Crew,Male,Restaurant Staff,,
+"PIAZZA, Sig. Pompeo Gaspro",Victim,England,32.0,Crew,Male,Restaurant Staff,,
+"POGGI, Sig. Emilio",Victim,England,28.0,Crew,Male,Restaurant Staff,,
+"RATTI, Sig. Enrico",Victim,England,21.0,Crew,Male,Restaurant Staff,,
+"RICALDONE, Sig. Rinaldo Renato",Victim,England,22.0,Crew,Male,Restaurant Staff,,
+"RIGOZZI, Sig. Abele",Victim,England,22.0,Crew,Male,Restaurant Staff,,
+"ROTTA, Sig. Angelo Mario",Victim,England,23.0,Crew,Male,Restaurant Staff,,
+"SACCAGGI, Sig. Giovanni Giuseppe Emilio",Victim,England,24.0,Crew,Male,Restaurant Staff,,
+"SESIA, Sig. Giacomo",Victim,England,24.0,Crew,Male,Restaurant Staff,,
+"URBINI, Sig. Roberto",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"VALVASSORI, Sig. Ettore Luigi",Victim,England,35.0,Crew,Male,Restaurant Staff,,
+"VIONI, Sig. Roberto",Victim,England,25.0,Crew,Male,Restaurant Staff,,
+"VOEGELIN-DUBACH, Sig. Johannes",Victim,England,35.0,Crew,Male,Restaurant Staff,,
+"ZANETTI, Sig. Minio",Victim,England,20.0,Crew,Male,Restaurant Staff,,
+"HARDER, Mr William",Survivor,England,39.0,Crew,Male,Deck Crew,,
+"SAWYER, Mr Robert James",Victim,England,31.0,Crew,Male,Deck Crew,,
+"DUFFY, Mr William Luke",Victim,England,36.0,Crew,Male,Engineering Crew,,
+"COLLIS, Mr",,,,Passenger,Male,1st Class,7,
+"STEVENS, Mr G.",,,,Passenger,Male,1st Class,50,
+"CAMPBELL, Mr William Henry",Victim,Northern Ireland,21.0,Passenger,Male,2nd Class,239853,
+"REUCHLIN, Mr Jonkheer Johan George",Victim,Netherlands,38.0,Passenger,Male,1st Class,19972,
