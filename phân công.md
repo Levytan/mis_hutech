@@ -20,4 +20,5 @@
 |258***23|0.43253486083849735, 0.22609819386111168|
 
 Sinh viên nộp một file video duy nhất tên **MSSV_Họ_tên.mp4** (dung lượng dưới 100 MB).
+
 Link nộp bài: https://forms.gle/hKC18uViRRdZecb7A
