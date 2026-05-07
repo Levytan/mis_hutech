@@ -20,3 +20,5 @@
 3. https://ft-interactive.github.io/visual-vocabulary/
 4. https://www.tableau.com/visualization/data-visualization-best-practices
 5. https://data.ucop.edu/support-training/tableau-files/building_effective_dashboards.pdf
+# Đăng ký
+[Link đăng ký](https://docs.google.com/spreadsheets/d/1UwBNVjo0hOPjK4uz8CuI9PAOhj0us_zukn9A8uZqETY/edit?usp=sharing)
