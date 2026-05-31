@@ -1,1 +1,1 @@
-Nộp bài tại: https://forms.gle/sgFLePSxKrJ8AiaL7
+Nộp báo cáo nhóm tại: https://forms.gle/GUcwqybCThZAhvAV8
